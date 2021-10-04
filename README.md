@@ -1,5 +1,5 @@
-# larues-casas
-Subproyecto de mapa interactivo con las casas del pueblo de Larués para el sitio pueblodelarués.es
+# Mapa de casas de Larués
+Mapa interactivo con las casas del pueblo de Larués para el sitio [pueblodelarues.es](https://pueblodelarues.es).
 
 
 ## Dependencias
@@ -9,4 +9,4 @@ Subproyecto de mapa interactivo con las casas del pueblo de Larués para el siti
 Ejecutar ``npm install`` sobre el directorio raiz.
 
 ## Desplegar
-ejecutar ``npm start`` sobre el directorio raiz.
+Ejecutar ``npm start`` sobre el directorio raiz.
