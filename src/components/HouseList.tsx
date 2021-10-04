@@ -3,24 +3,24 @@ import './HouseList.css';
 import {House} from "../models/House";
 
 
-export function HouseList({ houseList }) {
+export function HouseList({ houseList, openModal }) {
     return (
         <div className="HouseList">
             <h3>Lista de casas</h3>
             <ul>
-                {houseList.map((house: House) => <HouseListItem house={house}/>)}
+                {houseList.map((house: House) => <HouseListItem house={house} openModal={openModal}/>)}
             </ul>
         </div>
     );
 }
 
 
-function HouseListItem({ house }) {
+function HouseListItem({ house, openModal }) {
     const listItemRef = useRef();
     house.listElement = listItemRef.current;
 
     const onHouseClick = () => {
-        // TODO openHouseModal
+        openModal(house);
     }
 
     return (

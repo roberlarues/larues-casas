@@ -1,12 +1,13 @@
-import React from 'react';
-import './LaruesMap.css';
+import React, {useRef, Fragment} from 'react';
 import {House} from "../models/House";
 
 
-export function LaruesMap({ createHouseList }) {
+export function LaruesMap({ createHouseList, openModal }) {
+
+    const mapRef = useRef();
 
     const onSvgLoaded = () => {
-        const houseLayerMap = document.getElementById('houses-svg');
+        const houseLayerMap = mapRef.current;
         const svgContent = (houseLayerMap as HTMLObjectElement).contentDocument;
         if (!svgContent) {
             console.error('Any houses svg found')
@@ -23,7 +24,7 @@ export function LaruesMap({ createHouseList }) {
                     const houseName = houseElement.getAttribute('inkscape:label');
                     const house = new House(houseName, houseElement);
                     houseList.push(house)
-                    configureHouse(house);
+                    configureHouse(house, openModal);
                 }
             }
 
@@ -34,29 +35,25 @@ export function LaruesMap({ createHouseList }) {
     }
 
     return (
-        <div className="LaruesMap">
-            <img src={process.env.PUBLIC_URL + '/casas.png'} className="bg-layer" width="100%" height="100%"
-                 alt="Fondo del mapa con las casas"/>
-            <object  id="houses-svg" data={process.env.PUBLIC_URL + '/prueba_mapa_casas_larues.svg'} onLoad={onSvgLoaded}
-                     className="house-layer" width="100%" height="100%">Casas</object>
-        </div >
+        <Fragment>
+            <object ref={mapRef} data={process.env.PUBLIC_URL + '/prueba_mapa_casas_larues.svg'} onLoad={onSvgLoaded}
+                    width="100%" height="100%">Mapa de casas</object>
+        </Fragment >
     );
 }
 
-function configureHouse(house: House): void {
+function configureHouse(house: House, openModal: (house: House) => void): void {
 
     const onHouseEnter = (house: House) => {
         house.highlightOn();
-        // TODO highlight house name in list
     }
 
     const onHouseExit = (house: House) => {
         house.highlightOff();
-        // TODO remove highlight house name in list
     }
 
     const onHouseClick = (house: House) => {
-        // TODO openHouseModal
+        openModal(house);
     }
 
     house.mapElement.addEventListener('mouseover', () => onHouseEnter(house));
