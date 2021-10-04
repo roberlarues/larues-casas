@@ -1,0 +1,18 @@
+
+.LaruesMap {
+    height: auto;
+    position: relative;
+}
+
+.bg-layer{
+    width: 100%;
+    height: auto;
+    position: absolute;
+}
+
+.house-layer{
+    width: 100%;
+    height: auto;
+    position: absolute;
+    z-index: 10;
+}

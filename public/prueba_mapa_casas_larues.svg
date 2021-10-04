@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="753"
+   height="693"
+   viewBox="0 0 199.23126 183.35625"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="prueba_mapa_casas_larues.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.323827"
+     inkscape:cx="310.60447"
+     inkscape:cy="322.28394"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     width="753px"
+     units="px" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient2994"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2992" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="BaseLayer"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <image
+       width="199.23126"
+       height="183.35625"
+       preserveAspectRatio="none"
+       href="casas.png"
+       id="image3464"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="houses-svg-layer"
+     inkscape:label="HousesLayer">
+    <path
+       style="fill:#382bcb;fill-opacity:0.301075;stroke:#33339f;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 73.124358,102.19053 -0.122383,7.15945 10.525014,0.24477 0.06119,-12.911498 -3.610324,0.61192 -0.06119,4.099858 -2.570062,-0.0612 v 0.79549 z"
+       id="path5983"
+       inkscape:label="CasaFrancisca" />
+    <path
+       style="fill:#cb2b2b;stroke:#da3131;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.30107528"
+       d="m 67.861854,65.352985 -1.468607,10.76978 1.59099,0.244766 -0.183576,2.508869 4.40582,0.795496 0.367152,-2.876021 8.505677,1.223838 0.244769,-3.487938 4.528203,0.856686 0.122383,-7.710183 z"
+       id="path7668"
+       inkscape:label="Iglesia" />
+  </g>
+</svg>
