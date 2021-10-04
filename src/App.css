@@ -1,8 +1,18 @@
 .App {
   text-align: left;
+  display: flex;
 }
 
-.AppCanvas {
-  position: relative;
+.MapCanvas {
+  flex-basis: 100%;
   max-width: 900px;
+  position: relative;
+}
+
+.HouseListCanvas {
+  z-index: 50;
+  position: relative;
+  width: 200pt;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.17);
 }

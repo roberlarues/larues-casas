@@ -1,0 +1,15 @@
+
+.HouseList {
+    width: 100%;
+    height: 100%;
+    margin-left: 1em;
+}
+
+.highlight {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.no-highlight {
+    cursor: pointer;
+}

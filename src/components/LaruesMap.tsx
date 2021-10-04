@@ -1,8 +1,9 @@
 import React from 'react';
 import './LaruesMap.css';
+import {House} from "../models/House";
 
 
-export function LaruesMap() {
+export function LaruesMap({ createHouseList }) {
 
     const onSvgLoaded = () => {
         const houseLayerMap = document.getElementById('houses-svg');
@@ -12,15 +13,21 @@ export function LaruesMap() {
             return;
         }
 
-        const houseLayer = svgContent.getElementById('houses-svg-layer'); // TODO no funciona
+        const houseLayer = svgContent.getElementById('houses-svg-layer');
         if (houseLayer) {
             const numHouses = houseLayer.children.length;
+            const houseList = [];
             for (let i = 0; i < numHouses; i++) {
-                const houseItem = houseLayer.children.item(i) as SVGPathElement;
-                if (houseItem) {
-                    configureHouse(houseItem);
+                const houseElement = houseLayer.children.item(i) as SVGPathElement;
+                if (houseElement) {
+                    const houseName = houseElement.getAttribute('inkscape:label');
+                    const house = new House(houseName, houseElement);
+                    houseList.push(house)
+                    configureHouse(house);
                 }
             }
+
+            createHouseList(houseList);
         } else {
             console.error('not house layer found')
         }
@@ -36,33 +43,23 @@ export function LaruesMap() {
     );
 }
 
-function setDefaultHouseState(houseElement: SVGPathElement): void {
-    houseElement.style.opacity = '0.5';
-}
+function configureHouse(house: House): void {
 
-function setHighlightedHouseState(houseElement: SVGPathElement): void {
-    houseElement.style.opacity = '1';
-}
-
-function configureHouse(houseElement: SVGPathElement): void {
-
-    const onHouseEnter = (houseId: string, houseElement: SVGPathElement) => {
-        setHighlightedHouseState(houseElement);
+    const onHouseEnter = (house: House) => {
+        house.highlightOn();
         // TODO highlight house name in list
     }
 
-    const onHouseExit = (houseId: string, houseElement: SVGPathElement) => {
-        setDefaultHouseState(houseElement);
+    const onHouseExit = (house: House) => {
+        house.highlightOff();
         // TODO remove highlight house name in list
     }
 
-    const onHouseClick = (houseId: string, houseElement: SVGPathElement) => {
+    const onHouseClick = (house: House) => {
         // TODO openHouseModal
     }
 
-    const houseName = houseElement.getAttribute('inkscape:label');
-    houseElement.addEventListener('mouseover', () => onHouseEnter(houseName ? houseName : '', houseElement));
-    houseElement.addEventListener('mouseout', () => onHouseExit(houseName ? houseName : '', houseElement));
-    houseElement.addEventListener('click', () => onHouseClick(houseName ? houseName : '', houseElement));
-    setDefaultHouseState(houseElement);
+    house.mapElement.addEventListener('mouseover', () => onHouseEnter(house));
+    house.mapElement.addEventListener('mouseout', () => onHouseExit(house));
+    house.mapElement.addEventListener('click', () => onHouseClick(house));
 }
