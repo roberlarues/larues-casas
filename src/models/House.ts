@@ -1,15 +1,16 @@
+import {HouseData} from "./HouseData";
 
-export class House {
+export class House extends HouseData {
     name: string;
     mapElement: SVGPathElement;
     listElement: HTMLElement;
 
 
-    constructor(name: string, mapElement: SVGPathElement) {
+    constructor(name: string, mapElement: SVGPathElement, houseData: HouseData) {
+        super();
         this.name = name;
         this.mapElement = mapElement;
-
-        this.highlightOff();
+        Object.assign(this, houseData);
     }
 
     highlightOn(): void {

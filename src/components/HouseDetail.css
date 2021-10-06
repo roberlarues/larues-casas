@@ -1,0 +1,31 @@
+
+.HouseDetail {
+    display: flex;
+    max-width: 1200px;
+}
+
+.house-detail-item {
+    flex-basis: 50%;
+    margin: 1em;
+}
+
+.house-detail-item h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.close-button {
+    position: absolute;
+    top: 1em;
+    right: 1em;
+    border: none;
+    background: none;
+    padding: 5pt;
+    border-radius: 4pt;
+    cursor: pointer;
+}
+
+.close-button:hover {
+    text-decoration: underline;
+    background-color: lightgray;
+}

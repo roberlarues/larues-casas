@@ -1,0 +1,13 @@
+{
+  "Francisca": {
+    "type": "particular",
+    "description": null
+  },
+  "Iglesia": {
+    "type": "public",
+    "description": "La iglesia de Larués es muy maja. No es del tiempo de Matusalén pero es viejarra. De momento ya vale de descripción",
+    "images": [
+      "Iglesia.JPG"
+    ]
+  }
+}

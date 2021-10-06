@@ -1,0 +1,8 @@
+{
+  "house-color": {
+    "particular": "orange",
+    "public": "red"
+  },
+  "default-image": "no_image.svg",
+  "house-image-folder": "houses"
+}

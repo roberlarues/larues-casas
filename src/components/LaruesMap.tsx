@@ -1,12 +1,31 @@
 import React, {useRef, Fragment} from 'react';
 import {House} from "../models/House";
 
+const fetchOptions = {
+    headers : {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json'
+    }
+};
 
 export function LaruesMap({ createHouseList, openModal }) {
 
+    const getHousesData= async () => {
+        const housesData = await fetch('data/houses.json', fetchOptions)
+        return housesData.json();
+    }
+
+    const getConfigData= async () => {
+        const configData = await fetch('data/config.json', fetchOptions);
+        return configData.json();
+    }
+
     const mapRef = useRef();
 
-    const onSvgLoaded = () => {
+    const onSvgLoaded = async () => {
+        const configData = await getConfigData();
+        const housesData = await getHousesData();
+
         const houseLayerMap = mapRef.current;
         const svgContent = (houseLayerMap as HTMLObjectElement).contentDocument;
         if (!svgContent) {
@@ -22,9 +41,9 @@ export function LaruesMap({ createHouseList, openModal }) {
                 const houseElement = houseLayer.children.item(i) as SVGPathElement;
                 if (houseElement) {
                     const houseName = houseElement.getAttribute('inkscape:label');
-                    const house = new House(houseName, houseElement);
+                    const house = new House(houseName, houseElement, housesData[houseName]);
+                    configureHouse(house, configData, openModal);
                     houseList.push(house)
-                    configureHouse(house, openModal);
                 }
             }
 
@@ -36,27 +55,25 @@ export function LaruesMap({ createHouseList, openModal }) {
 
     return (
         <Fragment>
-            <object ref={mapRef} data={process.env.PUBLIC_URL + '/prueba_mapa_casas_larues.svg'} onLoad={onSvgLoaded}
+            <object ref={mapRef} data={process.env.PUBLIC_URL + '/images/prueba_mapa_casas_larues.svg'} onLoad={onSvgLoaded}
                     width="100%" height="100%">Mapa de casas</object>
         </Fragment >
     );
 }
 
-function configureHouse(house: House, openModal: (house: House) => void): void {
+function configureHouse(house: House, configData: any, openModal: (house: House) => void): void {
+    const color = house.color ? house.color : configData['house-color'][house.type];
+    house.mapElement.style.fill = color;
+    house.mapElement.style.stroke = color;
 
-    const onHouseEnter = (house: House) => {
-        house.highlightOn();
-    }
+    house.images = house.images && house.images.length > 0 ?
+        house.images.map(image => `${configData['house-image-folder']}/${image}`) :
+        [ configData['default-image'] ]
 
-    const onHouseExit = (house: House) => {
-        house.highlightOff();
-    }
+    house.highlightOff();
 
-    const onHouseClick = (house: House) => {
-        openModal(house);
-    }
+    house.mapElement.addEventListener('mouseover', () => house.highlightOn());
+    house.mapElement.addEventListener('mouseout', () => house.highlightOff());
+    house.mapElement.addEventListener('click', () => openModal(house));
 
-    house.mapElement.addEventListener('mouseover', () => onHouseEnter(house));
-    house.mapElement.addEventListener('mouseout', () => onHouseExit(house));
-    house.mapElement.addEventListener('click', () => onHouseClick(house));
 }

@@ -4,6 +4,7 @@ import { HouseList } from "./components/HouseList";
 import Modal from 'react-modal';
 import './App.css';
 import {House} from "./models/House";
+import {HouseDetail} from "./components/HouseDetail";
 
 Modal.setAppElement("#root");
 
@@ -13,9 +14,8 @@ function App() {
     const [currentHouse, setCurrentHouse] = useState(null);
 
     function openModal(house: House) {
-        console.log('openModal');
-        setModalOpen(true);
         setCurrentHouse(house);
+        setModalOpen(true);
     }
 
     function closeModal() {
@@ -23,7 +23,6 @@ function App() {
     }
 
     const createHouseList = (houseList: House[]) => {
-        console.log('creating house list');
         const newHouseList = [...houseList];
         setHouseList(newHouseList);
     }
@@ -42,6 +41,7 @@ function App() {
     return (
       <div>
           {/*<div> Botones flotante</div>*/}
+
           <div className="main-content">
               <div className="MapCanvas">
                   <LaruesMap createHouseList={createHouseList} openModal={openModal}/>
@@ -51,12 +51,8 @@ function App() {
               </div>
           </div>
 
-          <Modal
-              isOpen={modalIsOpen}
-              onRequestClose={closeModal}
-              style={customModalStyles}
-              contentLabel="Example Modal">
-              <div>House details of {currentHouse?.name}</div>
+          <Modal isOpen={modalIsOpen} onRequestClose={closeModal} style={customModalStyles} contentLabel="Detalle">
+              <HouseDetail house={currentHouse} closeModal={closeModal} />
           </Modal>
       </div>
     );
