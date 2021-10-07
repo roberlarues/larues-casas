@@ -1,5 +1,9 @@
 
 .HouseDetail {
+    height: 100%;
+}
+
+.house-detail-content {
     display: flex;
     max-width: 1200px;
     height: 100%;
@@ -8,13 +12,29 @@
 }
 
 .house-detail-item {
+    height: 100%;
     flex-basis: 50%;
-    margin: 1em;
+    margin: auto 1em auto 1em;
+    display: flex;
+    flex-direction: column;
 }
 
 .house-detail-item h1 {
     text-align: center;
     text-decoration: underline;
+}
+
+.house-detail-description {
+    height: 0;
+    flex-grow: 1;
+    overflow-y: auto;
+}
+
+img {
+    width: auto;
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
 }
 
 .close-button {

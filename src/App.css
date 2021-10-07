@@ -5,6 +5,8 @@
   max-width: 1200px;
   align-items: stretch;
   flex-wrap: wrap;
+  height: 100%;
+  position: absolute;
 }
 
 .MapCanvas {
@@ -26,4 +28,21 @@
   position: absolute;
   top: 0;
   right: 0;
+}
+
+@media (max-width: 600px) {
+  .main-content {
+  }
+
+  .MapCanvas {
+    flex-basis: 100%;
+  }
+
+  .HouseListCanvas {
+    display: none;
+  }
+
+  .map-right-gradient {
+    display: none;
+  }
 }
