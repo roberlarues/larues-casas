@@ -6,9 +6,9 @@ import {House} from "../models/House";
 export function HouseList({ houseList, openModal }) {
     return (
         <div className="HouseList">
-            <h3>Lista de casas</h3>
+            <h4>Lista de casas</h4>
             <ul>
-                {houseList.map((house: House) => <HouseListItem house={house} openModal={openModal}/>)}
+                {houseList.map((house: House) => <HouseListItem house={house} key={house.id} openModal={openModal}/>)}
             </ul>
         </div>
     );
@@ -25,6 +25,7 @@ function HouseListItem({ house, openModal }) {
 
     return (
         <li ref={listItemRef}
+            className="no-highlight"
             onClick={onHouseClick}
             onMouseEnter={ () => house.highlightOn() }
             onMouseLeave={ () => house.highlightOff() }>

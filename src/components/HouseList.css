@@ -1,6 +1,8 @@
 
 .HouseList {
-    margin-left: 1em;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
 }
 
 .highlight {
@@ -10,4 +12,22 @@
 
 .no-highlight {
     cursor: pointer;
+}
+
+.no-highlight:hover {
+    font-weight: bold;
+}
+
+h4 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+ul {
+    height: 0;
+    flex-grow: 1;
+    overflow-y: auto;
+    list-style: none;
+    padding-left: 1em;
 }

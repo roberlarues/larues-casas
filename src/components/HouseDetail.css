@@ -2,6 +2,9 @@
 .HouseDetail {
     display: flex;
     max-width: 1200px;
+    height: 100%;
+    align-items: center;
+    margin: auto;
 }
 
 .house-detail-item {

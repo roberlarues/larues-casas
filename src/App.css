@@ -2,17 +2,28 @@
 .main-content {
   text-align: left;
   display: flex;
+  max-width: 1200px;
+  align-items: stretch;
+  flex-wrap: wrap;
 }
 
 .MapCanvas {
-  flex-basis: 100%;
-  max-width: 900px;
+  flex-basis: 80%;
   position: relative;
+  height: 100%;
 }
 
 .HouseListCanvas {
   position: relative;
-  width: 200pt;
+  flex-grow: 1;
+  background: linear-gradient(90deg, rgba(250,250,250,1) 0%, rgba(250,250,250,1) 100%);
+}
+
+.map-right-gradient {
+  background: linear-gradient(90deg, rgba(0,0,0,0) 0%, rgba(250,250,250,0.5) 50%, rgba(250,250,250,1) 100%);
+  width: 20pt;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.17);
+  position: absolute;
+  top: 0;
+  right: 0;
 }

@@ -27,31 +27,19 @@ function App() {
         setHouseList(newHouseList);
     }
 
-    const customModalStyles = {
-        content: {
-            top: '50%',
-            left: '50%',
-            right: 'auto',
-            bottom: 'auto',
-            marginRight: '-50%',
-            transform: 'translate(-50%, -50%)'
-        },
-    };
-
     return (
       <div>
-          {/*<div> Botones flotante</div>*/}
-
           <div className="main-content">
               <div className="MapCanvas">
                   <LaruesMap createHouseList={createHouseList} openModal={openModal}/>
+                  <div className="map-right-gradient"/>
               </div>
               <div className="HouseListCanvas">
                   <HouseList houseList={houseList} openModal={openModal}/>
               </div>
           </div>
 
-          <Modal isOpen={modalIsOpen} onRequestClose={closeModal} style={customModalStyles} contentLabel="Detalle">
+          <Modal isOpen={modalIsOpen} onRequestClose={closeModal} contentLabel="Detalle">
               <HouseDetail house={currentHouse} closeModal={closeModal} />
           </Modal>
       </div>
