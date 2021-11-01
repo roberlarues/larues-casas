@@ -26,6 +26,7 @@ function HouseListItem({ house, openModal }) {
     return (
         <li ref={listItemRef}
             className="no-highlight"
+            title={house.name}
             onClick={onHouseClick}
             onMouseEnter={ () => house.highlightOn() }
             onMouseLeave={ () => house.highlightOff() }>

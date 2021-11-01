@@ -8,11 +8,23 @@
 .highlight {
     font-weight: bold;
     cursor: pointer;
+    width: fit-content;
 }
 
 .no-highlight {
     cursor: pointer;
+    width: fit-content;
 }
+
+.no-highlight::before {
+    display: block;
+    content: attr(title);
+    font-weight: bold;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+}
+
 
 .no-highlight:hover {
     font-weight: bold;
