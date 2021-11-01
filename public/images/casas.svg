@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="753"
-   height="693"
-   viewBox="0 0 199.23126 183.35625"
+   width="862"
+   height="862"
+   viewBox="0 0 862 862"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -24,16 +24,16 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="4.323827"
-     inkscape:cx="310.72011"
-     inkscape:cy="322.28394"
+     inkscape:zoom="0.33158944"
+     inkscape:cx="2124.6153"
+     inkscape:cy="1892.4004"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="houses-svg-layer"
-     width="753px"
+     width="862px"
      units="px" />
   <defs
      id="defs2">
@@ -52,14 +52,15 @@
      id="layer1"
      sodipodi:insensitive="true">
     <image
-       width="199.23126"
-       height="183.35625"
+       width="862"
+       height="862"
        preserveAspectRatio="none"
        xlink:href="casas.png"
        href="casas.png"
        id="image3464"
        x="0"
-       y="0" />
+       y="0"
+       style="stroke-width:0.68517" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -67,18 +68,15 @@
      inkscape:label="HousesLayer">
     <path
        style="fill:#382bcb;fill-opacity:0.301075;stroke:#33339f;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 73.124358,102.19053 -0.122383,7.15945 10.525014,0.24477 0.06119,-12.911498 -3.610324,0.61192 -0.06119,4.099858 -2.570062,-0.0612 v 0.79549 z"
+       d="m 394.28075,452.17098 5.54448,30.08094 36.3241,-8.47166 -12.23499,-51.19196 -11.74954,4.77989 2.94322,15.34814 -8.96003,2.27877 1.03319,3.95401 z"
        id="path5983"
-       inkscape:label="Francisca" />
+       inkscape:label="Francisca"
+       sodipodi:nodetypes="ccccccccc" />
     <path
        style="fill:#cb2b2b;fill-opacity:0.301075;stroke:#da3131;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 67.861854,65.352985 -1.468607,10.76978 1.59099,0.244766 -0.183576,2.508869 4.40582,0.795496 0.367152,-2.876021 8.505677,1.223838 0.244769,-3.487938 4.528203,0.856686 0.122383,-7.710183 z"
+       d="m 343.26968,333.4636 4.32006,38.01084 6.54793,-0.47231 0.3653,6.51605 16.22226,-0.40175 -0.31896,-6.76132 30.5399,-1.70738 -0.9448,-13.27565 13.55274,-1.23297 -3.11653,-30.68981 -37.67612,5.61729 z"
        id="path7668"
-       inkscape:label="Iglesia" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 61.865044,97.8459 -0.428345,12.54435 11.565276,-1.04027 v -4.09986 l -5.446083,-0.12238 0.244769,-7.220647 z"
-       id="path893"
-       inkscape:label="donau" />
+       inkscape:label="Iglesia"
+       sodipodi:nodetypes="cccccccccccc" />
   </g>
 </svg>
