@@ -25,14 +25,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.323827"
-     inkscape:cx="310.60447"
+     inkscape:cx="310.72011"
      inkscape:cy="322.28394"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="houses-svg-layer"
      width="753px"
      units="px" />
   <defs
@@ -55,6 +55,7 @@
        width="199.23126"
        height="183.35625"
        preserveAspectRatio="none"
+       xlink:href="casas.png"
        href="casas.png"
        id="image3464"
        x="0"
@@ -70,9 +71,14 @@
        id="path5983"
        inkscape:label="Francisca" />
     <path
-       style="fill:#cb2b2b;stroke:#da3131;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.30107528"
+       style="fill:#cb2b2b;fill-opacity:0.301075;stroke:#da3131;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 67.861854,65.352985 -1.468607,10.76978 1.59099,0.244766 -0.183576,2.508869 4.40582,0.795496 0.367152,-2.876021 8.505677,1.223838 0.244769,-3.487938 4.528203,0.856686 0.122383,-7.710183 z"
        id="path7668"
        inkscape:label="Iglesia" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 61.865044,97.8459 -0.428345,12.54435 11.565276,-1.04027 v -4.09986 l -5.446083,-0.12238 0.244769,-7.220647 z"
+       id="path893"
+       inkscape:label="donau" />
   </g>
 </svg>

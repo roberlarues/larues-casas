@@ -11,5 +11,10 @@
     "images": [
       "Iglesia.JPG"
     ]
+  },
+  "donau": {
+    "id": 2,
+    "type": "particular",
+    "description": null
   }
 }

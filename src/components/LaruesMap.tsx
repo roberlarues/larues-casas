@@ -72,7 +72,12 @@ function configureHouse(house: House, configData: any, openModal: (house: House)
     if (house.mapElement) {
         const color = house.color ? house.color : configData['house-color'][house.type];
         house.mapElement.style.fill = color;
+        house.mapElement.style.fillOpacity = '0.301075';
         house.mapElement.style.stroke = color;
+        house.mapElement.style.strokeWidth ='0.264583px';
+        house.mapElement.style.strokeLinecap = 'butt';
+        house.mapElement.style.strokeLinejoin = 'miter';
+        house.mapElement.style.strokeOpacity = '1';
         house.mapElement.style.filter = `drop-shadow(0px 0px 3px ${color})`;
 
         house.mapElement.addEventListener('mouseover', () => house.highlightOn());
