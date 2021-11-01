@@ -2,7 +2,7 @@
   "Francisca": {
     "id": 0,
     "type": "particular",
-    "name": "Francisca",
+    "name": "Casa Francisca",
     "description": null
   },
   "Iglesia": {
@@ -17,7 +17,7 @@
   "donau": {
     "id": 2,
     "type": "particular",
-    "name": "Donau",
+    "name": "Casa Donau",
     "description": null
   }
 }

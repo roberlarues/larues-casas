@@ -24,6 +24,11 @@
     flex-direction: column;
 }
 
+.house-detail-content-no-description .house-detail-item {
+    height: auto;
+    flex-basis: auto;
+}
+
 .house-detail-item h1 {
     text-align: center;
     text-decoration: underline;
@@ -67,5 +72,8 @@ img {
 
     .house-detail-description {
         height: 100%;
+        overflow-y: unset;
+        margin-top: 0;
+        margin-bottom: 1em;
     }
 }

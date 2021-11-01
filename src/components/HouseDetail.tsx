@@ -16,7 +16,9 @@ export function HouseDetail({ house, closeModal }) {
                 </div>
                 <div className="house-detail-item">
                     <h1>{house.name}</h1>
-                    <p className="house-detail-description">{house.description}</p>
+                    {house.description &&
+                        <p className="house-detail-description">{house.description}</p>
+                    }
                 </div>
             </div>
         </div>

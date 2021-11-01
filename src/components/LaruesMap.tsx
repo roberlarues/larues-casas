@@ -4,7 +4,9 @@ import {House} from "../models/House";
 const fetchOptions = {
     headers : {
         'Content-Type': 'application/json',
-        'Accept': 'application/json'
+        'Accept': 'application/json',
+        'pragma': 'no-cache',
+        'cache-control': 'no-cache'
     }
 };
 
