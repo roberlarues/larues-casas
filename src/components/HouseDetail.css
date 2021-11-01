@@ -4,11 +4,16 @@
 }
 
 .house-detail-content {
-    display: flex;
     max-width: 1200px;
     height: 100%;
     align-items: center;
     margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.house-detail-content-no-description {
+    flex-direction: column-reverse;
 }
 
 .house-detail-item {
@@ -42,13 +47,25 @@ img {
     top: 1em;
     right: 1em;
     border: none;
-    background: none;
     padding: 5pt;
     border-radius: 4pt;
     cursor: pointer;
+    background-color: white;
 }
 
 .close-button:hover {
     text-decoration: underline;
     background-color: lightgray;
+}
+
+@media (max-width: 600px) {
+
+    .house-detail-content {
+        height: 100%;
+        flex-direction: column;
+    }
+
+    .house-detail-description {
+        height: 100%;
+    }
 }

@@ -1,4 +1,4 @@
-import React, {useRef} from 'react';
+import React, {useEffect, useRef} from 'react';
 import './HouseList.css';
 import {House} from "../models/House";
 
@@ -17,7 +17,7 @@ export function HouseList({ houseList, openModal }) {
 
 function HouseListItem({ house, openModal }) {
     const listItemRef = useRef();
-    house.listElement = listItemRef.current;
+    useEffect( () => house.listElement = listItemRef.current, [house]);
 
     const onHouseClick = () => {
         openModal(house);

@@ -1,14 +1,15 @@
 import {HouseData} from "./HouseData";
 
 export class House extends HouseData {
+    key: string;
     name: string;
     mapElement: SVGPathElement;
     listElement: HTMLElement;
 
 
-    constructor(name: string, mapElement: SVGPathElement, houseData: HouseData) {
+    constructor(key: string, mapElement: SVGPathElement, houseData: HouseData) {
         super();
-        this.name = name;
+        this.key = key;
         this.mapElement = mapElement;
         Object.assign(this, houseData);
     }
@@ -21,6 +22,8 @@ export class House extends HouseData {
 
         if (this.listElement) {
             this.listElement.className = 'highlight';
+        } else {
+            console.log('no element ;(')
         }
     }
 

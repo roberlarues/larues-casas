@@ -10,7 +10,7 @@ export function HouseDetail({ house, closeModal }) {
                 Cerrar
             </button>
 
-            <div className="house-detail-content">
+            <div className={ 'house-detail-content' + (house.description !== null ? '' : ' house-detail-content-no-description')}>
                 <div className="house-detail-item">
                     <img src={process.env.PUBLIC_URL + '/images/' + house.images[0]} alt="Sin imagen"/>
                 </div>

@@ -2,11 +2,13 @@
   "Francisca": {
     "id": 0,
     "type": "particular",
+    "name": "Francisca",
     "description": null
   },
   "Iglesia": {
     "id": 1,
     "type": "public",
+    "name": "Iglesia",
     "description": "La Iglesia parroquial, dedicada a San Vicente Mártir, es de origen gótico del s. XVI. Se compone de tres naves y crucero, cubiertas por bóveda de tercelete, sobre el que se eleva un cimborio octogonal. Sobresale su portada flamígera, y la torre se alza con tres cuerpos de planta cuadrada.",
     "images": [
       "Iglesia.JPG"
@@ -15,6 +17,7 @@
   "donau": {
     "id": 2,
     "type": "particular",
+    "name": "Donau",
     "description": null
   }
 }

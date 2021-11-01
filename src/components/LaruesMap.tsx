@@ -40,8 +40,8 @@ export function LaruesMap({ createHouseList, openModal }) {
             for (let i = 0; i < numHouses; i++) {
                 const houseElement = houseLayer.children.item(i) as SVGPathElement;
                 if (houseElement) {
-                    const houseName = houseElement.getAttribute('inkscape:label');
-                    const house = new House(houseName, houseElement, housesData[houseName]);
+                    const houseKey = houseElement.getAttribute('inkscape:label');
+                    const house = new House(houseKey, houseElement, housesData[houseKey]);
                     configureHouse(house, configData, openModal);
                     houseList.push(house)
                 }
@@ -55,7 +55,7 @@ export function LaruesMap({ createHouseList, openModal }) {
 
     return (
         <Fragment>
-            <object ref={mapRef} data={process.env.PUBLIC_URL + '/images/prueba_mapa_casas_larues.svg'} onLoad={onSvgLoaded}
+            <object ref={mapRef} data={process.env.PUBLIC_URL + '/images/casas.svg'} onLoad={onSvgLoaded}
                     width="100%" height="100%">Mapa de casas</object>
         </Fragment >
     );
