@@ -16,7 +16,7 @@ export class House extends HouseData {
 
     highlightOn(): void {
         if (this.mapElement) {
-            this.mapElement.style.opacity = '1';
+            this.mapElement.style.fillOpacity = '0.3';
             this.mapElement.style.cursor = 'pointer'
         }
 
@@ -29,7 +29,7 @@ export class House extends HouseData {
 
     highlightOff(): void {
         if (this.mapElement) {
-            this.mapElement.style.opacity = '0.5';
+            this.mapElement.style.fillOpacity = '0.1';
         }
 
         if (this.listElement) {
