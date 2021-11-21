@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="862"
-   height="862"
-   viewBox="0 0 862 862"
+   width="753"
+   height="693"
+   viewBox="0 0 199.23126 183.35625"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -24,16 +24,16 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.33158944"
-     inkscape:cx="2124.6153"
-     inkscape:cy="1892.4004"
+     inkscape:zoom="1.6328077"
+     inkscape:cx="434.52758"
+     inkscape:cy="302.85256"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="houses-svg-layer"
-     width="862px"
+     width="753px"
      units="px" />
   <defs
      id="defs2">
@@ -52,31 +52,522 @@
      id="layer1"
      sodipodi:insensitive="true">
     <image
-       width="862"
-       height="862"
+       width="199.23126"
+       height="199.23126"
        preserveAspectRatio="none"
        xlink:href="casas.png"
        href="casas.png"
        id="image3464"
        x="0"
-       y="0"
-       style="stroke-width:0.68517" />
+       y="0" />
   </g>
   <g
-     inkscape:groupmode="layer"
      id="houses-svg-layer"
-     inkscape:label="HousesLayer">
+     inkscape:label="Casas">
     <path
-       style="fill:#382bcb;fill-opacity:0.301075;stroke:#33339f;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 394.28075,452.17098 5.54448,30.08094 36.3241,-8.47166 -12.23499,-51.19196 -11.74954,4.77989 2.94322,15.34814 -8.96003,2.27877 1.03319,3.95401 z"
-       id="path5983"
-       inkscape:label="Francisca"
-       sodipodi:nodetypes="ccccccccc" />
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 113.89452,107.79303 5.11965,-0.35066 -0.98185,-6.73268 -5.11965,0.35066 0.0701,2.52475 z"
+       id="path366"
+       inkscape:label="ZZZTejedor" />
     <path
-       style="fill:#cb2b2b;fill-opacity:0.301075;stroke:#da3131;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 343.26968,333.4636 4.32006,38.01084 6.54793,-0.47231 0.3653,6.51605 16.22226,-0.40175 -0.31896,-6.76132 30.5399,-1.70738 -0.9448,-13.27565 13.55274,-1.23297 -3.11653,-30.68981 -37.67612,5.61729 z"
-       id="path7668"
-       inkscape:label="Iglesia"
-       sodipodi:nodetypes="cccccccccccc" />
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 70.192934,116.49251 -8.228833,0.89228 -0.09914,5.94855 8.724545,-1.58628 z"
+       id="path345"
+       inkscape:label="ZZZAnaya" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 92.733978,98.001139 7.182493,-2.500572 0.106409,-1.383294 -4.256295,-4.522312 -2.34096,2.074942 -2.872999,1.330092 0.90446,1.117278 z"
+       id="path447"
+       inkscape:label="ZZZMuriel" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 85.272294,48.639732 9.654622,2.68863 -1.833155,5.927203 -0.85548,-0.336079 -3.269128,-1.283208 -2.474759,-0.122211 0.121161,-0.60789 -3.564644,-0.532038 z"
+       id="path590"
+       inkscape:label="ZZZRoñaque" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 55.887275,82.965903 -0.112826,2.971125 2.783081,0.112829 v 0.564137 l 4.137011,0.188047 v -2.745473 l -3.610483,-0.225655 -0.639357,-0.4137 z"
+       id="path815"
+       inkscape:label="ZZZJusto" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 98.423292,97.616543 1.210122,4.195087 -0.322699,1.69418 1.452145,4.35644 0.40338,1.69417 -8.793561,2.25889 -1.290796,-7.26073 2.904291,-0.56473 0.08068,-1.21012 2.984968,-0.56472 -0.887423,-3.549695 z"
+       id="path321"
+       inkscape:label="Francisca" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 104.31255,109.23372 -3.14631,0.3227 -1.855527,-6.05061 0.322699,-1.69418 -1.210122,-4.195089 2.09755,-1.129446 1.04877,2.500919 1.04877,4.356436 1.6135,3.8724 z"
+       id="path356"
+       inkscape:label="Babil" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 104.31255,109.23372 5.16319,-1.04877 -0.40337,-1.6135 -0.24203,-3.30767 -0.40337,-0.88742 -0.16135,-3.953068 4.19509,0.08067 5.40522,0.242025 0.16134,-1.210122 h 2.66227 l -0.0807,-1.371473 -5.56656,-0.968097 -7.26074,0.08067 -2.98497,0.242025 1.04878,7.09938 -3.227,0.72607 1.6135,3.8724 z"
+       id="path358"
+       inkscape:label="Bernardo" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 102.61838,103.34445 3.22697,-0.72608 -1.04878,-7.09938 -4.27573,0.968103 1.04877,2.500921 z"
+       id="path360"
+       inkscape:label="Zapatera" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 109.47574,108.18495 4.41878,-0.39192 -0.91172,-4.20793 -0.35066,-4.909242 -4.36652,-0.252568 0.16135,3.95307 0.40337,0.88742 0.24203,3.30767 z"
+       id="path362"
+       inkscape:label="Indalecio" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 112.91267,101.06035 5.11965,-0.35066 4.34819,0.2104 -0.14027,-3.366346 -1.5507,-0.01788 h -2.66227 l -0.16134,1.210122 -5.23379,-0.07013 z"
+       id="path364"
+       inkscape:label="Sastre" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 119.01417,107.44237 3.99753,-0.0701 -0.63119,-6.45215 -4.34819,-0.2104 z"
+       id="path368"
+       inkscape:label="Miguelanaya" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 91.081883,104.55458 2.904289,-0.56473 0.08068,-1.21012 2.984968,-0.56472 -0.887423,-3.549695 v 0 0 l -0.297916,-0.83234 -5.372735,2.317655 z"
+       id="path370"
+       inkscape:label="Donau" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 90.669326,101.6255 -3.546708,1.08859 -0.491622,-0.42139 -5.091811,1.05348 1.615334,8.91944 0.526738,1.65045 0.772551,0.77255 7.918871,-2.87331 -1.290796,-7.26073 z"
+       id="path372"
+       inkscape:label="Abadía" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 106.78243,94.308654 0.99911,0.968308 7.26074,-0.08067 5.56656,0.968097 1.40973,-7.294131 -0.82008,-0.431618 0.73375,-2.244415 -6.25847,-1.769637 -1.33802,-1.208532 -2.41706,-0.733753 -3.10765,6.215309 -0.99272,0.04316 z"
+       id="path374"
+       inkscape:label="Juanloren" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 95.948806,131.94579 -2.244418,-9.49561 0.604266,-0.12948 -2.071767,-6.73325 -5.30891,1.4675 1.553827,5.56788 -0.08632,0.77691 -0.733753,0.0432 1.683313,9.58193 z"
+       id="path376"
+       inkscape:label="Lherrero" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 92.236887,115.58745 4.825934,-1.39082 2.071594,5.74004 0.08631,1.16527 -4.912076,1.21876 z"
+       id="path378"
+       inkscape:label="Simon" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 133.20932,120.56054 0.0611,6.17163 0.30553,5.8661 -0.12221,4.7662 -8.67694,-0.85547 0.54995,-8.92136 0.12221,-7.82146 z"
+       id="path99"
+       inkscape:label="BarMolino" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 133.20932,120.56054 5.07173,0.48884 v 5.13284 l -0.24442,1.95537 0.0611,3.05526 -0.85547,0.0611 -0.12221,1.22211 -3.5441,0.12221 z"
+       id="path101"
+       inkscape:label="CasaMolino" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 138.28105,121.04938 5.25505,0.42774 -0.24443,3.5441 -0.18331,6.04942 -5.01063,0.12221 -0.0611,-3.05526 0.24442,-1.95537 z"
+       id="path103"
+       inkscape:label="GarajeMolino" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 165.16733,149.21888 -10.38788,0.48884 0.61105,13.99309 1.58874,0.30552 0.48884,4.94953 13.01541,-0.91658 -0.24443,-16.19288 -4.7662,-0.0611 z"
+       id="path177"
+       inkscape:label="Cementerio" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 81.147694,186.61526 8.065886,-1.95537 -1.283208,-4.33847 -7.943675,1.95537 z"
+       id="path179"
+       inkscape:label="Ermita" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 177.62236,110.48713 1.73107,-5.87057 -9.18218,-2.18265 -1.05369,3.76319 1.12896,2.03212 z"
+       id="path181"
+       inkscape:label="Amandas" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 126.81935,98.745991 4.81688,0.07526 0.8279,-4.591087 -5.56951,-0.97843 -0.67738,2.709495 z"
+       id="path183"
+       inkscape:label="Josete" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.002,90.993827 9.10691,-0.903163 -0.37632,-5.26846 -6.92426,0.526846 z"
+       id="path220"
+       inkscape:label="JoseLuis" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 118.75335,74.382193 -1.6135,6.292635 7.58344,3.146319 1.85552,-7.422083 z"
+       id="path222"
+       inkscape:label="Vives" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 118.75335,74.382193 -10.00368,-2.904295 -0.80675,1.532822 0.3227,2.742945 2.01687,2.500919 6.85736,2.420244 z"
+       id="path224"
+       inkscape:label="Vives2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 121.25427,68.976977 -2.2589,-0.726072 -0.24202,0.403373 -2.50092,-0.242022 -0.16135,0.887423 -0.80675,-0.161351 -0.72607,2.500921 1.85552,0.806747 0.0807,1.048773 10.08436,2.904295 1.69417,0.484047 0.80675,-4.114416 -7.90614,-2.097546 z"
+       id="path226"
+       inkscape:label="Alaman" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.07976,72.768695 0.72604,-4.679141 -8.30951,-1.452144 -0.24202,2.339567 -0.0807,1.694172 z"
+       id="path228"
+       inkscape:label="Sastrelargo" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 115.20366,57.117778 4.92116,0.403376 -0.0807,3.226991 0.80675,0.161351 -1.29079,5.485889 1.93619,0.242025 8.30951,1.452144 2.82362,-10.810425 -5.88926,-2.33957 -5.32454,-0.726075 h -6.29264 l -0.3227,2.016871 z"
+       id="path230"
+       inkscape:label="Jimenez" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 115.12296,54.213484 -2.1782,-0.08067 -0.72607,1.452147 -0.88743,4.67914 3.14632,0.403374 0.72608,-3.549693 -0.4034,-0.887423 z"
+       id="path232"
+       inkscape:label="Cojo" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 117.46255,61.63557 -2.98497,-0.968097 -3.14632,-0.403373 -0.80674,7.583432 4.75981,1.290796 0.80675,0.161351 0.16135,-0.887423 z"
+       id="path234"
+       inkscape:label="Huertalo" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 134.73474,73.960351 5.15541,1.090568 0.99143,-3.271705 -2.77599,-0.991426 -2.776,-0.198284 z"
+       id="path306"
+       inkscape:label="Juan" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 70.589504,121.74706 2.081993,-0.29742 1.090568,-2.082 -0.892284,-6.04769 -2.676847,0.49571 v 2.67685 z"
+       id="path308"
+       inkscape:label="Ramonito" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 61.864962,123.33334 -4.06485,0.0991 0.495713,-3.07342 -0.793139,-3.46999 4.329348,-0.63559 0.132067,1.1313 z"
+       id="path347"
+       inkscape:label="Angel" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 39.198174,127.92184 -1.825826,-6.56156 -1.198198,-6.39038 6.675673,2.22522 0.969968,2.22522 2.966966,-0.22822 1.882881,6.1051 -0.798798,1.19819 -0.114115,1.36937 -3.138136,0.74174 -0.399399,1.25526 -4.108106,0.91291 z"
+       id="path349"
+       inkscape:label="DonJose2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 58.483446,116.05398 -8.729723,-0.51351 -1.312312,-0.45646 -5.135131,-16.546537 3.594592,-0.741741 0.05705,-0.741741 8.615611,0.285285 2.681679,0.456456 v 10.213208 l -1.369367,0.0571 v 1.42642 l 2.054053,0.3994 z"
+       id="path351"
+       inkscape:label="DonJose" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 70.921876,105.38432 -1.825823,-0.62763 -1.654654,0.22823 0.05705,8.15915 3.195196,-0.74174 z"
+       id="path353"
+       inkscape:label="Carpintero" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 72.177131,110.17711 3.366365,0.51351 0.399399,-1.14114 0.855853,-9.699695 -3.936933,-0.513514 -1.084083,9.186179 0.456457,0.3994 z"
+       id="path355"
+       inkscape:label="Lugar" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 62.705664,114.22816 4.792785,-1.08409 -0.114107,-5.93393 -2.111111,-0.11411 -0.171172,-6.39039 -6.846842,-0.0571 0.05706,6.04805 3.195193,0.34234 z"
+       id="path357"
+       inkscape:label="Antondorencio" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 72.082961,98.745991 0.04033,7.139719 -0.322699,1.6135 h -0.887423 l 0.0087,-2.11489 -1.825821,-0.62763 -1.654654,0.22823 -0.05706,2.22522 -2.11111,-0.11411 -0.171173,-6.39039 -6.846842,-0.0571 -5e-6,-2.85281 6.688026,0.143512 z"
+       id="path396"
+       inkscape:label="Jacinta" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2.33957,119.96347 7.099385,4.35644 1.936196,-3.22699 -0.484049,-2.17822 0.726073,-1.85552 -1.532821,-3.46902 -2.9849692,-1.45215 -1.9361956,3.87239 h -0.564724 l -1.4521469,1.6135 z"
+       id="path437"
+       inkscape:label="Ana" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 34.044778,95.761023 6.050611,-0.403376 -0.726072,-6.131287 h -3.146319 l -2.662269,0.564724 z"
+       id="path439"
+       inkscape:label="Angelines" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 28.074839,69.461027 4.033742,3.065645 5.566564,-5.808588 -2.33957,-2.904294 -4.033743,-1.129448 -3.549692,5.243864 z"
+       id="path441"
+       inkscape:label="Parris2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 70.913174,92.04998 -0.726072,6.373312 5.628111,0.748327 4.522311,1.010871 0.58524,-8.725402 -3.883866,-0.744849 -3.19222,-0.212815 -0.266017,1.915332 z"
+       id="path443"
+       inkscape:label="Salanova" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 82.518873,99.597248 1.755722,-0.532037 0.798055,1.755719 7.661328,-2.819791 -1.27689,-3.883866 -1.596109,-2.02174 -8.352975,2.606979 z"
+       id="path445"
+       inkscape:label="Tresofraile" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 99.916471,95.500565 4.149889,-1.862125 3.45823,-6.224828 -8.086951,-3.564646 -1.59611,2.340961 -0.744852,1.702517 -1.330092,1.702515 4.256295,4.522314 z"
+       id="path484"
+       inkscape:label="Valentin" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 107.52459,87.413612 2.44737,-6.012013 -8.29977,-2.979407 -5.533178,0.26602 -0.319222,2.340959 4.043478,1.59611 -0.425629,1.223685 z"
+       id="path575"
+       inkscape:label="Juanjose" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 95.766585,77.570935 h 3.085814 l 2.819791,0.851257 1.33009,0.42563 1.33009,-3.298627 -2.07494,-1.010869 -1.91533,-0.798055 -4.043478,-2.340962 -1.117277,2.926202 z"
+       id="path578"
+       inkscape:label="Lobera" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 101.8318,70.760867 2.44737,1.01087 1.59611,-4.309497 -2.60698,-1.330092 -0.85126,1.808925 z"
+       id="path580"
+       inkscape:label="Rosario" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 96.032605,67.62185 1.808924,0.798055 -0.372427,0.42563 1.383297,0.638442 0.266017,-0.58524 2.819794,0.798055 0.47883,-1.755719 0.85126,-1.808925 -3.564644,-1.436499 -3.192219,-0.372425 -0.58524,1.489702 -3.937071,-0.15961 0.0532,2.287757 z"
+       id="path582"
+       inkscape:label="Blanca" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 86.775167,66.025741 0.15961,1.010869 1.915332,1.117278 3.192216,-0.212815 -0.0532,-2.287757 0.478832,-3.458239 -2.553774,-0.957665 -2.606979,0.425627 z"
+       id="path584"
+       inkscape:label="Granada" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 82.093246,62.354687 2.872997,0.26602 1.649314,-7.71453 -3.564646,-0.532038 -1.117277,6.544051 z"
+       id="path586"
+       inkscape:label="Navarrico" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 82.093246,62.354687 -0.532037,1.383297 2.340962,1.489702 2.806096,0.154869 0.598935,-3.719516 2.606979,-0.425627 0.03266,-2.668085 1.802601,0.122209 0.488841,-1.77205 -3.269128,-1.283208 -2.474759,-0.122211 -1.528156,7.10664 z"
+       id="path588"
+       inkscape:label="Juanlongas" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 72.470758,50.442336 -0.397185,6.47715 0.672158,2.108129 4.338468,0.763815 -0.09166,-1.649839 1.038788,-6.874335 -2.68863,-1.008234 z"
+       id="path592"
+       inkscape:label="Filemos" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 72.470758,50.442336 2.871938,-0.183314 2.68863,1.008234 -1.038789,6.874335 0.09166,1.649839 1.772055,0.45829 2.260891,-8.279754 1.374867,-5.530019 -8.676939,-3.238577 z"
+       id="path594"
+       inkscape:label="Buey" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 70.913174,92.04998 0.04314,-1.733526 -0.972637,-6.901104 3.566339,0.09263 0.463161,2.732651 0.138949,1.991593 -0.305448,2.267196 -0.266015,1.915332 z"
+       id="path631"
+       inkscape:label="Nati" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 73.550014,83.507978 6.067415,-0.09263 0.231579,1.760014 -3.334761,0.416846 0.370531,3.010548 0.15412,2.109481 -3.192222,-0.212815 0.305448,-2.267202 z"
+       id="path633"
+       inkscape:label="TeresaCarpintero" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 79.849008,85.175361 0.660405,1.391084 0.818518,0.03274 0.392888,1.669777 3.994367,-0.458369 0.229187,-1.080445 -0.196445,-0.851257 -0.06548,-0.294666 2.553777,-0.392891 0.360145,0.392891 4.125331,-0.458372 -0.294667,-2.782959 3.274071,-0.294667 -0.982221,-7.137476 -3.241331,0.196445 -0.360148,-0.294667 -3.928885,0.360149 -0.03274,0.458369 -2.160886,0.229185 -3.830664,0.85126 0.130963,1.342368 -1.866222,0.654815 0.142142,3.502456 0.04632,1.204217 z"
+       id="path674"
+       inkscape:label="Iglesia" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 80.187958,66.765754 5.481095,1.25159 -0.172633,1.035796 3.927396,1.165273 -0.47474,2.287384 -3.970557,0.388424 -0.567372,2.531597 -5.835833,1.134745 v -0.81053 z"
+       id="path680"
+       inkscape:label="Franceses" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 54.79661,39.414444 8.725334,-0.488918 0.188047,-0.827402 0.4137,-7.070532 -3.986575,-0.150437 -5.64138,0.601747 0.188045,6.656829 z"
+       id="path682"
+       inkscape:label="Butia" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 63.521944,38.925526 7.785105,4.813977 2.519817,-5.302898 -2.444599,-1.278713 0.300874,-0.639355 -7.709887,-4.099404 c 0,0 -0.263263,5.678991 -0.263263,5.678991 z"
+       id="path684"
+       inkscape:label="Asun" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 54.721392,40.204239 2.482207,0.188044 2.632643,1.316324 -1.128276,5.641379 -0.940231,3.234391 -3.046343,-1.541976 -2.707865,-1.015449 z"
+       id="path756"
+       inkscape:label="Parris" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 52.013527,48.026952 v 0 l -0.827403,-0.150437 -0.977839,3.76092 0.451311,1.316323 2.482209,0.827402 2.444597,0.263266 2.143725,0.601747 0.03761,-4.061796 -3.046343,-1.541976 z"
+       id="path758"
+       inkscape:label="German" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 52.728103,57.203599 2.444599,0.07522 2.369378,0.601747 0.188047,-3.234391 -2.143725,-0.601747 -2.444597,-0.263266 z"
+       id="path760"
+       inkscape:label="Constantina" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 57.54208,57.880564 -1.391539,8.274024 -0.150437,0.601747 -0.150437,0.526528 -4.400277,-0.752183 0.03761,-1.730024 1.165886,-2.595033 -0.601747,-0.526529 0.376092,-1.015449 -0.601747,-0.188048 0.902621,-3.271998 2.444599,0.07522 z"
+       id="path762"
+       inkscape:label="Concha" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 52.690495,54.909436 -3.309612,-0.789792 -0.676966,3.72331 -0.112826,1.805241 -0.639358,5.979864 0.225656,1.165886 3.083954,0.639355 0.188047,-0.90262 0.03761,-1.730024 1.165883,-2.595033 -0.601747,-0.526529 0.376092,-1.015449 -0.601744,-0.188048 0.902618,-3.271998 z"
+       id="path764"
+       inkscape:label="Radre" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 58.707966,56.338586 4.325059,0.526528 3.610483,1.090669 0.865011,-5.22768 -3.196781,-0.902621 0.150437,-1.730023 h -5.114853 l -0.827403,4.588322 0.451311,0.488921 z"
+       id="path801"
+       inkscape:label="Vicien" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 58.331874,58.707966 3.34722,0.112827 0.188045,0.45131 7.145748,2.106118 0.376092,-0.865013 1.842852,0.150437 -0.714574,-2.595036 -3.873749,-0.112826 -3.610483,-1.090669 -4.325059,-0.526528 z"
+       id="path803"
+       inkscape:label="Ferranton" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 58.331874,58.707966 -1.617196,8.53729 7.220968,1.165883 0.86501,-4.287448 0.188048,-3.911357 -3.121565,-0.940231 -0.188045,-0.45131 z"
+       id="path805"
+       inkscape:label="Estanquero" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 63.935646,68.411139 6.769656,0.714576 0.188047,-1.541978 -0.150437,-3.384828 -5.942256,-0.07522 z"
+       id="path807"
+       inkscape:label="Palacio" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 63.898036,72.961854 -4.099404,-0.564137 0.300873,-1.353931 -1.654804,-0.865013 -1.391539,-0.225655 0.376092,-1.955678 7.634668,1.165883 v 2.0309 l -0.338484,1.993286 z"
+       id="path809"
+       inkscape:label="Castan" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 65.063922,69.163323 3.234391,0.865013 -0.03761,1.391542 1.203494,0.376092 -0.639355,4.926803 -2.707862,-0.413699 -1.918071,-0.03761 -0.300873,-0.601747 v -2.707862 l 0.827402,0.225655 0.338484,-1.993286 z"
+       id="path811"
+       inkscape:label="Esquilador" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 57.053162,69.953118 -1.316323,12.147772 0.150436,0.865013 2.557426,0.45131 0.639357,0.4137 3.610483,0.225655 0.639358,-7.634668 0.564137,-3.460046 -4.099404,-0.564137 0.300873,-1.353931 -1.654804,-0.865013 z"
+       id="path813"
+       inkscape:label="Campo" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 55.774449,85.937028 -0.376092,1.316323 0.4137,5.378117 5.904645,0.338481 0.03761,-0.676965 h 1.053057 l 0.188045,-2.820689 -0.300874,-2.670254 -4.137011,-0.188047 v -0.564137 z"
+       id="path817"
+       inkscape:label="Iñiguez" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 55.812057,92.631468 v 3.497657 l 0.150437,0.564136 8.085979,0.676966 0.526528,-4.475496 0.338484,-3.234391 c 0,0 -1.918073,-0.188047 -1.918073,-0.188047 l -0.188044,2.820691 H 61.75431 l -0.03761,0.676963 z"
+       id="path819"
+       inkscape:label="LaHerrera" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 64.048473,97.370227 5.641379,0.338484 0.60175,-8.198808 -1.090668,-0.338481 -4.287449,0.488918 z"
+       id="path821"
+       inkscape:label="Casilda" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 62.694539,86.802041 1.993291,-0.188047 0.07522,-0.865011 1.165883,-0.263265 3.008736,0.45131 -0.112826,-9.214257 -2.707862,-0.413697 -1.918071,-0.03761 -0.86501,0.150437 -0.639358,7.634668 v 2.745473 z"
+       id="path823"
+       inkscape:label="Juana" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 42.170696,78.778239 4.470392,0.44704 3.427301,-0.44704 1.688815,-9.785191 -2.086182,-0.894077 -2.036513,-0.09934 -0.198684,3.178945 -0.794737,0.645723 -0.248354,1.39079 -3.576314,-0.248356 z"
+       id="path825"
+       inkscape:label="Val" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 42.667406,90.053561 5.81151,-0.248354 2.682237,-0.09934 3.327958,0.49671 0.198684,-11.175978 0.44704,-3.178945 0.794734,-4.967102 -0.844407,-1.390791 -3.327958,-0.49671 -1.688815,9.785191 -3.427301,0.44704 -4.470392,-0.44704 -0.54638,6.75526 z"
+       id="path827"
+       inkscape:label="Puente" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 48.230562,96.858491 -0.198684,-3.327958 3.427299,-0.298027 0.248356,-1.092761 2.483552,0.04967 0.09934,4.917432 z"
+       id="path829"
+       inkscape:label="Bruno" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 43.213789,97.504214 3.744132,-0.450225 1.272641,-0.195498 -0.198684,-3.327958 3.427299,-0.298027 0.248356,-1.092761 2.483552,0.04967 0.298026,-1.986836 -3.327958,-0.49671 -8.493747,0.347694 -0.54638,0.94375 0.298027,4.569733 z"
+       id="path831"
+       inkscape:label="Paulina" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 176.08377,137.83708 0.14901,1.8875 8.54342,-1.49013 0.19868,-0.44704 1.14244,-0.29802 v -1.39079 l 1.04309,-0.49671 -0.64573,-2.88092 -1.58947,0.0497 -0.59605,-2.63256 -6.75526,1.14243 0.14901,1.09276 -2.58289,0.44704 z"
+       id="path833"
+       inkscape:label="Roberto" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 75.831543,113.83897 7.849714,0.0771 -2.142072,-10.56989 -1.201661,-3.16369 -3.538778,-0.332707 -0.855853,9.699697 -0.399397,1.14114 z"
+       id="path876"
+       inkscape:label="Replaceta" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 92.696577,135.47021 7.393723,-7.88257 -0.611048,-1.2221 1.527628,-1.95537 1.40542,0.67216 4.52179,-5.07173 2.01647,1.46652 -13.931987,15.2152 z"
+       id="path878"
+       inkscape:label="Bascula" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 69.349138,23.303556 10.669097,10.528714 0.280766,-5.755698 -1.403829,-8.422971 1.403829,-5.755697 -2.38651,-2.667275 -3.649954,7.440292 z"
+       id="path880"
+       inkscape:label="Golle" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 126.42664,114.1445 -3.84963,-1.64984 -8.18809,-0.73326 -4.46068,-0.0611 2.13868,6.23273 z"
+       id="path93"
+       inkscape:label="Plaza" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 97.062821,114.19663 12.865419,-2.49634 2.13868,6.23273 -12.846197,3.16892 -0.08631,-1.16527 z"
+       id="path91"
+       inkscape:label="Fronton" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 111.08924,125.20454 -0.61105,9.77683 14.29861,1.52763 0.54995,-8.92136 z"
+       id="path97"
+       inkscape:label="Parque" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 94.835259,144.51378 13.015401,-0.97768 2.50532,25.78639 -13.931988,0.91657 z"
+       id="path173"
+       inkscape:label="Polideportivo" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 94.835256,144.51378 8.493624,-0.79437 -0.18332,-2.3831 -3.666308,0.61105 -0.183316,-2.68863 -4.399574,3.17747 -2.321997,1.95537 0.488842,4.88841 2.016472,-0.12221 z"
+       id="path175"
+       inkscape:label="Basuras" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 30.935279,110.25651 10.113457,3.96606 -0.892363,-8.62619 z"
+       id="path433"
+       inkscape:label="ParqueMediopañuelo" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 77.20899,86.703796 0.370528,3.24213 2.501072,0.370528 -0.231582,-3.705289 z"
+       id="path637"
+       inkscape:label="Deposito" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 82.506597,94.195031 0.06548,-1.997183 2.913923,-1.244148 3.535997,-1.44059 3.044886,-1.702517 2.651998,-1.702517 0.785778,-2.782962 0.870524,-0.986612 3.062455,1.510464 -1.59611,2.340959 -0.744852,1.702517 -1.330092,1.702517 -2.340962,2.074942 -2.872997,1.330092 -0.691647,-0.90446 z"
+       id="path676"
+       inkscape:label="ExCementerio" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 81.327931,86.599185 -1.478923,0.01199 0.231582,3.705288 0.0469,0.944406 0.795271,0.196226 0.08885,0.917109 1.560462,-0.176347 6.44992,-2.684738 5.696884,-3.405034 0.785778,-2.782964 0.196445,-1.276884 -3.274071,0.294666 0.294667,2.782959 -4.125331,0.458372 -0.360145,-0.392893 -2.553777,0.392893 0.261927,1.145921 -0.229187,1.080447 -3.994367,0.458367 z"
+       id="path678"
+       inkscape:label="Lonja" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 75.958453,83.32272 0.277897,-0.741058 3.334763,-0.370531 0.04632,1.204217 z"
+       id="path635"
+       inkscape:label="GraneroPrimicias" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 104.85553,72.668703 -0.19869,1.589474 3.60878,1.495486 -0.3227,-2.742943 z"
+       id="path1184"
+       inkscape:label="Aparcamiento" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 42.81642,72.966733 0.684268,-5.919801 4.133821,0.952698 -0.198684,3.178945 -0.794737,0.645724 -0.248354,1.39079 z"
+       id="path874"
+       inkscape:label="Aparcamiento" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 69.983677,83.415348 -0.0291,-6.505221 2.565572,-1.197266 0.456102,0.969217 0.57376,6.825898 z"
+       id="path872"
+       inkscape:label="Aparcamiento" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 41.048736,114.22257 2.280486,0.89236 -1.189818,-10.90667 -1.983031,1.38812 z"
+       id="path435"
+       inkscape:label="Aparcamiento" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 125.44896,119.76618 -6.29384,0.48884 -6.41604,1.58873 -2.19979,1.52763 0.54995,1.83316 14.23751,2.3831 z"
+       id="path95"
+       inkscape:label="Aparcamiento" />
   </g>
 </svg>

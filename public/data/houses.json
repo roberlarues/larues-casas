@@ -1,23 +1,599 @@
 {
-  "Francisca": {
-    "id": 0,
-    "type": "particular",
-    "name": "Casa Francisca",
-    "description": null
-  },
-  "Iglesia": {
-    "id": 1,
-    "type": "public",
-    "name": "Iglesia",
-    "description": "La Iglesia parroquial, dedicada a San Vicente Mártir, es de origen gótico del s. XVI. Se compone de tres naves y crucero, cubiertas por bóveda de tercelete, sobre el que se eleva un cimborio octogonal. Sobresale su portada flamígera, y la torre se alza con tres cuerpos de planta cuadrada.",
-    "images": [
-      "Iglesia.JPG"
-    ]
-  },
-  "donau": {
-    "id": 2,
-    "type": "particular",
-    "name": "Casa Donau",
-    "description": null
-  }
+	"Francisca": {
+		"id": 0,
+		"type": "particular",
+		"name": "Casa Francisca",
+		"description": null
+	},
+	"Iglesia": {
+		"id": 1,
+		"type": "public",
+		"name": "Iglesia",
+		"description": "La Iglesia parroquial, dedicada a San Vicente Mártir, es de origen gótico del s. XVI. Se compone de tres naves y crucero, cubiertas por bóveda de tercelete, sobre el que se eleva un cimborio octogonal. Sobresale su portada flamígera, y la torre se alza con tres cuerpos de planta cuadrada.",
+		"images": [
+			"Iglesia.JPG"
+		]
+	},
+	"ZZZTejedor": {
+		"id": 2,
+		"type": "particular-desaparecida",
+		"name": "Casa Tejedor",
+		"description": null
+	},
+	"ZZZAnaya": {
+		"id": 3,
+		"type": "particular-desaparecida",
+		"name": "Casa Anaya",
+		"description": null
+	},
+	"ZZZMuriel": {
+		"id": 4,
+		"type": "particular-desaparecida",
+		"name": "Casa Muriel",
+		"description": null
+	},
+	"ZZZRoñaque": {
+		"id": 5,
+		"type": "particular-desaparecida",
+		"name": "Casa Roñaque",
+		"description": null
+	},
+	"ZZZJusto": {
+		"id": 6,
+		"type": "particular-desaparecida",
+		"name": "Casa Justo",
+		"description": null
+	},
+	"ZZZMuriel": {
+		"id": 7,
+		"type": "particular-desaparecida",
+		"name": "Casa Muriel",
+		"description": null
+	},
+	"ZZZMuriel": {
+		"id": 8,
+		"type": "particular-desaparecida",
+		"name": "Casa Muriel",
+		"description": null
+	},
+	"Babil": {
+		"id": 9,
+		"type": "particular",
+		"name": "Casa Babil",
+		"description": null
+	},
+	"Bernardo": {
+		"id": 10,
+		"type": "particular",
+		"name": "Casa Bernardo",
+		"description": null
+	},
+	"Zapatera": {
+		"id": 11,
+		"type": "particular",
+		"name": "Casa Zapatera",
+		"description": null
+	},
+	"Indalecio": {
+		"id": 12,
+		"type": "particular",
+		"name": "Casa Indalecio",
+		"description": null
+	},
+	"Sastre": {
+		"id": 13,
+		"type": "particular",
+		"name": "Casa Sastre",
+		"description": null
+	},
+	"Miguelanaya": {
+		"id": 14,
+		"type": "particular",
+		"name": "Casa Miguelanaya",
+		"description": null
+	},
+	"Donau": {
+		"id": 15,
+		"type": "particular",
+		"name": "Casa Donau",
+		"description": null
+	},
+	"Abadía": {
+		"id": 16,
+		"type": "particular",
+		"name": "Casa Abadía",
+		"description": null
+	},
+	"Juanloren": {
+		"id": 17,
+		"type": "particular",
+		"name": "Casa Juanloren",
+		"description": null
+	},
+	"Lherrero": {
+		"id": 18,
+		"type": "particular",
+		"name": "Casa L'Herrero",
+		"description": null
+	},
+	"Simon": {
+		"id": 19,
+		"type": "particular",
+		"name": "Casa Simon",
+		"description": null
+	},
+	"BarMolino": {
+		"id": 20,
+		"type": "public",
+		"name": "Bar El Molino",
+		"description": null
+	},
+	"CasaMolino": {
+		"id": 21,
+		"type": "casa-rural",
+		"name": "Casa Molino",
+		"description": null
+	},
+	"GarajeMolino": {
+		"id": 22,
+		"type": "garaje",
+		"name": "Barra Turca",
+		"description": null
+	},
+	"Cementerio": {
+		"id": 23,
+		"type": "zone",
+		"name": "Cementerio",
+		"description": null
+	},
+	"Ermita": {
+		"id": 24,
+		"type": "public",
+		"name": "Ermita San Cristobal",
+		"description": null
+	},
+	"Amandas": {
+		"id": 25,
+		"type": "particular",
+		"name": "Casa Amanda",
+		"description": null
+	},
+	"Josete": {
+		"id": 26,
+		"type": "particular",
+		"name": "Casa Josete",
+		"description": null
+	},
+	"JoseLuis": {
+		"id": 27,
+		"type": "particular",
+		"name": "Casa Jose Luis",
+		"description": null
+	},
+	"Vives": {
+		"id": 28,
+		"type": "particular",
+		"name": "Casa Vives",
+		"description": null
+	},
+	"Vives2": {
+		"id": 29,
+		"type": "particular",
+		"name": "Casa Vives II",
+		"description": null
+	},
+	"Alaman": {
+		"id": 30,
+		"type": "particular",
+		"name": "Casa Alamán",
+		"description": null
+	},
+	"Sastrelargo": {
+		"id": 31,
+		"type": "particular",
+		"name": "Casa Sastrelargo",
+		"description": null
+	},
+	"Jimenez": {
+		"id": 32,
+		"type": "particular",
+		"name": "Casa Jiménez",
+		"description": null
+	},
+	"Cojo": {
+		"id": 33,
+		"type": "particular",
+		"name": "Casa Cojo",
+		"description": null
+	},
+	"Huertalo": {
+		"id": 34,
+		"type": "particular",
+		"name": "Casa Huertalo",
+		"description": null
+	},
+	"Juan": {
+		"id": 35,
+		"type": "particular",
+		"name": "Casa Juan",
+		"description": null
+	},
+	"Ramonito": {
+		"id": 36,
+		"type": "particular",
+		"name": "Casa Ramonito",
+		"description": null
+	},
+	"Angel": {
+		"id": 37,
+		"type": "particular",
+		"name": "Casa Ángel",
+		"description": null
+	},
+	"DonJose2": {
+		"id": 38,
+		"type": "particular",
+		"name": "Casa Don José II",
+		"description": null
+	},
+	"Carpintero": {
+		"id": 39,
+		"type": "particular",
+		"name": "Casa Carpintero",
+		"description": null
+	},
+	"Lugar": {
+		"id": 40,
+		"type": "public",
+		"name": "Casa Lugar",
+		"description": null
+	},
+	"Antondorencio": {
+		"id": 41,
+		"type": "particular",
+		"name": "Casa Antondorencio",
+		"description": null
+	},
+	"Jacinta": {
+		"id": 42,
+		"type": "particular",
+		"name": "Casa Jacinta",
+		"description": null
+	},
+	"Ana": {
+		"id": 43,
+		"type": "particular",
+		"name": "Casa Ana",
+		"description": null
+	},
+	"Angelines": {
+		"id": 44,
+		"type": "particular",
+		"name": "Casa Angelines",
+		"description": null
+	},
+	"Parris2": {
+		"id": 45,
+		"type": "particular",
+		"name": "Casa Parris II",
+		"description": null
+	},
+	"Salanova": {
+		"id": 46,
+		"type": "particular",
+		"name": "Casa Salanova",
+		"description": null
+	},
+	"Tresofraile": {
+		"id": 47,
+		"type": "particular",
+		"name": "Casa Tresofraile",
+		"description": null
+	},
+	"Valentin": {
+		"id": 48,
+		"type": "particular",
+		"name": "Casa Valentín",
+		"description": null
+	},
+	"Juanjose": {
+		"id": 49,
+		"type": "particular",
+		"name": "Casa Juanjosé",
+		"description": null
+	},
+	"Lobera": {
+		"id": 50,
+		"type": "particular",
+		"name": "Casa Lobera",
+		"description": null
+	},
+	"Rosario": {
+		"id": 51,
+		"type": "particular",
+		"name": "Casa Rosario",
+		"description": null
+	},
+	"Blanca": {
+		"id": 52,
+		"type": "particular",
+		"name": "Casa Blanca",
+		"description": null
+	},
+	"Granada": {
+		"id": 53,
+		"type": "particular",
+		"name": "Casa Granada",
+		"description": null
+	},
+	"Navarrico": {
+		"id": 54,
+		"type": "particular",
+		"name": "Casa Navarrico",
+		"description": null
+	},
+	"Juanlongas": {
+		"id": 55,
+		"type": "particular",
+		"name": "Casa Juanlongas",
+		"description": null
+	},
+	"Filemos": {
+		"id": 56,
+		"type": "particular",
+		"name": "Casa Filemos",
+		"description": null
+	},
+	"Buey": {
+		"id": 57,
+		"type": "particular",
+		"name": "Casa Buey",
+		"description": null
+	},
+	"Nati": {
+		"id": 58,
+		"type": "particular",
+		"name": "Casa Nati",
+		"description": null
+	},
+	"TeresaCarpintero": {
+		"id": 59,
+		"type": "public",
+		"name": "Casa Teresa Carpintero",
+		"description": null
+	},
+	"Franceses": {
+		"id": 60,
+		"type": "particular",
+		"name": "Casa Los Franceses",
+		"description": null
+	},
+	"Nati": {
+		"id": 61,
+		"type": "particular",
+		"name": "Casa Nati",
+		"description": null
+	},
+	"Butia": {
+		"id": 62,
+		"type": "particular",
+		"name": "Casa Butía",
+		"description": null
+	},
+	"Asun": {
+		"id": 63,
+		"type": "particular",
+		"name": "Casa Asun",
+		"description": null
+	},
+	"Parris": {
+		"id": 64,
+		"type": "particular",
+		"name": "Casa Parris",
+		"description": null
+	},
+	"German": {
+		"id": 65,
+		"type": "particular",
+		"name": "Casa Germán",
+		"description": null
+	},
+	"Constantina": {
+		"id": 66,
+		"type": "particular",
+		"name": "Casa Constantina",
+		"description": null
+	},
+	"Concha": {
+		"id": 67,
+		"type": "particular",
+		"name": "Casa Concha",
+		"description": null
+	},
+	"Radre": {
+		"id": 68,
+		"type": "particular",
+		"name": "Casa Radre",
+		"description": null
+	},
+	"Vicien": {
+		"id": 69,
+		"type": "particular",
+		"name": "Casa Vicién",
+		"description": null
+	},
+	"Ferranton": {
+		"id": 70,
+		"type": "particular",
+		"name": "Casa Ferrantón",
+		"description": null
+	},
+	"Estanquero": {
+		"id": 71,
+		"type": "particular",
+		"name": "Casa Estanquero",
+		"description": null
+	},
+	"Palacio": {
+		"id": 72,
+		"type": "particular",
+		"name": "Casa Palacio",
+		"description": null
+	},
+	"Castan": {
+		"id": 73,
+		"type": "particular",
+		"name": "Casa Castán",
+		"description": null
+	},
+	"Esquilador": {
+		"id": 74,
+		"type": "particular",
+		"name": "Casa Esquilador",
+		"description": null
+	},
+	"Campo": {
+		"id": 75,
+		"type": "particular",
+		"name": "Casa Campo",
+		"description": null
+	},
+	"Iñiguez": {
+		"id": 76,
+		"type": "particular",
+		"name": "Casa Iñiguez",
+		"description": null
+	},
+	"LaHerrera": {
+		"id": 77,
+		"type": "particular",
+		"name": "Casa La Herrera",
+		"description": null
+	},
+	"Casilda": {
+		"id": 78,
+		"type": "particular",
+		"name": "Casa Casilda",
+		"description": null
+	},
+	"Juana": {
+		"id": 79,
+		"type": "particular",
+		"name": "Casa Juana",
+		"description": null
+	},
+	"Val": {
+		"id": 80,
+		"type": "particular",
+		"name": "Casa Val",
+		"description": null
+	},
+	"Puente": {
+		"id": 81,
+		"type": "particular",
+		"name": "Casa Puente",
+		"description": null
+	},
+	"Bruno": {
+		"id": 82,
+		"type": "particular",
+		"name": "Casa Bruno",
+		"description": null
+	},
+	"Paulina": {
+		"id": 83,
+		"type": "particular",
+		"name": "Casa Paulina",
+		"description": null
+	},
+	"Roberto": {
+		"id": 84,
+		"type": "particular",
+		"name": "Casa Roberto",
+		"description": null
+	},
+	"Replaceta": {
+		"id": 85,
+		"type": "zone",
+		"name": "Replaceta",
+		"description": null
+	},
+	"Bascula": {
+		"id": 86,
+		"type": "zone",
+		"name": "Bascula",
+		"description": null
+	},
+	"Golle": {
+		"id": 87,
+		"type": "zone",
+		"name": "El Gollé",
+		"description": null
+	},
+	"Plaza": {
+		"id": 88,
+		"type": "zone",
+		"name": "La plaza",
+		"description": null
+	},
+	"Fronton": {
+		"id": 89,
+		"type": "zone",
+		"name": "Frontón",
+		"description": null
+	},
+	"Parque": {
+		"id": 90,
+		"type": "zone",
+		"name": "Parque",
+		"description": null
+	},
+	"Polideportivo": {
+		"id": 91,
+		"type": "zone",
+		"name": "Polideportivo",
+		"description": null
+	},
+	"Basuras": {
+		"id": 92,
+		"type": "zone",
+		"name": "Basuras",
+		"description": "Esto igual sobra...."
+	},
+	"ParqueMediopañuelo": {
+		"id": 93,
+		"type": "zone",
+		"name": "Parque Mediopañuelo",
+		"description": null
+	},
+	"Deposito": {
+		"id": 94,
+		"type": "zone",
+		"name": "Depósito",
+		"description": null
+	},
+	"ExCementerio": {
+		"id": 95,
+		"type": "zone",
+		"name": "Ex-Cementerio",
+		"description": "Antiguo cementerio"
+	},
+	"Lonja": {
+		"id": 96,
+		"type": "zone",
+		"name": "Lonja",
+		"description": "Este igual lo pondría junto con el antiguo cementerio"
+	},
+	"GraneroPrimicias": {
+		"id": 97,
+		"type": "zone",
+		"name": "Granero de las Primicias",
+		"description": null
+	},
+	"Aparcamiento": {
+		"id": 98,
+		"type": "parking",
+		"name": "Aparcamiento",
+		"description": "De este hay varios, mejor no ponerlos todos con el mismo Label, porque lo utilizo como identificador"
+	}
 }

@@ -10,3 +10,6 @@ Ejecutar ``npm install`` sobre el directorio raiz.
 
 ## Desplegar
 Ejecutar ``npm start`` sobre el directorio raiz.
+
+## Producción
+Ejecutar ``npm run build`` sobre el directorio raiz.

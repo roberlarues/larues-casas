@@ -74,13 +74,13 @@ function configureHouse(house: House, configData: any, openModal: (house: House)
     if (house.mapElement) {
         const color = house.color ? house.color : configData['house-color'][house.type];
         house.mapElement.style.fill = color;
-        house.mapElement.style.fillOpacity = '0.1';
+        house.mapElement.style.fillOpacity = '0.15';
         house.mapElement.style.stroke = color;
-        house.mapElement.style.strokeWidth ='1px';
+        house.mapElement.style.strokeWidth ='0.5px';
         house.mapElement.style.strokeLinecap = 'butt';
         house.mapElement.style.strokeLinejoin = 'miter';
-        house.mapElement.style.strokeOpacity = '0.9';
-        house.mapElement.style.filter = `drop-shadow(0px 0px 3px ${color})`;
+        house.mapElement.style.strokeOpacity = '0.7';
+        // house.mapElement.style.filter = `drop-shadow(0px 0px 3px ${color})`;
 
         house.mapElement.addEventListener('mouseover', () => house.highlightOn());
         house.mapElement.addEventListener('mouseout', () => house.highlightOff());

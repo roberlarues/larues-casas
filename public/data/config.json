@@ -1,7 +1,12 @@
 {
   "house-color": {
     "particular": "orange",
-    "public": "red"
+    "public": "red",
+    "particular-desaparecida": "orangered",
+    "zone": "seagreen",
+    "garaje": "aquamarine",
+    "parking": "cornflowerblue",
+    "casa-rural": "purple"
   },
   "default-image": "no_image.svg",
   "house-image-folder": "houses"
