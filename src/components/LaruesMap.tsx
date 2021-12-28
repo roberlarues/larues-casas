@@ -78,6 +78,7 @@ function configureHouse(house: House, configData: any, openModal: (house: House)
     house.highlightOff();
 
     if (house.mapElement) {
+        house.mapElement.setAttribute('title', house.name);
         const color = house.color ? house.color : configData['house-color'][house.type];
         house.mapElement.style.fill = color;
         house.mapElement.style.fillOpacity = '0.15';
@@ -88,10 +89,47 @@ function configureHouse(house: House, configData: any, openModal: (house: House)
         house.mapElement.style.strokeOpacity = '0.7';
         // house.mapElement.style.filter = `drop-shadow(0px 0px 3px ${color})`;
 
-        house.mapElement.addEventListener('mouseover', () => house.highlightOn());
-        house.mapElement.addEventListener('mouseout', () => house.highlightOff());
+        house.mapElement.addEventListener('mouseover', event => {
+            const tooltip = document.getElementById('tooltip-' + house.id);
+            if (tooltip) {
+                tooltip.style.display = 'block';
+            }
+            house.highlightOn()
+        });
+        house.mapElement.addEventListener('mousemove', event => {
+            const tooltip = document.getElementById('tooltip-' + house.id);
+            if (tooltip) {
+                tooltip.style.top = (event.y - 4) + 'px';
+                tooltip.style.left = (event.x + 20) + 'px';
+            }
+        });
+        house.mapElement.addEventListener('mouseout', () => {
+            const tooltip = document.getElementById('tooltip-' + house.id);
+            if (tooltip) {
+                tooltip.style.display = 'none';
+            }
+            house.highlightOff()
+        });
         house.mapElement.addEventListener('click', () => openModal(house));
+
+        createTooltip(house.mapElement, house);
     }
+}
+
+function createTooltip(svgPath: SVGPathElement, house: House) {
+    const spanElem = document.createElement('span');
+    spanElem.id = 'tooltip-' + house.id;
+    spanElem.style.display = 'none';
+    spanElem.style.position = 'fixed';
+    spanElem.style.overflow = 'hidden';
+    spanElem.style.zIndex = '99';
+    spanElem.style.color = 'white';
+    spanElem.style.backgroundColor = '#484848';
+    spanElem.style.padding = '4pt';
+    spanElem.style.borderRadius = '10pt';
+
+    spanElem.textContent = house.name;
+    document.body.appendChild(spanElem);
 }
 
 const calcTouchZoomValue = function(event) {
