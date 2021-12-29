@@ -79,7 +79,7 @@ function configureHouse(house: House, configData: any, openModal: (house: House)
 
     if (house.mapElement) {
         house.mapElement.setAttribute('title', house.name);
-        const color = house.color ? house.color : configData['house-color'][house.type];
+        const color = house.color ? house.color : configData['house-type'][house.type].color;
         house.mapElement.style.fill = color;
         house.mapElement.style.fillOpacity = '0.15';
         house.mapElement.style.stroke = color;
@@ -90,30 +90,42 @@ function configureHouse(house: House, configData: any, openModal: (house: House)
         // house.mapElement.style.filter = `drop-shadow(0px 0px 3px ${color})`;
 
         house.mapElement.addEventListener('mouseover', event => {
-            const tooltip = document.getElementById('tooltip-' + house.id);
-            if (tooltip) {
-                tooltip.style.display = 'block';
+            if (house.enabled) {
+                const tooltip = document.getElementById('tooltip-' + house.id);
+                if (tooltip) {
+                    tooltip.style.display = 'block';
+                }
+                house.highlightOn()
             }
-            house.highlightOn()
         });
         house.mapElement.addEventListener('mousemove', event => {
-            const tooltip = document.getElementById('tooltip-' + house.id);
-            if (tooltip) {
-                tooltip.style.top = (event.y - 4) + 'px';
-                tooltip.style.left = (event.x + 20) + 'px';
+            if (house.enabled) {
+                const tooltip = document.getElementById('tooltip-' + house.id);
+                if (tooltip) {
+                    tooltip.style.top = (event.y - 4) + 'px';
+                    tooltip.style.left = (event.x + 20) + 'px';
+                }
             }
         });
         house.mapElement.addEventListener('mouseout', () => {
-            const tooltip = document.getElementById('tooltip-' + house.id);
-            if (tooltip) {
-                tooltip.style.display = 'none';
+            if (house.enabled) {
+                const tooltip = document.getElementById('tooltip-' + house.id);
+                if (tooltip) {
+                    tooltip.style.display = 'none';
+                }
+                house.highlightOff()
             }
-            house.highlightOff()
         });
-        house.mapElement.addEventListener('click', () => openModal(house));
+        house.mapElement.addEventListener('click', () => {
+            if (house.enabled) {
+                openModal(house)
+            }
+        });
 
         createTooltip(house.mapElement, house);
     }
+
+    house.setEnabled(configData['house-type'][house.type].enabled);
 }
 
 function createTooltip(svgPath: SVGPathElement, house: House) {

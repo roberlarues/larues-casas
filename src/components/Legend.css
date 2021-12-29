@@ -1,0 +1,45 @@
+
+.legend-box {
+    display: inline-flex;
+    flex-wrap: wrap;
+    margin-top: 0.5em;
+}
+
+.inputItem {
+    padding: 1pt 5pt 1pt 1pt;
+    margin: 2pt;
+    border-radius: 4pt;
+}
+
+input {
+    -webkit-appearance: none;
+    appearance: none;
+    background-color: #fff;
+    margin: 3pt 2pt -3pt 2pt;
+    font: inherit;
+    color: currentColor;
+    width: 1.15em;
+    height: 1.15em;
+    border: 0.15em solid currentColor;
+    border-radius: 0.15em;
+    transform: translateY(-0.075em);
+    display: inline-grid;
+    place-content: center;
+}
+
+input::before {
+    content: "\2714";
+    transform: scale(0);
+    transition: 40ms transform ease-in-out;
+    margin-top: -1px;
+}
+
+input:checked::before {
+    transform: scale(1);
+}
+
+label {
+    top: -1px;
+    position: relative;
+}
+

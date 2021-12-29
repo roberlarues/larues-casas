@@ -5,6 +5,7 @@ export class House extends HouseData {
     name: string;
     mapElement: SVGPathElement;
     listElement: HTMLElement;
+    enabled = true;
 
 
     constructor(key: string, mapElement: SVGPathElement, houseData: HouseData) {
@@ -34,6 +35,13 @@ export class House extends HouseData {
 
         if (this.listElement) {
             this.listElement.className = 'no-highlight';
+        }
+    }
+
+    setEnabled(enabled: boolean) {
+        this.enabled = enabled;
+        if (this.mapElement) {
+            this.mapElement.style.display = enabled ? 'block' : 'none';
         }
     }
 }
