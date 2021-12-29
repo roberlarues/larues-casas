@@ -30,6 +30,10 @@
     font-weight: bold;
 }
 
+.no-result {
+    margin: 1em;
+}
+
 h4 {
     text-align: center;
     text-decoration: underline;
@@ -42,4 +46,9 @@ ul {
     overflow-y: auto;
     list-style: none;
     padding-left: 1em;
+}
+
+input {
+    width: 85%;
+    margin: auto;
 }

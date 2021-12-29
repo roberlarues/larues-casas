@@ -25,7 +25,7 @@ export function Legend({ onEnableHouseType }) {
     }, []);
 
     const handleInputChange = function (key, value) {
-        const checked = !value.target.checked;
+        const checked = value.target.checked;
         houseTypes[key].enabled = checked;
         const newHouseTypes = Object.assign({}, houseTypes);
         setHouseTypes(newHouseTypes);
@@ -35,8 +35,8 @@ export function Legend({ onEnableHouseType }) {
     return (
         <div className="legend-box">
             {Object.keys(houseTypes).map((t: string) =>
-            <div style={{backgroundColor: houseTypes[t].lightcolor}} className="inputItem">
-                <input id={'legend-' + t} type="checkbox" checked={houseTypes[t].enabled}
+            <div style={{backgroundColor: houseTypes[t].lightcolor}} className="inputItem" key={'legend-' + t}>
+                <input id={'legend-' + t} type="checkbox" defaultChecked={houseTypes[t].enabled}
                        style={{color: houseTypes[t].color}}
                        onInput={value => handleInputChange(t, value)}/>
                 <label htmlFor={'legend-' + t} >{houseTypes[t].label}</label>

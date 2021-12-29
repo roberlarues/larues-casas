@@ -20,6 +20,7 @@ function App() {
         }
     };
     const [houseList, setHouseList] = useState([]);
+    const [enabledHouseList, setEnabledHouseList] = useState([]);
     const [modalIsOpen, setModalOpen] = React.useState(false);
     const [currentHouse, setCurrentHouse] = useState(null);
 
@@ -35,6 +36,8 @@ function App() {
     const createHouseList = (houseList: House[]) => {
         const newHouseList = [...houseList];
         setHouseList(newHouseList);
+        const enabledHouses = newHouseList.filter((house:House) => house.enabled);
+        setEnabledHouseList(enabledHouses);
     }
 
     const onEnableHouseType = (type: string, enabled: boolean) => {
@@ -42,6 +45,8 @@ function App() {
         if (houses) {
             houses.forEach(h => h.setEnabled(enabled));
         }
+        const enabledHouses = houseList.filter((house:House) => house.enabled);
+        setEnabledHouseList(enabledHouses);
     }
 
     return (
@@ -53,7 +58,7 @@ function App() {
               </div>
               <div className="HouseListCanvas">
                   <Legend onEnableHouseType={onEnableHouseType}/>
-                  <HouseList houseList={houseList} openModal={openModal}/>
+                  <HouseList houseList={enabledHouseList} openModal={openModal}/>
               </div>
           </div>
 

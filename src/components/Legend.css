@@ -11,7 +11,7 @@
     border-radius: 4pt;
 }
 
-input {
+input[type=checkbox] {
     -webkit-appearance: none;
     appearance: none;
     background-color: #fff;
@@ -27,14 +27,14 @@ input {
     place-content: center;
 }
 
-input::before {
+input[type=checkbox]::before {
     content: "\2714";
     transform: scale(0);
     transition: 40ms transform ease-in-out;
     margin-top: -1px;
 }
 
-input:checked::before {
+input[type=checkbox]:checked::before {
     transform: scale(1);
 }
 
