@@ -16,7 +16,8 @@ function App() {
         },
         content: {
             border: 'black',
-            backgroundColor: 'rgb(237 237 237)'
+            backgroundColor: 'rgb(237 237 237)',
+            padding: '0px 20px 20px 20px',
         }
     };
     const [houseList, setHouseList] = useState([]);
@@ -26,6 +27,7 @@ function App() {
     const [displayOffCanvas, setDisplayOffCanvas] = useState(false);
 
     function openModal(house: House) {
+        closeOffCanvas();
         setCurrentHouse(house);
         setModalOpen(true);
     }

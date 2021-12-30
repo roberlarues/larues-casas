@@ -116,3 +116,10 @@ button:hover {
     margin: 3pt 3pt 0 auto;
   }
 }
+
+@media (max-width: 300px) {
+
+  .HouseListCanvas {
+    width: 80%;
+  }
+}
