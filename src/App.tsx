@@ -23,6 +23,7 @@ function App() {
     const [enabledHouseList, setEnabledHouseList] = useState([]);
     const [modalIsOpen, setModalOpen] = React.useState(false);
     const [currentHouse, setCurrentHouse] = useState(null);
+    const [displayOffCanvas, setDisplayOffCanvas] = useState(false);
 
     function openModal(house: House) {
         setCurrentHouse(house);
@@ -49,6 +50,14 @@ function App() {
         setEnabledHouseList(enabledHouses);
     }
 
+    const openOffCanvas = () => {
+        setDisplayOffCanvas(true);
+    }
+
+    const closeOffCanvas = () => {
+        setDisplayOffCanvas(false);
+    }
+
     return (
       <div>
           <div className="main-content">
@@ -56,12 +65,18 @@ function App() {
                   <LaruesMap createHouseList={createHouseList} openModal={openModal}/>
                   <div className="map-right-gradient"/>
               </div>
-              <div className="HouseListCanvas">
+              { displayOffCanvas ? <div className="offCanvasOverlay" onClick={closeOffCanvas}/> : '' }
+              <div className={displayOffCanvas ? 'HouseListCanvas offCanvasOpen' : 'HouseListCanvas'}>
+                  <button className="offCanvasCloseButton" onClick={closeOffCanvas}>
+                      <i className="fas fa-times"/>
+                  </button>
                   <Legend onEnableHouseType={onEnableHouseType}/>
                   <HouseList houseList={enabledHouseList} openModal={openModal}/>
               </div>
           </div>
-
+          <button className="offCanvasButton" onClick={openOffCanvas}>
+              <i className="fas fa-bars"/>
+          </button>
           <Modal isOpen={modalIsOpen} onRequestClose={closeModal} contentLabel="Detalle" style={customStyles}>
               <HouseDetail house={currentHouse} closeModal={closeModal} />
           </Modal>

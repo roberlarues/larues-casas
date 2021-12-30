@@ -5,10 +5,11 @@ import './HouseDetail.css';
 export function HouseDetail({ house, closeModal }) {
     return (
         <div className="HouseDetail">
-
-            <button className="close-button" onClick={closeModal}>
-                Cerrar
-            </button>
+            <div className="modal-header">
+                <button className="modal-close-button" onClick={closeModal}>
+                    <i className="fas fa-times"/>
+                </button>
+            </div>
 
             <div className={ 'house-detail-content' + (house.description !== null ? '' : ' house-detail-content-no-description')}>
                 <div className="house-detail-item img-container">

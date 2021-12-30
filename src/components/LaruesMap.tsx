@@ -118,6 +118,10 @@ function configureHouse(house: House, configData: any, openModal: (house: House)
         });
         house.mapElement.addEventListener('click', () => {
             if (house.enabled) {
+                const tooltip = document.getElementById('tooltip-' + house.id);
+                if (tooltip) {
+                    tooltip.style.display = 'none';
+                }
                 openModal(house)
             }
         });

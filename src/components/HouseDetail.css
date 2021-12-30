@@ -51,20 +51,14 @@
     overflow-y: auto;
 }
 
-.close-button {
-    position: absolute;
-    top: 1em;
-    right: 1em;
-    border: none;
-    padding: 5pt;
-    border-radius: 4pt;
-    cursor: pointer;
-    background-color: white;
+.modal-header {
+    position: sticky;
+    top: 0;
+    text-align: right;
 }
 
-.close-button:hover {
-    text-decoration: underline;
-    background-color: lightgray;
+.modal-header button {
+    margin: -5pt -5pt 5pt;
 }
 
 @media (max-width: 600px) {
