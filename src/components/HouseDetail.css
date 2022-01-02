@@ -33,6 +33,12 @@
     max-height: 70%;
 }
 
+.img-container-swiper {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+
 .house-detail-item h1 {
     text-align: center;
     text-decoration: underline;
@@ -59,6 +65,18 @@
 
 .modal-header button {
     margin-right: -10px;
+}
+
+.swiper-button-prev::after {
+    color: gray;
+}
+
+.swiper-button-next::after {
+    color: gray;
+}
+
+.swiper-pagination-bullet-active {
+    background: lightgrey!important;
 }
 
 @media (max-width: 600px) {
