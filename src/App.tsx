@@ -1,18 +1,20 @@
-import React, {useState} from 'react';
+import React, { useState } from 'react';
+import {House} from './models/House';
 import { LaruesMap } from './components/LaruesMap'
-import { HouseList } from "./components/HouseList";
-import { HouseDetail } from "./components/HouseDetail";
-import { Legend } from "./components/Legend";
+import { HouseDetail } from './components/HouseDetail';
+import { SideMenu } from './components/SideMenu';
 import Modal from 'react-modal';
 import './App.css';
-import {House} from "./models/House";
+import {Help} from "./components/Help";
 
 Modal.setAppElement("#root");
 
 function App() {
     const customStyles = {
         overlay: {
-            backgroundColor: 'rgba(0,0,0, 0.7)'
+            backgroundColor: 'rgba(0,0,0, 0.7)',
+            zIndex: 99999,
+            inset: '-10pt'
         },
         content: {
             border: 'black',
@@ -22,19 +24,10 @@ function App() {
     };
     const [houseList, setHouseList] = useState([]);
     const [enabledHouseList, setEnabledHouseList] = useState([]);
-    const [modalIsOpen, setModalOpen] = React.useState(false);
     const [currentHouse, setCurrentHouse] = useState(null);
     const [displayOffCanvas, setDisplayOffCanvas] = useState(false);
-
-    function openModal(house: House) {
-        closeOffCanvas();
-        setCurrentHouse(house);
-        setModalOpen(true);
-    }
-
-    function closeModal() {
-        setModalOpen(false);
-    }
+    const [modalHouseIsOpen, setModalHouseOpen] = React.useState(false);
+    const [modalHelpIsOpen, setModalHelpOpen] = React.useState(false);
 
     const createHouseList = (houseList: House[]) => {
         const newHouseList = [...houseList];
@@ -60,27 +53,53 @@ function App() {
         setDisplayOffCanvas(false);
     }
 
+    function openHouseModal(house: House) {
+        closeOffCanvas();
+        setCurrentHouse(house);
+        setModalHouseOpen(true);
+    }
+
+    function closeHouseModal() {
+        setModalHouseOpen(false);
+    }
+
+    function openHelpModal() {
+        setModalHelpOpen(true);
+    }
+
+    function closeHelpModal() {
+        setModalHelpOpen(false);
+    }
+
     return (
       <div>
           <div className="main-content">
               <div className="MapCanvas">
-                  <LaruesMap createHouseList={createHouseList} openModal={openModal}/>
+                  <LaruesMap createHouseList={createHouseList} openModal={openHouseModal}/>
                   <div className="map-right-gradient"/>
               </div>
-              { displayOffCanvas ? <div className="offCanvasOverlay" onClick={closeOffCanvas}/> : '' }
-              <div className={displayOffCanvas ? 'HouseListCanvas offCanvasOpen' : 'HouseListCanvas'}>
-                  <button className="offCanvasCloseButton" onClick={closeOffCanvas}>
+              <SideMenu displaySideMenu={displayOffCanvas} enabledHouseList={enabledHouseList}
+                        onCloseSideMenu={closeOffCanvas} onEnableHouseType={onEnableHouseType}
+                        onOpenHouseModal={openHouseModal} onOpenHelpModal={openHelpModal}/>
+          </div>
+          <div className="offCanvasButton" >
+              <button onClick={openHelpModal}>
+                  <i className="fas fa-question-circle"/>
+              </button>
+              <button onClick={openOffCanvas}>
+                  <i className="fas fa-bars"/>
+              </button>
+          </div>
+          <Modal isOpen={modalHouseIsOpen} onRequestClose={closeHouseModal} contentLabel="Detalle" style={customStyles}>
+              <HouseDetail house={currentHouse} closeModal={closeHouseModal} />
+          </Modal>
+          <Modal isOpen={modalHelpIsOpen} onRequestClose={closeHelpModal} contentLabel="Detalle" style={customStyles}>
+              <div className="modal-header">
+                  <button className="modal-close-button" onClick={closeHelpModal}>
                       <i className="fas fa-times"/>
                   </button>
-                  <Legend onEnableHouseType={onEnableHouseType}/>
-                  <HouseList houseList={enabledHouseList} openModal={openModal}/>
               </div>
-          </div>
-          <button className="offCanvasButton" onClick={openOffCanvas}>
-              <i className="fas fa-bars"/>
-          </button>
-          <Modal isOpen={modalIsOpen} onRequestClose={closeModal} contentLabel="Detalle" style={customStyles}>
-              <HouseDetail house={currentHouse} closeModal={closeModal} />
+              <Help/>
           </Modal>
       </div>
     );

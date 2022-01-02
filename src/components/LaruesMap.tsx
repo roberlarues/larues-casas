@@ -76,6 +76,7 @@ function configureHouse(house: House, configData: any, openModal: (house: House)
         [ configData['default-image'] ]
 
     house.highlightOff();
+    house.setEnabled(configData['house-type'][house.type].enabled);
 
     if (house.mapElement) {
         house.mapElement.setAttribute('title', house.name);
@@ -87,20 +88,17 @@ function configureHouse(house: House, configData: any, openModal: (house: House)
         house.mapElement.style.strokeLinecap = 'butt';
         house.mapElement.style.strokeLinejoin = 'miter';
         house.mapElement.style.strokeOpacity = '0.7';
-        // house.mapElement.style.filter = `drop-shadow(0px 0px 3px ${color})`;
+        house.tooltip = createTooltip(house);
 
         house.mapElement.addEventListener('mouseover', event => {
             if (house.enabled) {
-                const tooltip = document.getElementById('tooltip-' + house.id);
-                if (tooltip) {
-                    tooltip.style.display = 'block';
-                }
+                document.body.appendChild(house.tooltip);
                 house.highlightOn()
             }
         });
         house.mapElement.addEventListener('mousemove', event => {
             if (house.enabled) {
-                const tooltip = document.getElementById('tooltip-' + house.id);
+                const tooltip = house.tooltip;
                 if (tooltip) {
                     tooltip.style.top = (event.y - 4) + 'px';
                     tooltip.style.left = (event.x + 20) + 'px';
@@ -109,33 +107,27 @@ function configureHouse(house: House, configData: any, openModal: (house: House)
         });
         house.mapElement.addEventListener('mouseout', () => {
             if (house.enabled) {
-                const tooltip = document.getElementById('tooltip-' + house.id);
-                if (tooltip) {
-                    tooltip.style.display = 'none';
+                if (document.body.contains(house.tooltip)) {
+                    document.body.removeChild(house.tooltip);
                 }
                 house.highlightOff()
             }
         });
         house.mapElement.addEventListener('click', () => {
             if (house.enabled) {
-                const tooltip = document.getElementById('tooltip-' + house.id);
-                if (tooltip) {
-                    tooltip.style.display = 'none';
+                if (document.body.contains(house.tooltip)) {
+                    document.body.removeChild(house.tooltip);
                 }
                 openModal(house)
             }
         });
-
-        createTooltip(house.mapElement, house);
     }
-
-    house.setEnabled(configData['house-type'][house.type].enabled);
 }
 
-function createTooltip(svgPath: SVGPathElement, house: House) {
+function createTooltip(house: House) {
     const spanElem = document.createElement('span');
     spanElem.id = 'tooltip-' + house.id;
-    spanElem.style.display = 'none';
+    spanElem.style.display = 'block';
     spanElem.style.position = 'fixed';
     spanElem.style.overflow = 'hidden';
     spanElem.style.zIndex = '99';
@@ -143,9 +135,8 @@ function createTooltip(svgPath: SVGPathElement, house: House) {
     spanElem.style.backgroundColor = '#484848';
     spanElem.style.padding = '4pt';
     spanElem.style.borderRadius = '10pt';
-
     spanElem.textContent = house.name;
-    document.body.appendChild(spanElem);
+    return spanElem;
 }
 
 const calcTouchZoomValue = function(event) {

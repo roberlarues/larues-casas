@@ -5,8 +5,8 @@ export class House extends HouseData {
     name: string;
     mapElement: SVGPathElement;
     listElement: HTMLElement;
+    tooltip: HTMLSpanElement;
     enabled = true;
-
 
     constructor(key: string, mapElement: SVGPathElement, houseData: HouseData) {
         super();

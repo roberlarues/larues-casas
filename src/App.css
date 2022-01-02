@@ -16,7 +16,7 @@
   height: 100%;
 }
 
-.HouseListCanvas {
+.menu-lateral {
   flex-basis: 20%;
   position: relative;
   flex-grow: 1;
@@ -46,7 +46,7 @@
   transform: translateX(0pt);
 }
 
-.offCanvasCloseButton {
+.button-line-close {
   display: none;
 }
 
@@ -73,6 +73,47 @@ button:hover {
   background-color: lightgray;
 }
 
+.button-line {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.button-line-help {
+  display: block;
+}
+
+.help h3 {
+  text-align: center;
+}
+
+.help h4 {
+  text-align: left;
+}
+
+.only-mobile {
+  display: none;
+}
+
+.help-side-menu {
+  display: none;
+}
+
+.help-side-menu i {
+  margin: 0 3pt 0 3pt
+}
+
+@media (max-width: 1100px) {
+
+  .only-pc {
+    display: none;
+  }
+
+  .only-mobile {
+    display: block;
+  }
+}
+
+
 @media (max-width: 990px) {
 
   .MapCanvas {
@@ -86,7 +127,7 @@ button:hover {
     flex-basis: 100%;
   }
 
-  .HouseListCanvas {
+  .menu-lateral {
     position: absolute;
     top: 0;
     right: 0;
@@ -111,15 +152,22 @@ button:hover {
     display: block;
   }
 
-  .offCanvasCloseButton{
+  .button-line-close{
     display: block;
-    margin: 3pt 3pt 0 auto;
+  }
+
+  .button-line-help {
+    display: none;
+  }
+
+  .help-side-menu {
+    display: block;
   }
 }
 
 @media (max-width: 300px) {
 
-  .HouseListCanvas {
+  .menu-lateral {
     width: 80%;
   }
 }
