@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, {Fragment, useState} from 'react';
 import {House} from './models/House';
 import { LaruesMap } from './components/LaruesMap'
 import { HouseDetail } from './components/HouseDetail';
@@ -72,7 +72,7 @@ function App() {
     }
 
     return (
-      <div>
+      <Fragment>
           <div className="main-content">
               <div className="MapCanvas">
                   <LaruesMap createHouseList={createHouseList} openModal={openHouseModal}/>
@@ -83,9 +83,6 @@ function App() {
                         onOpenHouseModal={openHouseModal} onOpenHelpModal={openHelpModal}/>
           </div>
           <div className="offCanvasButton" >
-              <button onClick={openHelpModal}>
-                  <i className="fas fa-question-circle"/>
-              </button>
               <button onClick={openOffCanvas}>
                   <i className="fas fa-bars"/>
               </button>
@@ -101,7 +98,7 @@ function App() {
               </div>
               <Help/>
           </Modal>
-      </div>
+      </Fragment>
     );
 }
 

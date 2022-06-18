@@ -1,8 +1,14 @@
-import React, {Fragment} from "react";
+import React, {Fragment, useState} from "react";
 import {Legend} from "./Legend";
 import {HouseList} from "./HouseList";
 
 export function SideMenu({displaySideMenu, enabledHouseList, onCloseSideMenu, onEnableHouseType, onOpenHouseModal, onOpenHelpModal}) {
+
+    const [displayLegend, setDisplayLegend] = useState(false);
+
+    function toggleLegend() {
+        setDisplayLegend(!displayLegend);
+    }
 
     return <Fragment>
         { displaySideMenu ? <div className="offCanvasOverlay" onClick={onCloseSideMenu}/> : '' }
@@ -14,8 +20,11 @@ export function SideMenu({displaySideMenu, enabledHouseList, onCloseSideMenu, on
                 <button className="button-line-help" onClick={onOpenHelpModal}>
                     <i className="fas fa-question-circle"/>
                 </button>
+                <button className={ displayLegend ? "button-line-tags-selected" : "button-line-tags"} onClick={toggleLegend}>
+                    <i className="fas fa-tags"/>
+                </button>
             </div>
-            <Legend onEnableHouseType={onEnableHouseType}/>
+            { displayLegend ? <Legend onEnableHouseType={onEnableHouseType}/> : '' }
             <HouseList houseList={enabledHouseList} openModal={onOpenHouseModal}/>
         </div>
     </Fragment>

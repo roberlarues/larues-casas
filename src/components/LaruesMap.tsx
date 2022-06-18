@@ -64,7 +64,7 @@ export function LaruesMap({ createHouseList, openModal }) {
     return (
         <Fragment>
             <object ref={mapRef} data={process.env.PUBLIC_URL + '/images/casas.svg'} onLoad={onSvgLoaded}
-                    width="100%" height="100%">Mapa de casas</object>
+                    width="100%" height="100%" data-iframe-height>Mapa de casas</object>
         </Fragment >
     );
 }
