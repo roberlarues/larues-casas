@@ -95,12 +95,20 @@ button:hover {
   background-color: lightpink!important;
 }
 
+.help {
+  margin: 0 20pt 0 20pt;
+}
+
 .help h3 {
   text-align: center;
 }
 
 .help h4 {
   text-align: left;
+}
+
+.help a {
+  word-break: break-word;
 }
 
 .only-mobile {
@@ -116,18 +124,11 @@ button:hover {
 }
 
 @media (max-width: 1100px) {
-
-  .only-pc {
-    display: none;
-  }
-
-  .only-mobile {
-    display: block;
-  }
 }
 
 
 @media (max-width: 990px) {
+
 
   .MapCanvas {
     flex-basis: 72%;
@@ -136,6 +137,14 @@ button:hover {
 
 @media (max-width: 600px) {
 
+
+  .only-pc {
+    display: none;
+  }
+
+  .only-mobile {
+    display: block;
+  }
   .MapCanvas {
     flex-basis: 100%;
   }

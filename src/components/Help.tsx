@@ -18,6 +18,7 @@ export function Help() {
 
         <h4>Leyenda</h4>
         <p>Puedes activar o desactivar los elementos del mapa desde la leyenda del menú lateral.</p>
+        <p>Para mostrar/ocultar la leyenda pulsa el icono &nbsp;<i className="fas fa-tags"/></p>
 
         <h4>Lista de casas</h4>
         <p>Puedes buscar una casa o zona mediante el cuadro de búsqueda.</p>
@@ -30,7 +31,7 @@ export function Help() {
         </p>
         <p>
             Del mismo modo, el código fuente de este visor también esta disponible con licencia MIT en este repositorio:
-            <a href="https://github.com/roberlarues/larues-casas"> https://github.com/roberlarues/larues-casas</a>
+            <a href="https://github.com/roberlarues/larues-casas" target="_blank"> https://github.com/roberlarues/larues-casas</a>
         </p>
     </div>
 }
