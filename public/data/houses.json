@@ -3,88 +3,58 @@
 		"id": 0,
 		"type": "particular",
 		"name": "Casa Francisca",
-		"description": null
+		"description": "<p>Esta casa está situada en la Plaza, frente al frontón. No hemos podido averiguar a quién debe su nombre. Parece ser que en el pasado la casa se denominaba “Casa Biota”, pero bien pudo ser que, en realidad, la casa actual sea el resultado de la unión de dos casas paralelas distintas, y el nombre de una absorbiera el de la otra.</p><p>La planta de la casa también es peculiar, pues por su fachada al mediodía es muy ancha, y consta de bajos, primer piso y falsa. Sin embargo, por su lado que da a la Calle San Vicente se estrecha notablemente y disminuye su altura. Deducimos que esa parte de la casa tiene un origen distinto.  Dispone de una gran ventana baja que, tal vez, fuera una puerta de entrada cegada posteriormente, correspondiendo a una pequeño edificio independiente.\nEn el pasado la casa contaba, como era relativamente habitual, de un patio empedrado con cantos rodados que formaban dibujos geométricos.</p><p>La casa conserva su tradicional puerta en arco de medio punto, aunque las dovelas no son visibles. Ha sufrido transformaciones, como la sustitución de ventanas por balcones, pero no se ha alterado su disposición simétrica ni sus proporciones originales.</p><p>El escudo con el apellido Clemente, que portan sus moradores, fue realizado por Nicolás Salvador. Dicho apellido procede de la localidad de Martes, cuando Ramón Clemente, de Casa Urós de dicho pueblo, vino a casar con Gregoria Biota, de esta casa de Francisca.</p>",
+		"images": [
+			"Francisca.JPG"
+		]
 	},
 	"Iglesia": {
 		"id": 1,
 		"type": "public",
 		"name": "Iglesia",
-		"description": "La Iglesia parroquial, dedicada a San Vicente Mártir, es de origen gótico del s. XVI. Se compone de tres naves y crucero, cubiertas por bóveda de tercelete, sobre el que se eleva un cimborio octogonal. Sobresale su portada flamígera, y la torre se alza con tres cuerpos de planta cuadrada.",
+		"description": "<p>La Iglesia parroquial, dedicada a San Vicente Mártir, es de origen medieval y ha sufrido numerosas remodelaciones en el transcurso de los siglos. Se compone de tres naves y transepto que apenas sobresale en planta. Dichas naves están cubiertas por bóvedas de crucería, de terceletes en la nave central y en la lateral sur y flamígera en la lateral norte. Sobre el crucero se alza un cimborrio octogonal.</p><p>Sobresale su portada gótica de tendencia flamígera, cobijada por una lonja. La torre se alza con tres cuerpos de planta cuadrada. Junto a la iglesia se encontraba el antiguo cementerio, en una zona que posteriormente ha sido ajardinada.</p><p>A la iglesia se accede a través de una rampa de bastante inclinación, desde la Replaceta o Plaza de las Escuelas. En la actualidad se asciende por ella a través de una escalinata de amplios peldaños. El espacio que rodea la iglesia en su fachada principal está protegido por una puerta de hierro que se colocó en el siglo XIX para evitar que dicho recinto fuera profanado por actividades no religiosas.</p><p>La iglesia se encuentra en la zona más elevada del pueblo. Algunos historiadores opinan que en ese enclave pudo haber una construcción defensiva en época medieval.</p>",
 		"images": [
 			"Iglesia.JPG"
 		]
-	},
-	"ZZZTejedor": {
-		"id": 2,
-		"type": "particular-desaparecida",
-		"name": "Casa Tejedor",
-		"description": null
-	},
-	"ZZZAnaya": {
-		"id": 3,
-		"type": "particular-desaparecida",
-		"name": "Casa Anaya",
-		"description": null
-	},
-	"ZZZMuriel": {
-		"id": 4,
-		"type": "particular-desaparecida",
-		"name": "Casa Muriel",
-		"description": null
-	},
-	"ZZZRoñaque": {
-		"id": 5,
-		"type": "particular-desaparecida",
-		"name": "Casa Roñaque",
-		"description": null
-	},
-	"ZZZJusto": {
-		"id": 6,
-		"type": "particular-desaparecida",
-		"name": "Casa Justo",
-		"description": null
-	},
-	"ZZZMuriel": {
-		"id": 7,
-		"type": "particular-desaparecida",
-		"name": "Casa Muriel",
-		"description": null
-	},
-	"ZZZMuriel": {
-		"id": 8,
-		"type": "particular-desaparecida",
-		"name": "Casa Muriel",
-		"description": null
 	},
 	"Babil": {
 		"id": 9,
 		"type": "particular",
 		"name": "Casa Babil",
-		"description": null
+		"description": "<p>Curiosa casa que presenta una fachada estrecha por la zona de la plaza, pero de dos pisos de altura, y prosigue hasta la calle de San Vicente, donde la altura se reduce a un piso. Por este lado presenta  una ventana con dintel que bien pudo corresponder a una puerta después inutilizada como tal. Tal vez Casa de Babil sea el resultado de la unión de dos casas, pues su planta es estrecha pero muy alargada.</p><p>En el patio todavía quedan vestigios del antiguo suelo de cantos rodados.Posee sobre la puerta de acceso un curioso símbolo, único en el pueblo de esas características.</p>",
+		"images": [
+			"Babil.JPG"
+		]
 	},
 	"Bernardo": {
 		"id": 10,
 		"type": "particular",
 		"name": "Casa Bernardo",
-		"description": null
+		"description": "<p>La única casa del pueblo con puertas a tres calles distintas. Indudablemente, el resultado actual responde a la unión de varios edificios. Ello resulta evidente tanto por las diferentes alturas que muestran los mismos como por la orientación de sus puertas y tejados. La fachada principal da a la calle San Vicente. Por este lado apenas ha sufrido modificaciones.  En dicha fachada se muestra su escudo heráldico, un símbolo protector y alguna inscripción más. El nombre deriva de Bernardo Solana, un antiguo propietario de la misma, infanzón.</p><p>Por la parte que da a la plaza, la casa presenta mayor anchura.  Al parecer, esta zona correspondía, por su lado izquierdo, a una parte de Casa de Zapatera y, por su lado derecho,  a un corral situado junto a la misma. Se recuerda que en esta fachada hubo una antigua puerta que destacaba por el gran tamaño de la piedra que formaba su dintel.\nEn la actualidad por ese lado tiene dos pisos, además de la planta baja. Su fachada está revocada, y responde a un diseño más moderno.</p><p>La casa avanza a modo de corredor hasta la Calle Oriente, en sentido perpendicular al eje general. Allí muestra una pequeña y bien acondicionada fachada de piedra, con una puerta tradicional en cuyo dintel hay grabado un símbolo.</p>",
+		"images": [
+			"Bernardo.JPG"
+		]
 	},
 	"Zapatera": {
 		"id": 11,
 		"type": "particular",
 		"name": "Casa Zapatera",
-		"description": null
+		"description": "<p>Esta casa se sitúa en el corazón de la Calle de San Vicente. Presenta revoque en su fachada, que parece remodelada en parte, dado el tamaño bastante grande de la ventana de su primer piso. En la fachada destaca notablemente su puerta, cuyo dintel se apoya en unas piedras o mochetas decoradas con tres curvas, un motivo que no abunda y se sale de los esquemas tradicionales de decoración de las portaladas. En la puerta de madera se conserva un llamador sencillo de hierro, muy tradicional.</p><p>Parece ser que en el pasado la casa se alargaba hacia atrás, llegando hasta la plaza. Esa zona con el transcurso del tiempo ha pasado a formar parte de Casa de Bernardo.</p><p>El nombre que recibe la casa parece aludir al oficio que practicaría alguna mujer de la casa.</p>"
 	},
 	"Indalecio": {
 		"id": 12,
 		"type": "particular",
 		"name": "Casa Indalecio",
-		"description": null
+		"description": "<p>Era llamada popularmente “Andelecio”. Durante muchos años ofrecía servicio de bar en la planta primera, mientras en la planta baja alojaba carnicería y tienda de ultramarinos, que proporcionaba los alimentos y utensilios básicos para las familias del pueblo, incluyendo incluso sencillos juguetes que alegraban a los niños el día de Reyes.</p><p>Teresa Labarta, que moraba en la casa hasta hace pocos años, se encargó durante un tiempo de enseñar a coser a las muchachas del pueblo que querían aprender, instalando en la vivienda así un taller de costura, en el que no faltarían las conversaciones amenas y las risas juveniles.</p><p>La pequeña tienda aún sobrevivió hasta el año en el que se jubiló María Ángeles Clemente. Posteriormente, la casa ha sufrido una profunda remodelación, cambiando radicalmente su aspecto, aunque ha querido mantener la fachada principal en piedra, como es tradición en la zona.</p>",
+		"images": [
+			"Indalecio.JPG"
+		]
 	},
 	"Sastre": {
 		"id": 13,
 		"type": "particular",
 		"name": "Casa Sastre",
-		"description": null,
+		"description": "<p>Esta casa está situada en la Calle Oriente. Debe su nombre a que en ella habitaba el sastre. Los últimos conocidos fueron el señor Román y su hijo Ricardo. La sastrería la tenían en el segundo piso, en la zona más alta de la casa, para recibir mejor la luz solar. Ricardo después se trasladó a vivir a Jaca, con su esposa Sofía. Ya de mayor, formaba parte del grupo de músicos del Hogar del Jubilado. Éstos vinieron a tocar para las fiestas durante varios años, y tenían una energía envidiable, que casi nos agotaba a los que entonces éramos jóvenes. Los miembros de esta casa debían tener un don especial para la música, pues sus hermanas Araceli y  Ángeles cantaban de maravilla.</p><p>Casa de Sastre debió ser remodelada, como muestran sus ventanas abalconadas, que aparecen en los dos ángulos de la casa. Destaca el amplio balcón del piso superior, el correspondiente a la sastrería propiamente dicha.</p><p>La puerta conserva su aspecto tradicional, con un símbolo decorando su dintel.</p>",
 		"images": [
 			"Sastre.JPG"
 		]
@@ -93,13 +63,13 @@
 		"id": 14,
 		"type": "particular",
 		"name": "Casa Miguelanaya",
-		"description": null
+		"description": "<p>Es la casa que recibe al viajero que viene de Bailo. Está situada en el ángulo sudeste del pueblo, con una orientación privilegiada hacia la salida del sol. El nombre debe proceder de algún Miguel Anaya que vivió en ella. Este nombre  aparece en algunos documentos de mediados del siglo XVIII y principios del XIX. Figura como infanzón, con salva de infanzonía ganada ya en 1596.</p>La casa ha sido remodelada, y no conserva en su fachada vestigios de la arquitectura tradicional. En una  fotografía antigua aparece el dintel grabado con un símbolo. En dicha fotografía se ve a señora Primitiva ante la puerta de su casa. En el pueblo se recuerda el garbo con el que caminaba, erguida, sosteniendo sobre la cabeza  el cántaro o el capazo cargado de cosas recogidas en el huerto, apoyado en una almohadilla circular, sin sujetarlo con la mano, en un difícil y milagroso equilibrio que habían aprendido desde que eran niñas las mujeres de aquella época.</p>"
 	},
 	"Donau": {
 		"id": 15,
 		"type": "particular",
 		"name": "Casa Donau",
-		"description": null,
+		"description": "<p>La casa original de Donau era muy antigua. Conservaba una ventana con el dintel en forma de arco conopial, de estilo gótico. También poseía una espectacular chimenea troncocónica, tan alta casi como la propia casa. Tras ser vendida fue derribada en su totalidad, y la actual es una construcción moderna, cuya cantería más vistosa fue realizada por Nicolás Salvador, artesano del pueblo.</p><p>Se ha reproducido una portalada a semejanza de las típicas del pueblo. Presenta toda su fachada de piedra. En el primer piso vemos un gran ventanal y en el segundo una galería corrida, buscando así la luz, como es propio de la moderna arquitectura funcional.</p>",
 		"images": [
 			"Donau.JPG"
 		]
@@ -108,7 +78,7 @@
 		"id": 16,
 		"type": "particular",
 		"name": "Casa Abadía",
-		"description": null,
+		"description": "<p>Llamada así por servir de vivienda del cura durante algunos años del siglo XX, ya que era del obispado.</p><p>En ella vivió Mosen Juan Buesa, quien falleció en 1946. Durante un tiempo en Larués no había sacerdote, y acudía Mosén Gregorio de Bailo. Por ello, estuvo alquilada, primero  a Pedro de Carpintero y su familia y después a José María Mur, de Berdún, con su mujer e hijos, quien había abierto en el pueblo un horno de pan situado junto a la carretera.</p><p>En ella vivió Mosén Jesús Guallart, cuando Larués volvió a tener sacerdote.</p><p>El obispado finalmente vendió la casa, que fue adquirida por la familia procedente de la antigua casa de Donau. Desde entonces, pasó a ser conocida popularmente como casa Donau o casa Donau “nueva” para diferenciarla de la original. </p><p>La vivienda se sitúa en frente de Casa Lugar, en la Plaza de las Escuelas. En época de fiestas, sus aceras se convierten en los bancos más codiciados para ver el pregón, teatros o los juegos infantiles. En esta casa, Primi trabajaba la madera de boj, y prueba de ello son los diversos utensilios que se exponían en su interior.</p>",
 		"images": [
 			"Abadía.jpg"
 		]
@@ -117,61 +87,73 @@
 		"id": 17,
 		"type": "particular",
 		"name": "Casa Juanloren",
-		"description": null
+		"description": "<p>Esta casa, de gran tamaño,  se asoma a la calle Oriente, que en la actualidad es un tramo de la carretera que bordea el pueblo por su lado este.</p><p>Está emplazada sobre una curiosa plataforma ligeramente curva, a modo de muro que la aísla de la travesía. Ha sufrido una gran transformación en las últimas décadas, pero conserva su antigua fachada principal. La mitad izquierda de la misma destaca sobre las demás casas del pueblo por sus sillares, grandes y perfectamente escuadrados y pulidos. Éstos enmarcan una portalada en arco de medio punto, con grandes dovelas que lo dibujan. En la central podemos ver un escudo heráldico original. La mitad derecha tiene sillarejos, como la mayoría de las casas del pueblo. Sobre esta fachada antigua se ha levantado un segundo piso, con una galería corrida, que le da a la casa actualmente una mayor altura.</p><p>Actualmente está subdividida en varias viviendas, siendo para ello completamente reconstruida en el año X, a excepción, como se ha señalado,  de la fachada frontal. Por ello, los estilos de cada una de sus fachadas son diferentes. Cuenta con un jardín en el lateral, en el que se puede ver un mural de Roberto Villegas que reproduce maravillosamente un cuadro de Picasso.</p>"
 	},
 	"Lherrero": {
 		"id": 18,
 		"type": "particular",
 		"name": "Casa L'Herrero",
-		"description": null
+		"description": "<p>Esta casa, junto con la vecina Casa de Simón, formaron en el pasado una unidad constructiva. Sus propietarios dicen que por la parte de arriba estaban separadas por  sencillos tabiques de tapial, y se podían oír perfectamente las conversaciones de una casa a la otra.</p><p>Probablemente se tratase de las llamadas “Casas del Lugar”, es decir, del propio ayuntamiento, que, como todos los bienes comunales y de propios, fueron “incautadas” en la Desamortización Civil por el gobierno para ser vendidas en pública subasta. En 1863 se subastó una casa que, por las confrontaciones que se determinan, debió ser ésta. Fue adquirida por Domingo Val.</p><p>Ambas casas, ya separadas, han sufrido algunas modificaciones, pero Casa del Herrero todavía conserva sus ventanas tradicionales en la planta baja y  el primer piso, así como su portalada, gemela de la de Casa de Simón.</p><p>Durante muchos años, sus propietarios estuvieron al frente de la herrería del pueblo. Recordamos los nombres de Miguel, que fue herrero y secretario del Ayuntamiento, de Cándido, la siguiente generación,  y de Fidel, el hijo, recientemente fallecido. El primero de los citados, Miguel, se había trasladado a Larués, procedente de Cosculluela del Sobrarbe, portando un apellido, Buil,  que por aquí no es frecuente.</p><p>La herrería, además de desempeñar una función importantísima para el ejercicio de la actividad agrícola, tanto en el pasado, cuando se trabajaba el hierro a la forja, como después, que devino en taller mecánico para la reparación de vehículos, era, además,  un lugar de encuentro y socialización para los hombres del pueblo, como lo fueron el lavadero, la fuente o los carasoles para las mujeres.</p>",
+		"images": [
+			"Herrero.JPG"
+		]
 	},
 	"Simon": {
 		"id": 19,
 		"type": "particular",
 		"name": "Casa Simon",
-		"description": null
+		"description": "<p>Es la casa contigua a Casa del Herrero. Ambas eran más bajas de altura. Como aquella, debió formar parte de la Casa subastada en 1863, como consecuencia de la Desamortización Civil de Madoz. Era del propio pueblo (de “Propios”). Los comunales y los bienes de “propios” eran incautados por el Estado y se vendían en pública subasta. Dicha casa fue adquirida por Domingo Val.</p><p>En tiempos más recientes residió en ella la entrañable pareja formada por Eulalia (“Ularia”, decían muchos) y Florián. En la casa, anteriormente, debió haber tienda, pues a una de las estancias de la casa ellos la denominaban así, “la tienda”, aunque ellos ya no desempeñaron esa actividad. Sin embargo, ejercieron otras muy  importantes para la vida cotidiana del pueblo:  eran los encargados de encender el horno puntualmente para que las distintas familias cocieran el pan y eran los sacristanes o campaneros. Debían levantarse muy temprano, incluso en invierno, para realizar todos los toques de campanas obligados en el día a día, así como los destinados a otros acontecimientos, como las fiestas, defunciones...</p><p>En su casa también albergaron a los maestros o maestras que se sucedían en el pueblo. Tenía su habitación en la zona que da al huerto, por la parte de atrás, bien soleda. \nCon el paso del tiempo, el huerto, con su famosa higuera, se convirtió en un “vergel” en el que se escondían las pelotas cuando se jugaba al frontón.</p><p>Casa de Simón ha sido remodelada casi en su totalidad en su aspecto exterior, aunque su interior está “sin acabar”. Conserva de la antigua sólo la puerta de acceso, con el dintel característico. En la actualidad no vive nadie de forma permanente.</p>",
+		"images": [
+			"Simon.JPG"
+		]
 	},
 	"BarMolino": {
 		"id": 20,
 		"type": "public",
 		"name": "Bar El Molino",
-		"description": null
+		"description": "<p>No sorprenderá a muchos que su nombre se deba a que antiguamente se trataba de un antiguo molino de cereales, movido por energía eléctrica. Este bar, que pertenece a la Entidad Local Menor de Larués, ha tenido distintos gestores hasta el día de hoy, siendo el chef Joaquín Moreno Mur quien se encarga de regentarlo. Entre los años 2021 y 2022 se ha ampliado el establecimiento para mejorar las instalaciones. Desde entonces, el restaurante cuenta con 2 comedores:</p><ul><li>“La votadera”, llamado así en honor a la zona delante del restaurante (norte), donde antaño se realizó una votación popular para decidir por qué zona del pueblo debía atravesar la futura carretera.</li><li>“San Chaime”, llamado así en honor al monte más cercano, visible desde la zona trasera del restaurante (sur)</li></ul>"
 	},
 	"CasaMolino": {
 		"id": 21,
 		"type": "particular",
 		"name": "Casa Molino",
-		"description": null
+		"description": "<p>La casa se construyó en el pasado siglo, para albergar a las personas que se hacían cargo del molino eléctrico. Por ello era conocida como  “Casa de los Molineros”. Los últimos en desempeñar esa función fueron Josefina y Emilio.</p><p>La casa es de la Entidad Local Menor. Fue habilitada como Casa Rural, y durante un tiempo desempeñó esa función.</p>",
+		"images": [
+			"Molino.JPG"
+		]
 	},
 	"GarajeMolino": {
 		"id": 22,
 		"type": "public",
 		"name": "Barra Turca",
-		"description": null
+		"description": "<p>Este edificio fue construído en los años 40 del pasado siglo XX. Se había solicitado a la empresa de transporte “La Ansotana” que estableciera un servicio desde Larués hasta Jaca. Ésta puso como condición que le proporcionaran un local cerrado para guardar el vehículo. Así fue como, de vecinal, se construyó el garage. El servicio se inició en el año 1943. El vehículo era propulsado por el sistema de gasógeno, quemando carbón. Decían en el pueblo que funcionaba como los trenes. Pinchaba con frecuencia, pues la carretera no estaba asfaltada. Por ello, dejó de ser rentable. Estuvo funcionando dos o tres años.</p><p>Este local es propiedad de la Entidad Local Menor. En un pasado reciente servía como garaje, estando alquilado para ese servicio.</p><p>Se encuentra junto a la Casa del Molino. Actualmente no está alquilado, para que pueda desempeñar distintas funciones de interés social, a modo de “sala multiusos”:</p><ul><li>Sala de gimnasia para personas mayores</li><li>Comedor para comidas populares</li><li>Clases de baile, cocina, cursillos diversos, etc.</li><li>Barra en época de fiestas, por lo cual es comúnmente conocido como “Barra Turca”.</li></ul>"
 	},
 	"Cementerio": {
 		"id": 23,
 		"type": "zone",
 		"name": "Cementerio",
-		"description": null
+		"description": "<p>Anteriormente, el cementerio se encontraba junto a la iglesia. Se conocía como el “Cementerio Viejo”.  Éste otro es, por tanto, el “Cementerio Nuevo”. En el Diccionario de Madoz de 1847 ya se cita la existencia de un cementerio fuera del pueblo.</p><p>El cementerio actual se construyó en la zona del Campo Concejo, propiedad de la Entidad Local Menor. Las tumbas más antiguas que conservan fecha se remontan a 1924. Como es frecuente en estos lugares, en el cementerio hay dos cipreses.</p><p>Como curiosidad, una circular de 1948 de las autoridades eclesiásticas  pide que no se utilice el cementerio para sacrificar ganado lanar y exige que el cura ponga llave en la puerta del cementerio y haga cortar la higuera en la que se colgaban a los animales sacrificados. Es de suponer que esta advertencia se refiere al cementerio viejo cuando ya no se usaba.</p>"
 	},
 	"Ermita": {
 		"id": 24,
 		"type": "public",
 		"name": "Ermita San Cristobal",
-		"description": null
+		"description": "<p>A pocos metros del pueblo en dirección sur está situada la ermita dedicada a San Cristóbal. El culto a este santo era frecuente en los lugares ubicados en las proximidades del Camino de Santiago. Por Larués pasaba un ramal secundario del mismo.</p><p>El edificio es muy sencillo y de factura popular. Fue reconstruida en 1879, dado que para entonces presentaba un aspecto ruinoso. Para dicha reconstrucción se reutilizaron materiales de la también ruinosa (y hoy totalmente desaparecida) ermita de Santiago. Desconocemos cómo debía ser el aspecto de la ermita original. En el año 1882 se hizo el coro alto de la ermita. Los vecinos colaboraron aportando, como mínimo, una tabla cada casa, según su voluntad y posibilidades económicas.</p><p>Llama la atención que el altar está orientado hacia poniente, cuando lo habitual en las iglesias medievales era que estuviera mirando hacia la salida del sol.</p><p>Para Pascua de Pentecostés a este lugar acuden en romería los habitantes de Larués. Allí se celebra una misa y se bendicen los términos.</p>"
 	},
 	"Amandas": {
 		"id": 25,
 		"type": "particular",
-		"name": "Casa Amanda",
-		"description": null
+		"name": "Casa Amanda e Izarbe",
+		"description": "<p>Situada en la zona conocida en el pasado como “Santa Eulalia extramuros”. Su construcción parte de la remodelación de un corral de Miguel Anaya. Llaman la atención sus chimeneas y sus veletas, cuyo diseño original  nos recuerda a una casa de cuento. Está compartimentada en tres viviendas independientes.</p>",
+		"images": [
+			"Amanda.JPG"
+		]
 	},
 	"Josete": {
 		"id": 26,
 		"type": "particular",
 		"name": "Casa Josete",
-		"description": null,
+		"description": "<p>Originariamente, en el lugar que ocupa la casa se había construído  un cubierto a modo de garaje para guardar el primer “coche de línea” que hacía el recorrido de Larués hasta Jaca, una vez que estuvo construida la carretera en la década de los años 30 del pasado siglo. El servicio comenzó antes de la guerra, y lo desempeñaba un conductor de Berdún, pariente de casa de Huertalo. Durante la guerra el vehículo le fue confiscado. Los de Huertalo guardaban allí un volquete.</p><p>Posteriormente, allí se instaló un horno de pan regentado por José María Mur, panadero procedente de Berdún, quien traspasó el negocio a Eliseo Laplaza, panadero de Bailo.\nEn época más reciente se desmanteló el horno y en su lugar se construyó esta sencilla vivienda de una sola planta y tejado de una sola vertiente. Su propietaria, Serafina del Herrero, se lo cedía a su hermano José Buil, llamado popularmente Josete.</p>",
 		"images": [
 			"Josete.JPG"
 		]
@@ -180,7 +162,7 @@
 		"id": 27,
 		"type": "particular",
 		"name": "Casa Jose Luis",
-		"description": null,
+		"description": "<p>Esta casa, conocida popularmente como el Chalet de José Luis y Presen,  se levantó en un solar que formaba parte del huerto de Juan Lorén.  Llama la atención su peculiar orientación, pues rompe los esquemas de los cuatro puntos cardinales, al estar desviada su planta con respecto a los mismos, como si quisiera aprovechar así mejor la luz.</p><p>Esta casa cuenta con una zona inferior, que da a pie de calle, que proporciona una terraza a la parte superior. Llama la atención aún más la parte superior, con forma irregular y paredes inclinadas.</p><p>El promotor de su construcción fue José Luis (de quien procede el nombre de la casa), recientemente fallecido. Junto con su esposa Presen habitaron en vacaciones en esta casa, que llama la atención por su diseño y modernidad.En la actualidad, la casa ha cambiado de dueño.</p>",
 		"images": [
 			"JoséLuis.JPG"
 		]
@@ -189,19 +171,19 @@
 		"id": 28,
 		"type": "particular",
 		"name": "Casa Vives",
-		"description": null
+		"description": "<p>Casa de Vives se ubica en la Calle Oriente. La casa ha sido remodelada profundamente en las últimas décadas, conservando su portalada original en arco de medio punto y la ventana de los bajos. Está hecha de piedra, con dinteles de madera en las ventanas y balcones, cuya amplitud permite la entrada de la luz del sol. El tejado, a doble vertiente hacia los lados, es novedoso en el pueblo, no habiendo otro de sus características. Tiene una inclinación bastante acusada. Todo ello le confiere un aire de vivienda pirenaica moderna. La casa destaca por su altura, pues cuenta con dos pisos, además de los bajos. En el buen tiempo, las flores adornan los balcones y ventanas, dando el toque de color necesario a la fachada de piedra.</p><p>En el pueblo hay quien dice que la primitiva casa de Vives estuvo situada enfrente, en lo que hoy es un corral. Dicho corral llama la atención por el tamaño y regularidad de algunos de sus sillares, que hacen posible la teoría de que en su momento pudo ser vivienda. También se aprecia que en el mencionado corral las piedras que debieron formar su primitiva portalada han sido retiradas.</p><p>En un documento de 1625 se cita a Pedro Vives, herrero. El apellido Vives vuelve a aparecer en otro documento de 1738, en el que un tal Miguel Vives ejerce el oficio de tejedor de lienzos. En 1773, en un listado de habitantes de Larués, figurando entre los no infanzones, aparece Francisco Bibes. Como segundo apellido aparece  en 1802 en Antonio Solana y Vives, infanzón. Probablemente el nombre de la casa derive de alguno de ellos.</p>"
 	},
 	"Vives2": {
 		"id": 29,
 		"type": "particular",
 		"name": "Casa Vives II",
-		"description": null
+		"description": "<p>Se levanta en la Calle Norte sobre el solar del antiguo huerto de Casa de Vives. Ha sido edificada por miembros de esta familia. Se trata de un edificio moderno, de dos pisos de altura más la planta baja. Está hecho de piedra, con enormes ventanas rectangulares. La fachada resulta así muy sobria y funcional. En la parte superior cuenta con una terraza abalconada. Se destaca la silueta de su gran chimenea.</p>"
 	},
 	"Alaman": {
 		"id": 30,
 		"type": "particular",
 		"name": "Casa Alamán",
-		"description": null,
+		"description": "<p>Actualmente deshabitada y en venta. Poseía unas puertas de madera labradas muy bonitas. Pertenecía a una familia de infanzones, con salva de infanzonía ganada en 1680. Con anterioridad, ya en 1495, aparece mencionado un Martín Alamán. El nombre de la casa deriva del apellido de sus moradores, que lo han ido manteniendo en las sucesivas generaciones.</p><p>Tenía dos puertas de acceso en los dos lados cortos del edificio. Es una casa muy alargada que se extiende desde la carretera hasta la  placita que hay junto a casa de Huertalo. Está separada de casa de Vives por un callejón bastante ancho. Presenta en una de sus fachadas un hastial achaflanado en la fachada sur que da al callejón, el único de estas características que hay en el pueblo.</p>",
 		"images": [
 			"Alamán2.jpg"
 		]
@@ -210,19 +192,22 @@
 		"id": 31,
 		"type": "particular",
 		"name": "Casa Sastrelargo",
-		"description": null
+		"description": "<p>Esta casa está situada en la Calle Oriente o carretera. Fue reformada en el pasado siglo XX, como lo demuestra la forma de sus ventanas, que son abalconadas. La forma de la puerta tampoco denota antigüedad.</p><p>Desde hace varias generaciones los propietarios de la casa llevan el apellido Alastuey. Un documento alusivo al año 1773 nombra a un tal Joseph Alastuey, sastre, en el listado de “plebeyos”, es decir, no infanzones. No sabemos si se trata de algún antepasado de la casa, pues coincide el apellido que mantienen ahora con el oficio que parece dar nombre a la casa. Lo de “sastre”... bien podría ser por eso, pero… ¿lo de largo? Eso ya es otro misterio por resolver.</p>"
 	},
 	"Jimenez": {
 		"id": 32,
 		"type": "particular",
 		"name": "Casa Jiménez",
-		"description": null
+		"description": "<p>Se encuentra estratégicamente situada en la esquina nordeste del pueblo, como si mirara directamente hacia San Juan de la Peña. Su fachada principal se localiza en la calle Oriente o Carretera. Allí podemos contemplar el escudo heráldico de la familia Ximénez de Larués, que, con pequeñas variaciones, se repite en el patio interior de la casa.</p><p>La casa tiene planta baja y planta superior habilitada como vivienda, además de la falsa. En su interior hay un gran patio porticado con grandes arcos de piedra y una soleada galería en el primer piso. En dicho patio también hay un pozo hecho con grandes piedras.</p><p>La referencia más antigua del apellido se remonta a un documento de 1528, en el que se cita a Luis Ximénez.  La casa ha albergado al linaje infanzón de los Ximénez, uno de cuyos miembros, Miguel Ximénez, deán de la catedral de Tarazona, fundó a finales del siglo XVI en Zaragoza, en la calle San Lorenzo, un ”colegio mayor” para estudiantes pobres, llamado Colegio San Vicente Mártir, popularmente “Colegio de los Montañeses”. Varios miembros de la familia Ximénez desempeñaron el cargo de párroco de la iglesia de Larués en el siglo XVII.</p>",
+		"images": [
+			"Jimenez.JPG"
+		]
 	},
 	"Cojo": {
 		"id": 33,
 		"type": "particular",
 		"name": "Casa Cojo",
-		"description": null,
+		"description": "<p>Esta casa está  situada en la periferia del pueblo y muy  expuesta al cierzo. Desde sus ventanas debe tener una vista privilegiada del Pirineo. Sus últimos propietarios originarios del pueblo fueron Evaristo y María. El primero falleció ahogado accidentalmente en un pozo en el barranco de Santa María. La casa fue remodelada en el pasado siglo XX, al ser adquirida por una familia procedente del País Vasco, por lo que ahora es también conocida como “Casa de los Vascos”.</p>",
 		"images": [
 			"Cojo.JPG"
 		]
@@ -231,7 +216,7 @@
 		"id": 34,
 		"type": "particular",
 		"name": "Casa Huertalo",
-		"description": null,
+		"description": "<p>Este gran caserón está ubicado en la bajada hacia la carretera, en un “ramal” de la calle Norte. En su fachada también se aprecian signos de remodelaciones, con apertura de ventanas de mayor tamaño de lo que suele ser tradicional. También destaca el gran balcón situado en la fachada meridional, orientado así convenientemente para secar la ropa en cualquier época del año.</p><p>Desconocemos el por qué de su nombre. Tal vez en el pasado viniera a vivir a ella alguien procedente del pueblo de Huertalo. Sobre la puerta de acceso se aprecia la silueta borrosa de lo que debió ser un pequeño escudo heráldico.</p><p>De Casa de Huertalo se recuerda a Dionisio, que fue el último en vestir calzón, el traje altoaragonés tradicional.</p><p>De dicha casa  procedieron también unos albañiles locales que hicieron numerosos trabajos en el pueblo: Julián y Victorián Larraz. Los moradores de esta casa portaban el apellido Larraz. La referencia más antigua que tenemos es la de un Joaquín Larraz Sánchez que vino de Araguás del Solano, quien vivió a finales del siglo XIX.</p><p>Junto al ángulo que la fachada dibuja con Casa de Alamán se aprecia una abertura tapiada. En el pasado por allí se accedía a la primitiva “Casa Tejedor”.</p>",
 		"images": [
 			"Huertalo.JPG"
 		]
@@ -240,13 +225,13 @@
 		"id": 35,
 		"type": "particular",
 		"name": "Casa Juan",
-		"description": null
+		"description": "<p>Esta casa, situada en la calle Oriente, en la bajada de la carretera, parece un poco más aislada del casco urbano pues, hasta la construcción de las casas de José Luis y Josete, ambas modernas, era la única casa antigua en esa margen de la carretera, lindando con otro tipo de edificios, como corrales, huertos, … Sin embargo, es posible que uno de dichos corrales, el de Vives, hubiera sido anteriormente vivienda.</p><p>Casa de Juan había sido propiedad  de casa Simón, y la tuvieron alquilada a distintos moradores. No conocemos el nombre original de la casa, y así ésta ha ido adquiriendo el de las personas que han habitado en ella. Allí vivió un guardia civil retirado llamado Nicolás, los molineros Eugenio y Luisa, María Cruz de Benito y Máximo de Juanjosé, … todos ellos con sus familias. También residió en ella la familia formada por María de Juanlongás, Agustín Ara y Juan Bosco Ara, quienes adquirieron la vivienda y la rehabilitaron, y por ello ahora se conoce como Casa de Juan o de Juanito.</p><p>La casa conserva las ventanas pequeñas, con sus dinteles y alféizares propios de la arquitectura tradicional. La puerta, sin embargo, es el resultado de la remodelación que experimentó la casa tras ser adquirida.</p><p>Está situada en la Plaza de las Campanas, continuación natural de la calle Traviesa. Desconocemos a qué debe su nombre. Suponemos que en el pasado una de sus propietarias se llamaría así.</p><p>La casa tiene una fachada muy ancha, y sigue el declive de la propia calle. Las ventanas abalconadas del primer piso, y el propio balcón,  muestran el resultado de alguna remodelación, tal vez en el siglo XX. En la planta baja vemos ventanas pequeñas, de la forma tradicional. En el interior del patio todavía se conserva parte del suelo de cantos rodados que muestra diseños geométricos, levantando parcialmente cuando se introdujo el agua corriente en las casas.</p><p>También podemos ver la puerta de entrada a la antigua cuadra, que ha quedado notablemente levantada en relación al piso de la calle, y ahora hace la función de pequeño banqué, en el que recordamos ver sentados en las tardes de verano a Arturo y Simona, ya fallecidos.</p>"
 	},
 	"Ramonito": {
 		"id": 36,
 		"type": "particular",
-		"name": "Casa Ramonito",
-		"description": null,
+		"name": "Casa Ramón",
+		"description": "<p>Esta casa se sitúa donde antaño hubo un corral de Casa de Babil destinado a los animales domésticos. El actual propietario ha levantado allí una vivienda moderna sobre la misma planta del edificio anterior, por lo que conserva la curiosa curva de la parte posterior, donde unos grandes ventanales dejan entrar la luz del sol naciente. La casa dispone de dos pisos de altura, estando adaptada a las necesidades de estos tiempos.</p>",
 		"images": [
 			"Ramonito.jpg"
 		]
@@ -255,7 +240,7 @@
 		"id": 37,
 		"type": "particular",
 		"name": "Casa Ángel",
-		"description": null,
+		"description": "<p>Anteriormente era conocida como casa de Rosa, esposa de Victorián Larraz, albañil que realizó numerosos trabajos en el pueblo. Éstos vivieron con sus hijas Sofía y Rosario, quien estableció en ella un pequeño taller de costura. En aquel entonces era propiedad de casa de Francisca.</p><p>Después la casa fue vendida a Ángel Ciria y su familia. Eran llamados “los catalanes”, porque residían en Barcelona. De ahí recibe el nombre con el que en la actualidad la conocemos.</p><p>Cuando éramos niños nos gustaba escondernos en el estrecho callejón que se encontraba a su izquierda, cuando jugábamos a policías y ladrones.  Destaca su original puerta, construida con multitud de objetos de hierro propios de la agricultura y de la herrería, diseñada por el dueño de la vivienda y el herrero Fidel. ¿Sabrías decir cuántas herraduras hay en ella?</p>",
 		"images": [
 			"Angel.jpg"
 		]
@@ -264,7 +249,7 @@
 		"id": 38,
 		"type": "particular",
 		"name": "Casa Don José II",
-		"description": null,
+		"description": "<p>Esta casa fue construida en el siglo XX, dada la difícil habitabilidad que presentaba el gran caserón de Casa de Don José, no adaptado a las nuevas necesidades de los tiempos. Por su ubicación estratégica parece vigilar el Camino de Subilla y otro camino antiguo que va a parar a la antigua fuente. La casa presenta unas grandes ventanas acristaladas que permiten la entrada del sol. También parece estar custodiada por un gigantesco abeto que se mece al son del viento.</p>",
 		"images": [
 			"DonJoséII.JPG"
 		]
@@ -273,16 +258,17 @@
 		"id": 39,
 		"type": "particular",
 		"name": "Casa Carpintero",
-		"description": null,
+		"description": "<p>Suponemos que su nombre deriva del oficio que, en su momento, debió desempeñar su propietario. Entre esta casa y casa Lugar se encuentra uno de los callejones más estrechos y sombríos del pueblo, donde los niños nos escondíamos cuando jugábamos “a la lata” en la Replaceta.</p><p>En esta casa vivieron Rosinda y Antonio. Ella desempeñaba las funciones de “practicante”, es decir, ponía inyecciones a las personas enfermas. Él fue alguacil del pueblo y, entre otras cosas, pregonaba las noticias en las distintas esquinas, acompañado de una curiosa trompeta.</p><p>Casa de Carpintero conserva un símbolo grabado en el dintel de un balcón. Todavía junto a la puerta podemos ver su banqué, de los pocos que quedan en el pueblo.</p>",
 		"images": [
-			"Carpintero.jpg"
+			"Carpintero.jpg",
+			"Carpintero2.jpg"
 		]
 	},
 	"Lugar": {
 		"id": 40,
 		"type": "public",
 		"name": "Casa Lugar",
-		"description": null,
+		"description": "<p>En este edificio público actualmente se encuentra lo siguiente:</p><ul><li>La secretaría de la Entidad Local Menor de Larués</li><li>La consulta médica</li><li>La biblioteca “Antoni Marí”</li><li>El local multiusos de la juventud</li></ul><p>En el Diccionario de Madoz de 1847 se menciona que el pueblo tiene 44 casas, incluído el Ayuntamiento, que contaba con cárcel y escuela</p><p>A principios del siglo XX el aspecto del edificio y su compartimentación interior eran distintos. En la planta baja se accedía por la puerta central a un patio. A la izquierda del mismo estaba el salón de baile y a la derecha el “cuarto de las ratas”, que era una especie de almacén, y el calabozo, con reja y cerradura. Desde el patio una escalera ascendía hasta la planta superior. A la izquierda del hueco de la escalera estaba la secretaría y a la derecha una única aula en la que un solo maestro o maestra se hacía cargo de todos los niños y niñas del pueblo, a los que imaginamos sentados muy juntos pues el espacio debía ser pequeño para la cantidad de criaturas que por aquellos años tendría el pueblo</p><p>En los años de la postguerra, cuando los maquis estaban ocultos en las sierras de los alrededores, en el pueblo vinieron unos cuantos miembros de la Guardia Civil, que se instalaron durante el verano en la escuela, a modo de improvisado cuartel.</p><p>Posteriormente la escuela se remodeló, para hacer dos espacios distintos: la clase de las niñas y la clase de los niños, con sus respectivos maestros. Podían acceder directamente desde la calle por la escalera de doble vertiente, que se construiría a tal efecto. La escuela ocupaba así toda la parte superior de Casa Lugar.</p><p>En la planta baja se ubicó entonces la pequeña secretaría y un gran salón con un banco corrido de madera donde se hacía baile, con música “en vivo” (un acordeonista),  más adelante con un tocadiscos “Picú” (Pick up) y después con un radiocassette.</p><p>Cuando el número de alumnos fue descendiendo, volvió a haber una única aula, con un único maestro/a, y la zona de la derecha se habilitó para albergar una secretaría más espaciosa.</p><p>Finalmente, la escuela se cerró a comienzos de la década de los años 80 del pasado siglo. El espacio se reconvirtió en “Biblioteca”, donde se exponen algunos de los objetos, instrumentos y libros que se utilizaban en la antigua escuela.  Se usa también  para reuniones de interés general. En los fríos domingos de invierno incluso se ha hecho misa allí.</p><p>En la planta baja, a la izquierda se encuentra ahora la “consulta”, a donde acuden el médico y la enfermera un día a la semana. En el lado derecho hay un local donde se reúnen habitualmente algunos jóvenes, a modo de local social o peña.</p><p>Desde el rellano al final de las escaleras externas que permiten acceder al piso superior se realiza el pregón que da comienzo a las fiestas.</p><p>No hay duda de que “Casa Lugar” ha sido y es  el corazón del pueblo.</p>",
 		"images": [
 			"Lugar.jpg"
 		]
@@ -291,7 +277,7 @@
 		"id": 41,
 		"type": "particular",
 		"name": "Casa Antondorencio",
-		"description": null,
+		"description": "<p>Su enorme patio delantero y su gran terraza hacen que no pase desapercibida. Se edificó de nueva planta sobre el solar de la antigua Casa de Antondorencio, formada, realmente, por la unión de tres viviendas, una de ellas conocida como Casa Orención. Su nombre tal vez haga referencia a algún Antón de casa de Orención. Entre las tres viviendas que componían la antigua casa figuraba una que fue también “abadía”, es decir, vivienda para el cura párroco.</p>",
 		"images": [
 			"Antondorencio.jpg"
 		]
@@ -300,7 +286,7 @@
 		"id": 42,
 		"type": "particular",
 		"name": "Casa Jacinta",
-		"description": null,
+		"description": "<p>Esta casa se halla ubicada en la Calle Mayor. En la fachada se aprecian distintas alturas en el edificio. La parte que se encuentra más a la derecha es más alta, denotando la presencia de dos plantas habitables. En esta zona de la fachada se encuentra la puerta de acceso al interior. La parte de la izquierda es más baja, y parece albergar una única planta habitable, descontando la previsible falsa. Esta diferencia de concepción del edificio, así como el gran tamaño de las ventanas, sugieren remodelaciones realizadas probablemente a comienzos del siglo XX. La puerta de acceso está coronada por un arco rebajado, cuyas piedras son visibles.</p><p>Está separada de Casa Lugar por un callejón. En el pasado vivió en ella el herrero, hasta que se trasladó éste a la actual Casa del Herrero.</p>",
 		"images": [
 			"Jacinta.jpg"
 		]
@@ -309,7 +295,7 @@
 		"id": 43,
 		"type": "particular",
 		"name": "Casa Ana",
-		"description": null,
+		"description": "Una de las viviendas más nuevas del pueblo. Situada en el camino de Subilla, sobre la antigua era de Zapatera, tiene unas vistas privilegiadas de la sierra de Larués. Está hecha en piedra y su diseño es sobrio y funcional.",
 		"images": [
 			"Ana.jpg"
 		]
@@ -318,7 +304,7 @@
 		"id": 44,
 		"type": "particular",
 		"name": "Casa Angelines",
-		"description": null,
+		"description": "<p>Situada en la Calle de las Eras, se levantó sobre un antiguo corral de Casa de Campo, cuyos habitantes lo llamaban el “corral de allá atrás”. La cantería más elaborada (piedras que rodean las ventanas, dinteles con su decoración, placa con el nombre de la casa, … ) fue realizada por el artesano de Larués Nicolás Salvador.</p>",
 		"images": [
 			"Angelines.JPG"
 		]
@@ -327,7 +313,7 @@
 		"id": 45,
 		"type": "particular",
 		"name": "Casa Parris II",
-		"description": null,
+		"description": "<p>Esta casa, situada en el Camino de Santiago, se edificó a partir de un antiguo corral de la era de Parris, cuya puerta, como único vestigio del mismo, se ha conservado. Es una construcción moderna que apenas ha sido habitada. Permanece a las afueras del pueblo, como un solitario centinela.</p>",
 		"images": [
 			"ParrisII.JPG"
 		]
@@ -336,13 +322,13 @@
 		"id": 46,
 		"type": "particular",
 		"name": "Casa Salanova",
-		"description": null
+		"description": "<p>Este gran caserón mira con su puerta hacia la Plaza de las Escuelas o Replaceta, pero se extiende a lo largo de la Calle Mayor, y  sube paralela a las escaleretas de la Iglesia. El revoque que presentan sus paredes impide ver el tipo de piedra con el que está construida. Sobre el dintel de la puerta aparece nítidamente grabado un símbolo. Las ventanas conservan el aspecto tradicional. Una de ellas es abalconada, tal vez resultado de alguna pequeña reforma. Vemos también la puerta de entrada a la primitiva cuadra, todavía de madera,  con una interesante cerradura antigua. Todavía conservan la anilla de hierro para atar a las caballerías.</p><p>La casa debe su nombre al apellido “Salanova” que ostentaron sus propietarios durante muchos siglos, siendo una de las familias infanzonas más antiguas del pueblo. Un documento  atestigua que ganaron la salva de infanzonía en el año 1598, para un tal Petrum Salanoua. La referencia más antigua que tenemos es de 1550, en la que se cita a Joan de Salanova. En 1862 aún figura regentando la casa Alberto Salanova.</p><p>En Casa de Salanova teníamos los jóvenes de entonces un importante paradero, pues Ángeles y Antonio, muy amablemente, siempre nos dejaban cosas para nuestros teatros.</p>"
 	},
 	"Tresofraile": {
 		"id": 47,
 		"type": "particular",
 		"name": "Casa Tresofraile",
-		"description": null,
+		"description": "<p>¿Cómo se pronuncia el nombre de esta casa? ¿Tosofraile? ¿Tresofraile? ¿Tienen que ver algo los supuestos “frailes” a los que parece hacer alusión el nombre de la casa?</p><p>Sabemos que en 1863 su propietario debía ser Matías Biota, y en 1945 Tomasa Biota, probablemente hija del anterior. Ésta era “comadrona”, y su marido “practicante”. No tuvieron descendencia, y Tomasa, ya viuda, legó la casa al Obispado de Jaca. Durante varios años vivió en ella el cura del pueblo. Cuando Larués dejó de tener sacerdote propio, el obispado la vendió, siendo adquirida por Ismael Macarulla y María Santos Salvador.</p><p>La casa se sitúa en la Plaza de las Escuelas o Replaceta, y se extiende tanto hacia la calle de San Vicente como hacia la Lonja, paralela a las escaleretas. Hace un peculiar ángulo recto, delante del cual durante algunos años se hacían las representaciones teatrales para las fiestas.</p><p>La casa conserva en parte sus elementos tradicionales, como la puerta de entrada y algunas de sus ventanas, especialmente las minúsculas que dan hacia lo que fue el cementerio viejo. Cuenta hoy en día con una curiosa ventana ajimezada, decorada con relieves que representan a Adán y Eva en el paraíso, realizada por Nicolás Salvador, hermano de los entonces propietarios.</p>",
 		"images": [
 			"Tresofraile.jpg"
 		]
@@ -351,13 +337,13 @@
 		"id": 48,
 		"type": "particular",
 		"name": "Casa Valentín",
-		"description": null
+		"description": "<p>Casa de Valentín está situada en plena Calle de San Vicente. Debe su nombre a Valentín Castán, quien vivió en ella en las primeras décadas del siglo XX. Era un buen carpintero. Tenía su taller en los bajos de la parte izquierda de la casa, en lo que años más tarde sería el bar.  De su mano salieron muchos de los muebles que aún hoy decoran las casas del pueblo.</p><p>La casa hace un ligero ángulo hacia afuera, como si estuviera formada por dos partes distintas, que se diferencian, así mismo, por el aspecto de la fachada. La parte derecha cuenta con una portalada en arco ojival, apuntado, con grandes piedras. También vemos un escudo heráldico original y una ventana ajimezada con relieves tallados, verdaderamente preciosa. Denota que en el pasado los habitantes de la casa tenían la suficiente solvencia económica para ese derroche decorativo. La parte izquierda es mucho más simple, y la fachada está revocada.</p><p>En tiempos de Amado Alamán y Carmen Castán, hija del carpintero Valentín,  se habilitó un bar y un estanco en esa zona, en la antigua carpintería, al que se podía acceder desde una puerta independiente abierta a  la calle o desde el interior del patio. A la derecha del mismo se dispuso también una tienda. Los últimos que regentaron estos dos negocios, ayudados por algunos de sus hijos,  fueron Carmen Clemente y Valentín Alamán, nieto del que dio nombre a la casa.</p><p>También daban algunas comidas y habitación a algunos viajantes que venían de paso o cazadores que no tenían vivienda.  \nCuando a las fiestas acudían muchos jóvenes (y no tan jóvenes)  de los pueblos vecinos, delante de casa de Valentín se formaba un gran gentío, unos de pie y otros sentados en las aceras próximas.</p><p>En la actualidad casa de Valentín está alquilada, al haberse trasladado sus propietarios a otro municipio.</p>"
 	},
 	"Juanjose": {
 		"id": 49,
 		"type": "particular",
 		"name": "Casa Juanjosé",
-		"description": null,
+		"description": "<p>Esta casa está situada en la intersección de las calles Norte y San Vicente, haciendo así esquina. Tiene su fachada principal en la primera de esas calles. La casa, alta y de planta bastante cuadrada, lleva grabada en el dintel de la puerta la fecha de 1830, época en la que debió ser construida o remodelada.</p><p>Presenta ventanas abalconadas bastante amplias, que se apartan de los esquemas constructivos tradicionales. No apreciamos en la fachada la presencia de puerta de acceso a las cuadras, como solía ser habitual.</p><p>Desconocemos el origen del nombre que lleva la casa, aunque es de suponer que un Juan José debió habitar en la misma.</p><p>En ella desde hace bastante tiempo se elabora una miel artesana de gran calidad, muy valorada tanto en el pueblo como en lugares más alejados.</p>",
 		"images": [
 			"Juanjosé.JPG"
 		]
@@ -366,7 +352,7 @@
 		"id": 50,
 		"type": "particular",
 		"name": "Casa Lobera",
-		"description": null,
+		"description": "<p>Esta casa es de nueva construcción y se levantó sobre parte del solar de la antigua casa de Piquero, que estaba en estado de ruina, y el primitivo horno de pan, que llevaba mucho tiempo sin usar, desde que abrió su nuevo horno panadería José María Mur de Berdún.</p><p>Debe  nombre al pueblo de Lobera de Onsella, la localidad natal de Jorge, uno de sus promotores. El nombre de la casa figura en su fachada.</p><p>El aspecto de la casa es moderno, tanto en su diseño como en los materiales utilizados. Destaca por su gran puerta de entrada y por la amplitud de sus ventanales. Junto a ella, un enorme pino se balanceaba al compás del fuerte viento.</p>",
 		"images": [
 			"Lobera.JPG"
 		]
@@ -375,7 +361,7 @@
 		"id": 51,
 		"type": "particular",
 		"name": "Casa Rosario",
-		"description": null,
+		"description": "<p>Esta casa se ubica en el ramal de la Calle Norte que baja hacia la carretera, delante de Casa de Huertalo. La casa se llama así porque en ella vivió Rosario Larraz con su marido. Ésta había nacido en Casa de Rosa.</p><p>Parece ser una construcción remodelada a partir de otra anterior, pues en ese lugar estuvo un granero de Casa de Valentín. No presenta  ningún elemento de la arquitectura tradicional, a excepción de la teja árabe que cubre la cubierta. Posee un gran balcón orientado hacia el este, cubierto con un tejadillo.</p>",
 		"images": [
 			"Rosario.JPG"
 		]
@@ -384,7 +370,7 @@
 		"id": 52,
 		"type": "particular",
 		"name": "Casa Blanca",
-		"description": null,
+		"description": "<p>Su baja altura y diminutas ventanas, junto al hecho de que actualmente está deshabitada, hacen que pase desapercibida, pudiendo parecer incluso un corral. Uno de sus últimos habitantes pudo ser Francisco Pérez Campo, que había venido de Santa Eulalia de Gállego. Se accede bajando a un hueco en la calzada que usualmente gustaba a los niños para saltar dentro o esconderse. Debió ser casa en el pasado, como lo demuestra la presencia de su chimenea cilíndrica, una de las pocas de esas características que se conserva en el pueblo.</p>",
 		"images": [
 			"Blanca.jpg"
 		]
@@ -393,13 +379,13 @@
 		"id": 53,
 		"type": "particular",
 		"name": "Casa Granada",
-		"description": null
+		"description": "<p>Al igual que en casa Blanca, se accede bajando a un hueco en la calzada que usualmente gustaba a los niños para saltar dentro o esconderse.</p><p>Desconocemos cuál era el origen del nombre “Casa Granada”. Durante un tiempo en el que estuvo alquilada también fue conocida como “Casa Pío”, un morador que vino de Longás.</p><p>Conserva los volúmenes originales, en ángulo, con puerta en cada una de estas fachadas, que parece indicar que se trataba de dos casas distintas unidas posteriormente. Ello se apreciaba también en el tejado, pues aparecían dos chimeneas.  \nDebía ser una de las casas más antiguas del pueblo, como lo atestiguaban sus pequeñas ventanas, una de ellas coronada por un dintel con diseño de arco conopial. En el otro dintel aparecía un símbolo grabado.</p><p>En la actualidad está remodelada en su aspecto exterior, pues han variado sus ventanas y puertas, las primeras agrandándose para permitir la entrada de la luz. Una de las puertas recientemente se ha convertido en un gran ventanal.</p>"
 	},
 	"Navarrico": {
 		"id": 54,
 		"type": "particular",
 		"name": "Casa Navarrico",
-		"description": null,
+		"description": "<p>Su nombre parece indicar que en el pasado alguno de sus propietarios procedía de Navarra, siendo cierto que el fallecido Miguel Salvador García tenía familia en Isaba. \nLa casa se encuentra, como la de Juanlongás, en una hondonada del Cantón. Está separada de las construcciones anexas de casa de Buey por un callejón que muere en la zona de la carretera.</p><p>El edificio ha sido remodelado  modernamente, desapareciendo la mayoría de los elementos típicos de la arquitectura tradicional, a excepción de la puerta, que se conserva con su dintel original.  Sin embargo, en dicha reconstrucción se ha seguido un diseño muy original, con sus buhardillas en el tejado, destacando entre el conjunto de las casas del pueblo. A ello hay que añadir el trabajo de cantería realizado por Nicolás Salvador, quien nació en dicha casa, para sus familiares, que ahora la ocupan. Destacan las ventanas, con un dintel curvado en la parte inferior, a modo de arco rebajado, y adornadas las de la zona meridional  con bolas o besantes, elemento decorativo de tradición románica. En la fachada se ve el escudo de armas, obra también de Nicolás, del apellido Salvador, común a ambos miembros de la pareja que se encargó de la reconstrucción de la casa.</p>",
 		"images": [
 			"Navarrico.jpg"
 		]
@@ -408,7 +394,7 @@
 		"id": 55,
 		"type": "particular",
 		"name": "Casa Juanlongas",
-		"description": null,
+		"description": "<p>Esta pequeña casa se encuentra en la calle Norte. Su acceso tradicional estaba en una hondonada del cantón, junto a un huerto desaparecido. Al arreglar las calles, la calzada de la calle Norte quedó  más elevada, por lo que se tendió una peculiar pasarela que da acceso directamente al primer piso. Ello le da a la casa un aspecto original, único en el pueblo. Una verja, que sigue el perímetro de la pared del antiguo huerto, rodea y aísla la casa.</p><p>En el pasado poseía una chimenea tronconónica, ya desaparecida, que nos demuestra la antigüedad de la casa. En un documento de 1585 se cita a un Juan de Longás.\nEn su aspecto externo, la fachada parece conservar las ventanas primitivas, de forma bastante cuadrada y no demasiado grandes. El cuidadoso revoque no permite ver cómo eran sus dinteles. En la parte baja de la casa se aprecia una puerta de acceso. El edificio, de estrecha fachada, se alarga sin embargo hacia la zona de la carretera, desde donde tendrán bonitas vistas del Pirineo.</p><p>A esta casa  perteneció la última caballería que hubo en el pueblo, a la  que de niños conocíamos como “el macho de Juanlongás”.</p><p>Suponemos que el nombre de la casa hace alusión a algún Juan que procedería de la localidad relativamente próxima de Longás.</p>",
 		"images": [
 			"JuanLongas.jpg"
 		]
@@ -417,7 +403,7 @@
 		"id": 56,
 		"type": "particular",
 		"name": "Casa Filemos",
-		"description": null,
+		"description": "<p>Se encuentra en la esquina de la plazoleta llamada “El Cantón”. En la actualidad cuenta con dos viviendas en su interior, cuyos propietarios descienden de Casa de Navarrico. Uno de ellos, Nicolás Salvador, grabó el nombre de la casa en una piedra, tallándola con un destornillador, para que la casa no perdiera su antiguo nombre de Filemos. Con esta humilde obra nació su afición por trabajar la piedra.</p><p>Los últimos propietarios de la primitiva casa de Filemos fueron León Solana y María Ubieto. La casa tenía una gran chimenea troncocónica. Dicha casa fue demolida casi en su totalidad para construir la que ahora vemos en su lugar, de aspecto en su momento “moderno”, con un gran balcón en la fachada sur.</p><p>En dicha fachada tiene un banco de piedra llamado por algunos “el banqué del Cantón”. Con ello se mantiene el antiguo lugar de encuentro que ya usaban en el pasado para charlar y coser en las soleadas y cortas tardes de invierno, o en las tertulias de las noches de verano.</p>",
 		"images": [
 			"Filemos.JPG"
 		]
@@ -426,7 +412,7 @@
 		"id": 57,
 		"type": "particular",
 		"name": "Casa Buey",
-		"description": "Erase una vez casa guey",
+		"description": "<p>El acceso más visible de la casa, desde la zona conocida como “El cantón”, cuenta con un amplio patio, llamado  “luna”, protegido por una puerta que recuerda a la de la iglesia. En la fachada Norte hay un banco que sin duda es el favorito de muchos para sentarse a admirar el Pirineo en los calurosos días de verano. En esa zona precisamente se encontraban las “Espeñetas”, zona rocosa en la que se congregaban los niños para ver partir y llegar los ganados en su viaje hacia Puerto.</p><p>En dicha pared que, como el resto de la casa, está revocada, hay una forma dibujada sobre el cemento imitando un escudo en el que figura la fecha de 1898, en la que probablemente  se remodelaría la casa para modernizarla, dotándola de dos balcones y sendas ventanas abalconadas.</p><p>La casa cuenta con un anexo hacia el este, a la derecha de la luna, que tal vez fuera la primitiva Casa Valero.</p>",
 		"images": [
 			"Buey.JPG",
 			"Buey2.JPG"
@@ -436,7 +422,7 @@
 		"id": 58,
 		"type": "particular",
 		"name": "Casa Don José",
-		"description": null,
+		"description": "<p>Su origen se remonta a mediados del s. XVI. Posteriormente, en el siglo XVIII debió ampliarse y remodelarse. Su portalada, que da a la Calle Mediodía,  está decorada con bajorrelieves vegetales, y en su interior se localiza una pequeña capilla u oratorio barroco del s. XVII. En la fachada de la Calle Mayor conserva su escudo heráldico, relativo al apellido Solana. En dicha fachada  también se muestra una antigua puerta con arco que está cegada.  En los dinteles de varias de sus ventanas amplias y abalconadas figura el símbolo solar alusivo a dicho apellido. La casa todavía conserva su espectacular chimenea troncocónica, cuya silueta se recorta en el cielo. También se mantiene el espectacular patio de cantos rodados, que dibujan una gran hexafolia, símbolo protector, así como las iniciales del que en aquel momento fue su propietario.</p><p>En el lado de poniente la casa dispone de un jardín o huerto, en el que hay un bonito pozo de piedra hecho con grandes y regulares bloques.</p><p>Todo el interior de la casa se conserva como cuando la habitaban. Su visita te transporta en el tiempo</p>",
 		"images": [
 			"DonJosé.JPG"
 		]
@@ -445,13 +431,13 @@
 		"id": 59,
 		"type": "public",
 		"name": "Casa Teresa Carpintero",
-		"description": null
+		"description": "<p>Esta casa está situada a la izquierda de la fachada principal de la iglesia, en la zona próxima a la Lonja, pero por su parte posterior da a la Plaza de las Campanas, junto al Granero de las Primicias.</p><p>Debió de ser la primera casa abadía, es decir, la “abadía vieja”. Debía servir como tal en el siglo XVI. En el siglo siguiente se adecuó otra casa como abadía, y ésta dejará pronto de cumplir esa función, pasando a ser “esconjuradero”, es decir, el lugar desde el que el cura se asomaba para rogar que se alejasen las tormentas.</p><p>A finales del siglo XVIII, con una nueva mentalidad ilustrada, el cura párroco de entonces la cedió como local para hacer una escuela. A partir de entonces imaginamos que pasaría a ser también la vivienda del maestro.</p><p>En la actualidad es propiedad de la Entidad Local Menor. Ha estado arrendada a distintos moradores. Cuando estaban construyendo la carretera en los años 30 vivió también en ella un “caminero” de Salvatierra con su familia que se dedicaba a realizar el mantenimiento de las cunetas. Luego le sustituyó un “peón caminero” procedente de Pintano. Por ello, algunos conocen esa casa como “Casa Caminero”. Los últimos habitantes fueron Teresa Puyó, de Casa de Carpintero, con su marido Julián y su hijo Jesús. De ahí el nombre de la casa.</p>"
 	},
 	"Franceses": {
 		"id": 60,
 		"type": "particular",
 		"name": "Casa Los Franceses",
-		"description": null,
+		"description": "<p>Esta casa ha tenido una larga trayectoria en cuanto a sus moradores y los nombres que ha ido recibiendo en el transcurso del tiempo. Desconocemos cuál era el nombre originario de la casa, pero perteneció a Casa de Don José. En el siglo XX fue habitada por una familia procedente de la pardina Cerzún, cercana al pueblo de Ena,  que vinieron a trabajar a medias los campos de la familia de Don José, por lo que eran conocidos como “Los medianeros”, y durante ese tiempo la casa también debió denominarse así. En ella también había vivido  anteriormente la pareja formada por Concha y Pascual, que establecieron una tienda en la planta baja. Posteriormente residieron en ella la familia formada por Teresa de Carpintero, su marido Julián y su hijo Jesús.</p><p>Su nombre actual como “Casa de los Franceses” se explica porque fue adquirida por una familia procedente del sur de Francia, pero que tenía raíces en España, y, en concreto, en el propio lugar de Larués, en la denominada y desaparecida “Casa Valero”.</p><p>Esta casa se encuentra frente a la  cara norte de la iglesia. Se encuentra junto a una zona ajardinada que se acondicionó cuando se trasladó a la misma la antigua fuente del pueblo, situada a las afueras, que amenazaba ruina. Dicha fuente fue bautizada por los niños como “La fuente del sapo”, por su semejanza con las fuentes que aparecen en los cuentos infantiles.</p>",
 		"images": [
 			"Franceses.jpg"
 		]
@@ -460,7 +446,7 @@
 		"id": 61,
 		"type": "particular",
 		"name": "Casa Nati",
-		"description": null,
+		"description": "<p>También se conoce actualmente como la casa de Sisco, hijo de Nati de Salanova. Es complicado reconstruir la historia de esta casa.</p><p>En el pasado debió pertenecer a algún miembro de la familia Ximénez, como muestra el escudo que vemos en la fachada. En él aparece la fecha de 1586, así como una serie de letras o signos cuyo posible significado hemos expuesto en el apartado correspondiente. En el propio dintel de la puerta vemos otros símbolos grabados.</p><p>En dicha casa vivió una familia  que después se mudó a  Casa de Jacinta, cuando ésta quedó libre al trasladarse el herrero que la ocupaba a la actual Casa del Herrero de la calle Mediodía. La casa fue permutada a los de Casa Salanova en el año 1935, a cambio de un granero que éstos tenían anexo a Casa de Jacinta. A Casa de Salanova pertenecía Nati, quien le da nombre a esta vivienda.</p><p>En el pasado vivieron alquiladas algunas familias. Durante la postguerra habitaron en ella Maria Cruz de Benito y Máximo de Juan José. Anteriormente, en 1863 figura como residente en ella un tal Nicolás García.</p><p>La casa ha sido remodelada para adaptarla a las nuevas necesidades de estos tiempos. La puerta de lo que fue fachada principal ha ganado en anchura, pero mantiene su aspecto tradicional, con su dintel perfectamente conservado y su antiguo escudo heráldico.</p>",
 		"images": [
 			"Nati.JPG"
 		]
@@ -469,25 +455,27 @@
 		"id": 62,
 		"type": "particular",
 		"name": "Casa Butía",
-		"description": null,
+		"description": "<p>La casa más norteña del pueblo. Cuenta con un jardín en su lado oeste y también hacia la zona de la carretera. En él hay varios árboles frutales, entre ellos una manzanera, en cuyas ramas los niños de antaño pasaban horas jugando y conversando. Al arreglar las calles la primitiva portalada sufrió los efectos de las vibraciones, lo que motivó su sustitución por otra más estrecha y moderna. Parte de su primitivo dintel ha sido reutilizado en casa de Asun. Casa de Butía fue afectada por la caída de un rayo, por lo que tuvo que rehabilitarse debido al destrozo causado. Esta casa fue una de las moradas que albergaron a los maestros o maestras que hubo en el pueblo, antes de que se cerrase la escuela\u200B\u200B\nEl nombre de la casa debe proceder del apellido que en el pasado ostentaron sus habitantes. La referencia más antigua del apellido la encontramos en un documento de 1495 en el que se menciona a García de Botía. En 1559 se cita a Martín de Botía, especificándose su condición de infanzón. El apellido lo seguimos rastreando a lo largo del siglo XVIII. En el siglo XIX y principios del XX el apellido Butía lo llevan los habitantes de Casa de Parris, mientras que los de Casa de Butía portan el de García.</p>",
 		"images": [
-			"Butía.JPG"
+			"Butía.JPG",
+			"Butía2.JPG"
 		]
 	},
 	"Asun": {
 		"id": 63,
 		"type": "particular",
 		"name": "Casa Asun",
-		"description": null,
+		"description": "<p>Esta bonita casa, con vistas al Pirineo, destaca por su acabado en piedra y madera, pero sobre todo por la terraza lateral a pie de calle, adornada con llamativas plantas alrededor. Junto a esta terraza hay también un merendero circular, cuya mesa es nada menos que una rueda de molino.</p><p>Se levanta sobre el solar de unos antiguos corrales de casa de Butía y de casa de Parris. En una ventana situada bajo una gran arcada se aprecia un dintel antiguo con una cruz patada, la llamada cruz templaria o de Malta, que procede de la primitiva puerta de Casa de Butía.</p>",
 		"images": [
-			"Asun.JPG"
+			"Asun.JPG",
+			"Asun2.JPG"
 		]
 	},
 	"Parris": {
 		"id": 64,
 		"type": "particular",
 		"name": "Casa Parris",
-		"description": null,
+		"description": "<p>Está situada en la parte más baja de la Calle Mayor, en la que tiene la fachada principal. Tiene otra fachada en la Calle de las Eras, pero en ella no hay puerta de acceso.\nSe ve claramente que la casa es el resultado de la unión de dos edificios. En la fachada de la Calle Mayor se aprecia una arista saliente, testigo del límite original entre ambas, y en la otra fachada vemos dos tipos distintos de alero.</p><p>La casa debió remodelarse tal vez a finales del siglo XIX o principios del siglo XX, como lo atestiguan sus ventanas abalconadas. Al desaparecer en parte el revoque vemos cómo fueron cegadas las pequeñas ventanas originales.</p><p>Resulta curiosa la decoración de la puerta de entrada, con un dintel horizontal y molduras, en un diseño característico del Valle de Tena, de inspiración francesa.\nEn esta casa nació el artista internacional Ángel Orensanz. Actualmente se encuentra deshabitada.</p><p>El nombre que recibe la casa es enigmático. Parris es un apellido de origen francés. No se corresponde con los apellidos que han llevado los habitantes de la casa en las últimas generaciones.</p>",
 		"images": [
 			"Parris.JPG",
 			"Parris2.jpg"
@@ -497,7 +485,7 @@
 		"id": 65,
 		"type": "particular",
 		"name": "Casa Germán",
-		"description": null,
+		"description": "<p>Se encuentra en la Calle de las Eras, frente al antiguamente denominado “Hortal de Puente”. Se levanta sobre el solar de un antiguo corral de Casilda.</p><p>Nicolás Salvador realizó en esta casa  su obra más laboriosa y creativa, diseñando todas las ventanas y sus múltiples adornos tallados, buscando motivos geométricos distintos y dándole un toque personal que la hacen única. También hizo el espectacular escudo con el apellido Del Cacho. La casa cuenta con dos fachadas principales y sus correspondientes puertas, ambas igual de cuidadas. Su nombre hace alusión a su joven morador, Germán del Cacho.</p>",
 		"images": [
 			"Germán.JPG",
 			"Germán2.jpg"
@@ -507,7 +495,7 @@
 		"id": 66,
 		"type": "particular",
 		"name": "Casa Constantina",
-		"description": "Casa benito??",
+		"description": "<p>El nombre de esta casa, situada en la Calle Mayor, hace alusión a Constantina Biec, mujer que habitó en ella con su marido Bernardo. Al proceder ésta de casa de Benito, también ha sido conocida por ese nombre. Ante la señora Constantina acudían muchos cuando se hacían algún daño, pues tenía habilidad para hacer curas y recomponer torceduras. Anteriormente, la casa era conocida como “Casa Vitales”. La casa ha sido reformada hace poco tiempo, pero conserva el tamaño original de sus diminutas ventanas.</p>",
 		"images": [
 			"Benito.jpg"
 		]
@@ -516,7 +504,7 @@
 		"id": 67,
 		"type": "particular",
 		"name": "Casa Concha",
-		"description": null,
+		"description": "<p>Esta casa está situada en la Calle Mayor. El nombre deriva de la señora Concha, esposa de Pascual. Cuando vivían en ella tuvieron tienda durante un tiempo, donde vendían, entre otras cosas, tabletas de chocolate “Cima”. Anteriormente era conocida como “Casa de Benito”</p>",
 		"images": [
 			"Concha.jpg"
 		]
@@ -525,7 +513,7 @@
 		"id": 68,
 		"type": "particular",
 		"name": "Casa Radre",
-		"description": null,
+		"description": "<p>Esta casa está ubicada en la intersección entre la calle Norte y la Calle Mayor, donde tiene su puerta principal. Por su parte posterior da a la Calle de las Eras, donde vemos dos pequeñas puertas. Por este lado comprobamos que la casa es muy alargada, y está formada por tres “módulos” de tres alturas distintas. Por ello, deducimos que la casa fue creciendo desde un núcleo más pequeño, absorbiendo otras construcciones anexas. En la parte que da a la Calle de las Eras hay una ventana con un curioso símbolo grabado en el dintel.</p><p>Casa de Radre tiene un pequeño banqué que parece invitar al paseante a sentarse en él en los calurosos días de verano, en una zona fresca que hace rincón, donde todos recordamos las flores que tan afanosamente cuidaba Elisa.</p><p>El nombre de la casa se refleja en una bonita placa de cerámica situada en su fachada.</p>",
 		"images": [
 			"Radre.JPG"
 		]
@@ -534,22 +522,22 @@
 		"id": 69,
 		"type": "particular",
 		"name": "Casa Vicién",
-		"description": null,
+		"description": "<p>Esta casa, situada al final de la Calle Mayor, también era conocida como “Casa Vichén”. Los últimos que vivieron en ella fueron María y su esposo José, con sus hijos, quienes, poco a poco, fueron abandonando el pueblo, y la casa fue deteriorándose, al no estar habitada.\nFinalmente, fue adquirida por Francisco Alamán, o Paco de Buey, como mejor queramos llamarlo. Él ha construido su casa prácticamente solo, piedra a piedra. En el pueblo es proverbial su afición por la albañilería, que ya mostraba desde niño, cuando, para entretenerse, “hacía pared”.</p><p>Paco ha cuidado todos los detalles, y ha sabido hacer para él y su familia una bonita casa de piedra. La puerta de entrada está cobijada bajo una especie de porche, en el que ha colocado un banco de piedra tallado por él mismo, con una inscripción conmemorativa. La puerta mantiene la forma tradicional. Sobre la chimenea Paco no ha dejado de colocar el típico espantabrujas. Por la parte de atrás, la casa se asoma tímidamente al Cantón, para captar una luz que por la Calle Mayor no suele prodigarse. Allí, en el balcón, mantiene bien cuidadas sus macetas.</p>",
 		"images": [
 			"Vicien.jpg"
 		]
 	},
 	"Ferranton": {
 		"id": 70,
-		"type": "particular",
+		"type": "particular-desaparecida",
 		"name": "Casa Ferrantón",
-		"description": "Desaparecida??"
+		"description": "<p>Esta casa estaba ubicada en la zona más estrecha de la Calle Mayor. Disponía de la habitual chimenea troncocónica. A sus espaldas tenía un huerto. Una mujer de esta casa,  Adela, ayudaba a otras mujeres a traer los niños al mundo. Sus habitantes emigraron a Barcelona. Ante el estado ruinoso de la misma, fue demolida. Su solar ha sido ocupado por un huerto, continuación del que ya disponía la casa.</p>"
 	},
 	"Estanquero": {
 		"id": 71,
 		"type": "particular",
 		"name": "Casa Estanquero",
-		"description": null,
+		"description": "<p>Está situada en la Calle Norte. Su nombre deriva del hecho de que en el pasado sus propietarios regentaron  el estanco de tabaco. Su fachada oriental  se abre a la zona soleada del Cantón, donde recientemente han instalado un bonito balcón que sirve a modo de galería. Desde él se ve el pequeño huerto que está a sus pies.</p>",
 		"images": [
 			"Estanquero.JPG"
 		]
@@ -558,7 +546,7 @@
 		"id": 72,
 		"type": "particular",
 		"name": "Casa Palacio",
-		"description": null,
+		"description": "<p>Esta casa se halla ubicada en el ramal de la calle Norte que baja hacia la carretera, desde el Cantón.</p><p>El nombre de la casa debe proceder del apellido de sus antiguos moradores, como José Palacio, quien, en un documento de 1863,  figura como propietario de una casa en la calle Traviesa nº 5, que debe ser ésta. Las referencias más antiguas a este apellido, sin embargo,  las encontramos en un documento de 1495, en el que se nombra a Pedro Palacio. En 1569 se nombra a Gil de Palacio, especificándose su condición de infanzón.</p><p>Los  últimos moradores de la antigua Casa Palacio fueron  Francisco Bernat y su esposa. Éste, al quedar viudo, se trasladó a casa de Sastrelargo, donde se había casado su hija María.</p><p>Vendieron la casa, que fue adquirida por Isabel y Ernesto, recientemente fallecido. Aún se la denomina con su antiguo nombre, pero para algunos es la casa de “Isabelita”. Ha sido remodelada hace unas décadas, perdiendo su carácter tradicional. Tiene una original puerta-ventana, y destacan los contraventanos de madera, cuya posición indica la presencia o ausencia de la familia que ahora es su propietaria. Cuando los vemos cerrados,  pensamos: “¡Vaya, ya se han ido!”</p>",
 		"images": [
 			"Palacio.jpg"
 		]
@@ -567,7 +555,7 @@
 		"id": 73,
 		"type": "particular",
 		"name": "Casa Castán",
-		"description": null,
+		"description": "<p>Se encuentra en la confluencia de la calle Norte con la calle Mayor. Está remodelada, como lo demuestran sus ventanas, bastante grandes para lo que se estilaba por estos parajes. La puerta conserva totalmente su aspecto tradicional, y en su dintel todavía podemos ver, aunque bastante erosionado, un símbolo. Para los niños fue un gran atractivo el columpio que sus moradores pusieron en el patio para sus propias hijas, pero que compartían con los otros niños del pueblo, al igual que el puñado de almendras con las que, con frecuencia, nos obsequiaban. En su falsa, cuando éramos muy jóvenes, preparábamos y ensayábamos pequeñas funciones de teatro para representar en las fiestas.</p>",
 		"images": [
 			"Castán.JPG"
 		]
@@ -576,13 +564,13 @@
 		"id": 74,
 		"type": "particular",
 		"name": "Casa Esquilador",
-		"description": null
+		"description": "<p>Esta casa está  situada en la Calle de las Campanas, continuación natural de la calle Traviesa. Su nombre deriva del oficio que desempeñaron durante varias generaciones los antiguos propietarios. Los últimos que se recuerdan ejerciéndolo fueron Julían y sus hijos Delfín y Vicente. La casa fue vendida, siendo otra familia su propietaria.</p><p>El aspecto que presenta en la actualidad, con ventanas grandes y un gran balcón a modo de galería en el piso superior, sugiere que fue reformada ya en el pasado.</p>"
 	},
 	"Campo": {
 		"id": 75,
 		"type": "particular",
 		"name": "Casa Campo",
-		"description": null,
+		"description": "<p>El nombre de la casa refleja todavía el apellido que sus moradores han tenido desde hace varias generaciones. En un documento de 1773 figuran Ramón e Inacio (Ignacio, suponemos) Campo. No sabemos si alguno de ellos es antepasado de esta casa, aunque coincide el apellido.</p><p>El aspecto de su fachada conserva el aire de la arquitectura tradicional. Posee un escudo realizado por Nicolás Salvador, entre cuyos símbolos figura un arado, en alusión al apellido “Campo”. En su interior posee un pozo de agua clara y fresca que Manuela, con su santa paciencia, nos suministraba a los niños sedientos después de nuestros juegos.</p>",
 		"images": [
 			"Campo.JPG"
 		]
@@ -591,7 +579,7 @@
 		"id": 76,
 		"type": "particular",
 		"name": "Casa Iñiguez",
-		"description": null,
+		"description": "<p>Esta casa está situada en la Calle Mayor, próxima a la Casa de Don José. La fachada ha sufrido alguna modificación, como la construcción de una terraza en el piso superior, a la izquierda del edificio, o la ampliación de la puerta que da acceso al garaje. En el dintel de esta última hay un curioso símbolo en relieve. En general, las ventanas conservan su aspecto tradicional, tanto en su tamaño como en la sencilla decoración de sus dinteles y sus alféizares. En la planta superior destaca el diseño de uno de tales dinteles, con una doble moldura en ángulo que recuerda formas góticas. La puerta  está coronada por varias piedras que dibujan un arco muy rebajado. En las piedras laterales de la misma se aprecian signos de erosión importantes, como si hubieran recibido algún tipo de impacto.</p><p>Destaca también el trabajo cuidadoso de los canetes de madera labrados.</p><p>La casa exhibe orgullosamente el escudo de armas en la fachada. Los Iñíguez fueron una familia infanzona que tuvo muchas propiedades en el pueblo. Al parecer, el primero de ellos asentado en Larués fue Luis Iñíguez Cavero, procedente de Ascara, que vivió a mediados del siglo XVIII. En la planta superior de la casa poseían una habitación llena de libros antiguos cuyos títulos reflejan una mentalidad ilustrada.</p>",
 		"images": [
 			"Iñiguez.jpg",
 			"Iñiguez2.jpg"
@@ -601,7 +589,7 @@
 		"id": 77,
 		"type": "particular",
 		"name": "Casa La Herrera",
-		"description": null,
+		"description": "<p>Esta casa se localiza en un ángulo que dibuja la calle Mayor, haciendo así esquina. Llama la atención que en su fachada se ven tres alturas del tejado diferentes, la central mayor, como si se tratara de una pequeña torre o atalaya, presidida por el único balcón con el que cuenta la casa. Vemos en ella varias ventanas abalconadas, fruto de construcción o remodelación relativamente reciente. La forma de la puerta de acceso, bastante estrecha y sin dintel aparente, también parece denotar poca antigüedad. El revoque oculta otros detalles de la construcción. Desconocemos a qué se debe el nombre que recibe la casa. El nombre de La Herrera, o Ferrera como muchos la llaman, tal vez haga referencia a la pardina Ferrera, de donde pudieron proceder en su momento sus moradores.</p><p>La casa conserva la entrada hacia lo que debió ser la cuadra.</p>",
 		"images": [
 			"LaHerrera.jpg",
 			"LaHerrera2.jpg"
@@ -612,7 +600,7 @@
 		"id": 78,
 		"type": "particular",
 		"name": "Casa Casilda",
-		"description": null,
+		"description": "<p>Desconocemos de dónde procede el nombre de esta casa, situada en la Calle Traviesa. Por su ubicación, es posible que sea una casa bastante antigua, como todas las que se encontraban cerca de la iglesia. En la actualidad está cerrada, al alcanzar sus antiguos moradores una avanzada edad y no poder seguir viviendo en ella. En el revoque que parcialmente recubre su fachada se adivinan letras o palabras, que seguramente algún niño debió grabar cuando el revoque todavía estaba fresco.</p>",
 		"images": [
 			"Casilda.jpg",
 			"Casilda2.jpg"
@@ -622,7 +610,7 @@
 		"id": 79,
 		"type": "particular",
 		"name": "Casa Juana",
-		"description": null,
+		"description": "<p>Está situada en la Plaza de las Campanas, continuación natural de la calle Traviesa. Desconocemos a qué debe su nombre. Suponemos que en el pasado una de sus propietarias se llamaría así.</p><p>La casa tiene una fachada muy ancha, y sigue el declive de la propia calle. Las ventanas abalconadas del primer piso, y el propio balcón,  muestran el resultado de alguna remodelación, tal vez en el siglo XX. En la planta baja vemos ventanas pequeñas, de la forma tradicional. En el interior del patio todavía se conserva parte del suelo de cantos rodados que muestra diseños geométricos, levantando parcialmente cuando se introdujo el agua corriente en las casas.</p><p>También podemos ver la puerta de entrada a la antigua cuadra, que ha quedado notablemente levantada en relación al piso de la calle, y ahora hace la función de pequeño banqué, en el que recordamos ver sentados en las tardes de verano a Arturo y Simona, ya fallecidos.</p>",
 		"images": [
 			"Juana.JPG"
 		]
@@ -631,7 +619,7 @@
 		"id": 80,
 		"type": "particular",
 		"name": "Casa Val",
-		"description": null,
+		"description": "<p>Esta casa, de gran tamaño, se encuentra en lo que popularmente se llama “la placeta de Val”, en la intersección de la Calle Norte, que muere allí, con la Calle de las Eras.</p><p>Se articula en varios volúmenes. En el que parece ser el principal se encuentra una puerta espectacular, con sus grandes dovelas dibujando un amplio arco de medio punto. En las piedras laterales de dicha puerta se conservan sendas anillas de hierro para atar a las caballerías.  En esa misma fachada vemos un gran balcón. En dicho bloque principal, en su fachada que da a sol poniente hay una ventana muy curiosa, pues dispone por la parte de arriba de unas losas que parecen querer protegerla de las inclemencias del tiempo. Dichas losas se apoyan sobre unas piedras salientes talladas que recuerdan ligeramente la forma de un capitel. Sobre ella está la ventana de la falsa. En algunas casas se disponían estas plataformas de piedra para que sirvieran de secadero o de fresquera, pero no sabemos si ésta es la explicación adecuada para casa de Val.</p><p>Como continuación “natural” de este bloque principal aparece un trozo de casa de Puente, con una ventana protegida por una aparatosa reja. ¡A saber qué historias se esconden detrás de estas posibles particiones!</p><p>Formando ángulo recto se sitúa otra parte de la casa que, a su vez, parece articularse en otros volúmenes de distintas alturas, fruto de las distintas remodelaciones. Allí vemos abrirse la puerta grande de la antigua cuadra y otra puerta contigua. Éstas están cobijadas bajo un saliente de la casa por su parte superior, dibujando así un rincón muy agradable. Las ventanas en este caso son abalconadas, denotando menor antigüedad.</p>",
 		"images": [
 			"Val.JPG"
 		]
@@ -640,7 +628,7 @@
 		"id": 81,
 		"type": "particular",
 		"name": "Casa Puente",
-		"description": null,
+		"description": "<p>Este gran caserón tiene su fachada principal en la Calle Mayor, pero se prolonga hasta la Calle de las Eras, donde también disponía de una puerta, hoy ensanchada para dar  acceso a los coches.</p><p>La puerta principal, con grandes dovelas que dibujan un arco de medio punto, cuenta con una inscripción sobre la misma: la fecha de 1783. No sabemos si corresponde a la de la construcción de la casa o, lo más probable, a la de una modificación posterior. En el siglo XVIII en la casa habitaron miembros que portaban el apellido “Puente”, de donde deriva el nombre que desde entonces ha recibido la casa. En concreto, conocemos a Francisco Puente, quien, en un documento antiguo alusivo a 1773, figura en la lista de los “plebeyos”, junto con otros vecinos. El escudo que vemos en la fachada es una recreación realizada por Nicolás Salvador, con motivos alusivos al significado del apellido.</p><p>Posteriormente, la casa ha sufrido modificaciones. En la fachada principal vemos un par de ventanas abalconadas que lo atestiguan, al igual que las de la parte posterior de la casa. Sin embargo, se conservan otras originales en los bajos y la falsa.</p><p>Por la parte de atrás llama poderosamente la atención una ventana situada en una zona que parece penetrar en Casa de Val. Tiene una poderosa reja que sobresale notablemente, vestigio quizá del miedo a los salteadores, al estar por ese lado la casa más expuesta o desprotegida.</p>",
 		"images": [
 			"Puente.jpg",
 			"Puente2.jpg"
@@ -659,7 +647,7 @@
 		"id": 83,
 		"type": "particular",
 		"name": "Casa Paulina",
-		"description": null,
+		"description": "<p>Esta casa había pertenecido en el pasado a Casa de Iñíguez. Debe su nombre a la señora Paulina, quien, con su familia, la habitó en el siglo pasado. Los miembros de esta familia se fueron, y durante un tiempo residió en ella una familia de andaluces emparentados con los que también ocuparon Casa de Bruno. Todos ellos habían acudido al pueblo para cuidar las reses bravas de la Pardina Sotillo. Aún recordamos al padre montado en el caballo gris que utilizaba para  su trabajo. Éstos se fueron, y la casa fue remodelada por Manolo, hijo de Paulina. Fruto de esa remodelación es la puerta en arco de medio punto. En su interior, en la planta baja, se conservan unas arcadas antiguas espectaculares.</p>",
 		"images": [
 			"Paulina.JPG"
 		]
@@ -668,7 +656,10 @@
 		"id": 84,
 		"type": "particular",
 		"name": "Casa Roberto",
-		"description": null
+		"description": "<p>Se sitúa a la entrada del pueblo, en la zona de la Cruz, junto a un corral de Casa de Juan Lorén, que permanece ahora como construcción auxiliar.</p><p>Sus moradores han conseguido una vivienda muy eficiente energéticamente  y, a la vez, muy  acogedora. El diseño es moderno, pero ha querido incorporar elementos de la arquitectura tradicional, como la puerta, con su peculiar dintel, típico de las casas de esta zona. En la puerta han colocado una lagartija decorativa, considerada un poderoso símbolo protector.</p><p>La casa cuenta con un pórtico orientado  hacia la salida del sol, sostenido por una columnas que proceden del antiguo corral de Juan Lorén. Dichas columnas, a su vez, debían haberse reutilizado de otra construcción mucho más antigua, pues poseen un ensanchamiento decorativo, a modo de pequeño capitel. Ello, unido a  la forma perfectamente circular de su fuste, formado por varias piezas, hace impensable que se hiciera de propio para un corral.</p>",
+		"images": [
+			"Roberto.JPG"
+		]
 	},
 	"Replaceta": {
 		"id": 85,
@@ -825,5 +816,62 @@
 		"type": "street",
 		"name": "Calle La Plaza",
 		"description": ""
+	},
+	"FdoMiguelanaya": {
+		"id": 111,
+		"type": "particular",
+		"name": "Casa Fernando de Miguelanaya",
+		"description": "<p>Esta casa es moderna, y se levantó en lo que antes era un corral de Miguel Anaya que, muchos años antes, había pertenecido a Casa de Indalecio.  El aspecto de su fachada es funcional, presentando dos  balcones-ventana en el primer piso para permitir la entrada de la luz, ya que está orientado al mediodía. Dispone también de puerta de acceso al garaje. Una chimenea corona la silueta del tejado, rompiendo así la sobriedad de la construcción. En el revoque asoman algunas piedras decorativas.</p>",
+		"images": [
+			"FdoMiguelanaya.JPG"
+		]
+	},
+	"ZZZJusto": {
+		"id": 112,
+		"type": "particular-desaparecida",
+		"name": "Casa Justo",
+		"description": "<p>Se encontraba en la Calle Mayor, entre Casa de Campo y Casa de Iñíguez. En la actualidad sólo vemos un solar.</p><p>El nombre de la casa lo recibe de Justo Anaya, que quedó viudo. Allí vivió María de Juanlongás con su familia, ya que era su sobrina. El hijo de Justo, Miguel, la vendió a los de Casa de Babil. Fue demolida porque amenazaba ruina.</p>"
+	},
+	"ZZZRoñaque": {
+		"id": 113,
+		"type": "particular-desaparecida",
+		"name": "Casa Roñaque",
+		"description": "<p>Se encontraba en la zona más baja del pueblo, próxima a la carretera. Se situaba junto al anexo de casa de Buey, separada de éste por un estrecho callizo. Es la única casa que, por la posición de la puerta, parecía estar de espaldas a las demás, pues miraba hacia el Pirineo. En el año 1982 aún estaba en pie, aunque en estado ruinoso, con el tejado completamente hundido. Fue demolida. Susana, hija de Antonio de Buey,  compró el solar con la intención de hacer una casa, pero, finalmente, de momento, no se ha construido nada.</p>"
+	},
+	"ZZZAnaya": {
+		"id": 114,
+		"type": "particular-desaparecida",
+		"name": "Casa de Anaya",
+		"description": "<p>Era una casa de tamaño bastante grande. Se situaba en la Calle Mediodía, en el solar que ahora vemos entre casa de Ramón y casa de Ángel. Tenía un huerto detrás, hacia el sur. Se había rehabilitado y modernizado en el siglo XX. Estaba revocada. Se vendió con la intención de que una constructora hiciera apartamentos. El proyecto no se llevó a cabo. El solar pertenece ahora a Ramón de Babil, y está en proceso de transformación.</p>"
+	},
+	"ZZZMuriel": {
+		"id": 115,
+		"type": "particular-desaparecida",
+		"name": "Casa de Muriel",
+		"description": "<p>Se encontraba en el solar que ahora vemos entre Casa de Tresofraile y Casa de Valentín. Allí vivieron Paquita y Antonio Ibarbia, quien había venido de Botaya.. No tuvieron hijos. La casa acabó deteriorándose, y, finalmente, fue demolida. En 1863 residía en ella Paulino Muriel, de cuyo apellido tomaría el nombre.</p>"
+	},
+	"ZZZTejedor": {
+		"id": 116,
+		"type": "particular-desaparecida",
+		"name": "Casa Tejedor",
+		"description": "<p>La casa pudo ser de Babil. Los últimos que vivieron en ella fueron Paquita y Miguel Galindo.</p><p>Un antepasado de Miguel Galindo, antes de residir en esta casa, vivíó en unas dependencias a las que se accedía desde la zona en la que Casa de Huertalo hace esquina con Casa de Alamán. Debía tratarse de un lugar estrecho y alargado, situado entre las casas de Alamán, Jiménez y tal vez Sastrelargo, sin salida a la calle. En esa zona, en 1863 se nombra un corral de Miguel Galindo lindante con Casa de Huertalo.\nSuponemos que el nombre deriva del oficio que ejercieron en algún momento sus moradores.</p><p>En 1984 Casa de Tejedor aún se encontraba en pie. Era una casa realmente peculiar, que no había sufrido transformaciones con el transcurso del tiempo. Su fachada se asomaba curiosa a la Plaza, con su tejado a tres vertientes. Sus ventanas eran pequeñas, pero suficientes para que Paquita, su última propietaria, se asomara a través de ellas, entre macetas, en una imagen entrañable y familiar. La casa tenía la portalada con el dintel característico. Estaba revocada con cal, cuya blancura resplandecía, a pesar de los desconchones, bajo el intenso sol del verano. Esa blancura aumentaba cuando tendían ropa blanca. La casa estaba dotada de un largo banqué en el que Paquita colocaba sus macetas a base de pozales de cinc y grandes latas, como era habitual en aquellos tiempos. \nÁngel Orensanz, en una visita que hizo al pueblo, recreó la casa en un cuadro, en base a los recuerdos que en aquel momento le vinieron a la mente.</p><p>No fue el único que se interesó por la estética de esta casa. Ángel Mesado también le hizo fotografías, pues le llamaba la atención su arquitectura, tan típica.</p><p>La casa comenzó a curvar su fachada de forma peligrosa, y fue necesario demolerla.</p>"
+	},
+	"Piquero": {
+		"id": 117,
+		"type": "particular-desaparecida",
+		"name": "Casa Piquero",
+		"description": "<p>Estaba situada en la Calle Norte, frente a Casa de Blanca. Sus últimos habitantes conocidos fueron Ramón Solana Castán y su familia. Se marcharon del pueblo, y la casa, poco a poco, entró en estado de ruina y fue demolida. Sobre parte de su solar se levanta hoy en día Casa de Lobera. Otra parte del mismo quedó incorporado a la vía pública, cuando se arreglaron las calles, algunos de cuyos tramos, dada su estrechez, fue necesario ensanchar.</p>"
+	},
+	"Valero": {
+		"id": 118,
+		"type": "particular-desaparecida",
+		"name": "Casa Valero",
+		"description": "<p>Al parecer se encontraba en lo que ahora son dependencias de Casa de Buey, a la derecha de la “luna”. Descendientes de esa casa, que habían emigrado a Francia,  adquirieron la que después se llamaría por ello “Casa de los Franceses”.</p>"
+	},
+	"CorralBurras": {
+		"id": 119,
+		"type": "particular-desaparecida",
+		"name": "El “corral de las burras”",
+		"description": "<p>Este edificio, situado en la Calle Mayor, entre Casa de Puente y Casa de Bruno, tiene el aspecto de haber sido casa en un pasado remoto, dada la cuidada portalada, con piedras talladas y dintel característico, y su propia puerta, de buena madera con clavos decorativos y un original llamador, todo ello impropio de un simple corral. Perteneció a Casa de Iñíguez, pero después fue vendida a Casa de Valentín, cuyos miembros usaron los bajos como cuadra para animales, en concreto, para “las burras”, de donde deriva su nombre. Esa planta baja cuenta con unas espectaculares arcadas. En la planta superior, Valentín habilitó una estancia como almacén para guardar ataúdes, ya que él se encargaba de venderlos.</p>"
 	}
 }

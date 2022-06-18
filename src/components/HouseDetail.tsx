@@ -38,7 +38,7 @@ export function HouseDetail({ house, closeModal }) {
                     }
                     <div className="house-detail-item desc-container">
                         <h1>{house.name}</h1>
-                        { house.description && <p className="house-detail-description">{house.description}</p> }
+                        { house.description && <p className="house-detail-description" dangerouslySetInnerHTML={{ __html: house.description }}/> }
                     </div>
                 </div>
             </div>

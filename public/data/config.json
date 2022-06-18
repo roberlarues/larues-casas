@@ -30,12 +30,6 @@
       "lightcolor": "#db64ed61",
       "enabled": false
     },
-    "corral": {
-      "label": "Naves y corrales",
-      "color": "aquamarine",
-      "lightcolor": "#7fffd466",
-      "enabled": false
-    },
     "parking": {
       "label": "Aparcamientos",
       "color": "cornflowerblue",
