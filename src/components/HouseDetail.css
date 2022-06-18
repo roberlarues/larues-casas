@@ -1,6 +1,6 @@
 
 .HouseDetail {
-    height: 90%;
+    height: 85%;
 }
 
 .house-detail-content {
@@ -18,7 +18,7 @@
 
 .house-detail-item {
     height: 100%;
-    flex-basis: 50%;
+    flex-basis: 80%;
     margin: auto 1em auto 1em;
     display: flex;
     flex-direction: column;
@@ -30,7 +30,7 @@
 }
 
 .img-container {
-    max-height: 70%;
+    max-height: 175pt;
 }
 
 .img-container-swiper {
@@ -42,6 +42,7 @@
 .house-detail-item h1 {
     text-align: center;
     text-decoration: underline;
+    margin-top: 5pt;
 }
 
 .house-detail-item img {
@@ -61,6 +62,7 @@
     position: sticky;
     top: 0;
     text-align: right;
+    z-index: 99;
 }
 
 .modal-header button {
@@ -86,10 +88,26 @@
         flex-direction: column;
     }
 
+    .house-detail-item h1 {
+        margin-bottom: 0;
+    }
+
     .house-detail-description {
         height: 100%;
         overflow-y: unset;
         margin-top: 0;
         margin-bottom: 1em;
+    }
+
+    .modal-header button {
+        margin-right: 0;
+    }
+
+    .img-container {
+        margin-top: -1.8em;
+    }
+
+    .img-container-swiper {
+        flex-shrink: 0;
     }
 }

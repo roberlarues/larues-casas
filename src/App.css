@@ -176,6 +176,11 @@ button:hover {
   .help-side-menu {
     display: block;
   }
+
+  .ReactModal__Content {
+    inset: 20px!important;
+    padding: 0px 0px 20px!important;
+  }
 }
 
 @media (max-width: 300px) {
