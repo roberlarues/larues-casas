@@ -33,7 +33,8 @@
 		"description": "<p>La única casa del pueblo con puertas a tres calles distintas. Indudablemente, el resultado actual responde a la unión de varios edificios. Ello resulta evidente tanto por las diferentes alturas que muestran los mismos como por la orientación de sus puertas y tejados. La fachada principal da a la calle San Vicente. Por este lado apenas ha sufrido modificaciones.  En dicha fachada se muestra su escudo heráldico, un símbolo protector y alguna inscripción más. El nombre deriva de Bernardo Solana, un antiguo propietario de la misma, infanzón.</p><p>Por la parte que da a la plaza, la casa presenta mayor anchura.  Al parecer, esta zona correspondía, por su lado izquierdo, a una parte de Casa de Zapatera y, por su lado derecho,  a un corral situado junto a la misma. Se recuerda que en esta fachada hubo una antigua puerta que destacaba por el gran tamaño de la piedra que formaba su dintel.</p><p>En la actualidad por ese lado tiene dos pisos, además de la planta baja. Su fachada está revocada, y responde a un diseño más moderno.</p><p>La casa avanza a modo de corredor hasta la Calle Oriente, en sentido perpendicular al eje general. Allí muestra una pequeña y bien acondicionada fachada de piedra, con una puerta tradicional en cuyo dintel hay grabado un símbolo.</p>",
 		"images": [
 			"Bernardo.JPG",
-			"Bernardo2.jpg"
+			"Bernardo2.JPG",
+			"Bernardo3.JPG"
 		]
 	},
 	"Zapatera": {
@@ -42,7 +43,8 @@
 		"name": "Casa Zapatera",
 		"description": "<p>Esta casa se sitúa en el corazón de la Calle de San Vicente. Presenta revoque en su fachada, que parece remodelada en parte, dado el tamaño bastante grande de la ventana de su primer piso. En la fachada destaca notablemente su puerta, cuyo dintel se apoya en unas piedras o mochetas decoradas con tres curvas, un motivo que no abunda y se sale de los esquemas tradicionales de decoración de las portaladas. En la puerta de madera se conserva un llamador sencillo de hierro, muy tradicional.</p><p>Parece ser que en el pasado la casa se alargaba hacia atrás, llegando hasta la plaza. Esa zona con el transcurso del tiempo ha pasado a formar parte de Casa de Bernardo.</p><p>El nombre que recibe la casa parece aludir al oficio que practicaría alguna mujer de la casa.</p>",
 		"images": [
-			"Zapatera.jpg"
+			"Zapatera.jpg",
+			"Zapatera2.JPG"
 		]
 	},
 	"Indalecio": {
@@ -189,7 +191,8 @@
 		"name": "Casa Jose Luis",
 		"description": "<p>Esta casa, conocida popularmente como el Chalet de José Luis y Presen,  se levantó en un solar que formaba parte del huerto de Juan Lorén.  Llama la atención su peculiar orientación, pues rompe los esquemas de los cuatro puntos cardinales, al estar desviada su planta con respecto a los mismos, como si quisiera aprovechar así mejor la luz.</p><p>Esta casa cuenta con una zona inferior, que da a pie de calle, que proporciona una terraza a la parte superior. Llama la atención aún más la parte superior, con forma irregular y paredes inclinadas.</p><p>El promotor de su construcción fue José Luis (de quien procede el nombre de la casa), recientemente fallecido. Junto con su esposa Presen habitaron en vacaciones en esta casa, que llama la atención por su diseño y modernidad.En la actualidad, la casa ha cambiado de dueño.</p>",
 		"images": [
-			"JoseLuis.jpg"
+			"JoseLuis.JPG",
+			"JoseLuis2.JPG"
 		]
 	},
 	"Vives": {
@@ -217,7 +220,7 @@
 		"description": "<p>Actualmente deshabitada y en venta. Poseía unas puertas de madera labradas muy bonitas. Pertenecía a una familia de infanzones, con salva de infanzonía ganada en 1680. Con anterioridad, ya en 1495, aparece mencionado un Martín Alamán. El nombre de la casa deriva del apellido de sus moradores, que lo han ido manteniendo en las sucesivas generaciones.</p><p>Tenía dos puertas de acceso en los dos lados cortos del edificio. Es una casa muy alargada que se extiende desde la carretera hasta la  placita que hay junto a casa de Huertalo. Está separada de casa de Vives por un callejón bastante ancho. Presenta en una de sus fachadas un hastial achaflanado en la fachada sur que da al callejón, el único de estas características que hay en el pueblo.</p>",
 		"images": [
 			"Alaman.JPG",
-			"Alamán2.jpg"
+			"Alaman2.JPG"
 		]
 	},
 	"Sastrelargo": {
@@ -280,7 +283,8 @@
 		"name": "Casa Ángel",
 		"description": "<p>Anteriormente era conocida como casa de Rosa, esposa de Victorián Larraz, albañil que realizó numerosos trabajos en el pueblo. Éstos vivieron con sus hijas Sofía y Rosario, quien estableció en ella un pequeño taller de costura. En aquel entonces era propiedad de casa de Francisca.</p><p>Después la casa fue vendida a Ángel Ciria y su familia. Eran llamados “los catalanes”, porque residían en Barcelona. De ahí recibe el nombre con el que en la actualidad la conocemos.</p><p>Cuando éramos niños nos gustaba escondernos en el estrecho callejón que se encontraba a su izquierda, cuando jugábamos a policías y ladrones.  Destaca su original puerta, construida con multitud de objetos de hierro propios de la agricultura y de la herrería, diseñada por el dueño de la vivienda y el herrero Fidel. ¿Sabrías decir cuántas herraduras hay en ella?</p>",
 		"images": [
-			"Angel.jpg"
+			"Angel.jpg",
+			"Angel2.jpg"
 		]
 	},
 	"DonJose2": {
@@ -423,7 +427,10 @@
 		"id": 53,
 		"type": "particular",
 		"name": "Casa Granada",
-		"description": "<p>Al igual que en casa Blanca, se accede bajando a un hueco en la calzada que usualmente gustaba a los niños para saltar dentro o esconderse.</p><p>Desconocemos cuál era el origen del nombre “Casa Granada”. Durante un tiempo en el que estuvo alquilada también fue conocida como “Casa Pío”, un morador que vino de Longás.</p><p>Conserva los volúmenes originales, en ángulo, con puerta en cada una de estas fachadas, que parece indicar que se trataba de dos casas distintas unidas posteriormente. Ello se apreciaba también en el tejado, pues aparecían dos chimeneas.  </p><p>Debía ser una de las casas más antiguas del pueblo, como lo atestiguaban sus pequeñas ventanas, una de ellas coronada por un dintel con diseño de arco conopial. En el otro dintel aparecía un símbolo grabado.</p><p>En la actualidad está remodelada en su aspecto exterior, pues han variado sus ventanas y puertas, las primeras agrandándose para permitir la entrada de la luz. Una de las puertas recientemente se ha convertido en un gran ventanal.</p>"
+		"description": "<p>Al igual que en casa Blanca, se accede bajando a un hueco en la calzada que usualmente gustaba a los niños para saltar dentro o esconderse.</p><p>Desconocemos cuál era el origen del nombre “Casa Granada”. Durante un tiempo en el que estuvo alquilada también fue conocida como “Casa Pío”, un morador que vino de Longás.</p><p>Conserva los volúmenes originales, en ángulo, con puerta en cada una de estas fachadas, que parece indicar que se trataba de dos casas distintas unidas posteriormente. Ello se apreciaba también en el tejado, pues aparecían dos chimeneas.  </p><p>Debía ser una de las casas más antiguas del pueblo, como lo atestiguaban sus pequeñas ventanas, una de ellas coronada por un dintel con diseño de arco conopial. En el otro dintel aparecía un símbolo grabado.</p><p>En la actualidad está remodelada en su aspecto exterior, pues han variado sus ventanas y puertas, las primeras agrandándose para permitir la entrada de la luz. Una de las puertas recientemente se ha convertido en un gran ventanal.</p>",
+		"images": [
+			"Granada.JPG"
+		]
 	},
 	"Navarrico": {
 		"id": 54,
