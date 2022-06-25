@@ -585,7 +585,11 @@
 		"id": 70,
 		"type": "particular-desaparecida",
 		"name": "Casa Ferrantón",
-		"description": "<p>Esta casa estaba ubicada en la zona más estrecha de la Calle Mayor. Disponía de la habitual chimenea troncocónica. A sus espaldas tenía un huerto. Una mujer de esta casa,  Adela, ayudaba a otras mujeres a traer los niños al mundo. Sus habitantes emigraron a Barcelona. Ante el estado ruinoso de la misma, fue demolida. Su solar ha sido ocupado por un huerto, continuación del que ya disponía la casa.</p>"
+		"description": "<p>Esta casa estaba ubicada en la zona más estrecha de la Calle Mayor. Disponía de la habitual chimenea troncocónica. A sus espaldas tenía un huerto. Una mujer de esta casa,  Adela, ayudaba a otras mujeres a traer los niños al mundo. Sus habitantes emigraron a Barcelona. Ante el estado ruinoso de la misma, fue demolida. Su solar ha sido ocupado por un huerto, continuación del que ya disponía la casa.</p>",
+		"images": [
+			"Ferranton.JPG",
+			"Ferranton2.JPG"
+		]
 	},
 	"Estanquero": {
 		"id": 71,
@@ -904,7 +908,10 @@
 		"id": 113,
 		"type": "particular-desaparecida",
 		"name": "Casa Roñaque",
-		"description": "<p>Se encontraba en la zona más baja del pueblo, próxima a la carretera. Se situaba junto al anexo de casa de Buey, separada de éste por un estrecho callizo. Es la única casa que, por la posición de la puerta, parecía estar de espaldas a las demás, pues miraba hacia el Pirineo. En el año 1982 aún estaba en pie, aunque en estado ruinoso, con el tejado completamente hundido. Fue demolida. Susana, hija de Antonio de Buey,  compró el solar con la intención de hacer una casa, pero, finalmente, de momento, no se ha construido nada.</p>"
+		"description": "<p>Se encontraba en la zona más baja del pueblo, próxima a la carretera. Se situaba junto al anexo de casa de Buey, separada de éste por un estrecho callizo. Es la única casa que, por la posición de la puerta, parecía estar de espaldas a las demás, pues miraba hacia el Pirineo. En el año 1982 aún estaba en pie, aunque en estado ruinoso, con el tejado completamente hundido. Fue demolida. Susana, hija de Antonio de Buey,  compró el solar con la intención de hacer una casa, pero, finalmente, de momento, no se ha construido nada.</p>",
+		"images": [
+			"Roñaque.JPG"
+		]
 	},
 	"ZZZAnaya": {
 		"id": 114,
@@ -922,7 +929,11 @@
 		"id": 116,
 		"type": "particular-desaparecida",
 		"name": "Casa Tejedor",
-		"description": "<p>La casa pudo ser de Babil. Los últimos que vivieron en ella fueron Paquita y Miguel Galindo.</p><p>Un antepasado de Miguel Galindo, antes de residir en esta casa, vivíó en unas dependencias a las que se accedía desde la zona en la que Casa de Huertalo hace esquina con Casa de Alamán. Debía tratarse de un lugar estrecho y alargado, situado entre las casas de Alamán, Jiménez y tal vez Sastrelargo, sin salida a la calle. En esa zona, en 1863 se nombra un corral de Miguel Galindo lindante con Casa de Huertalo.</p><p>Suponemos que el nombre deriva del oficio que ejercieron en algún momento sus moradores.</p><p>En 1984 Casa de Tejedor aún se encontraba en pie. Era una casa realmente peculiar, que no había sufrido transformaciones con el transcurso del tiempo. Su fachada se asomaba curiosa a la Plaza, con su tejado a tres vertientes. Sus ventanas eran pequeñas, pero suficientes para que Paquita, su última propietaria, se asomara a través de ellas, entre macetas, en una imagen entrañable y familiar. La casa tenía la portalada con el dintel característico. Estaba revocada con cal, cuya blancura resplandecía, a pesar de los desconchones, bajo el intenso sol del verano. Esa blancura aumentaba cuando tendían ropa blanca. La casa estaba dotada de un largo banqué en el que Paquita colocaba sus macetas a base de pozales de cinc y grandes latas, como era habitual en aquellos tiempos. </p><p>Ángel Orensanz, en una visita que hizo al pueblo, recreó la casa en un cuadro, en base a los recuerdos que en aquel momento le vinieron a la mente.</p><p>No fue el único que se interesó por la estética de esta casa. Ángel Mesado también le hizo fotografías, pues le llamaba la atención su arquitectura, tan típica.</p><p>La casa comenzó a curvar su fachada de forma peligrosa, y fue necesario demolerla.</p>"
+		"description": "<p>La casa pudo ser de Babil. Los últimos que vivieron en ella fueron Paquita y Miguel Galindo.</p><p>Un antepasado de Miguel Galindo, antes de residir en esta casa, vivíó en unas dependencias a las que se accedía desde la zona en la que Casa de Huertalo hace esquina con Casa de Alamán. Debía tratarse de un lugar estrecho y alargado, situado entre las casas de Alamán, Jiménez y tal vez Sastrelargo, sin salida a la calle. En esa zona, en 1863 se nombra un corral de Miguel Galindo lindante con Casa de Huertalo.</p><p>Suponemos que el nombre deriva del oficio que ejercieron en algún momento sus moradores.</p><p>En 1984 Casa de Tejedor aún se encontraba en pie. Era una casa realmente peculiar, que no había sufrido transformaciones con el transcurso del tiempo. Su fachada se asomaba curiosa a la Plaza, con su tejado a tres vertientes. Sus ventanas eran pequeñas, pero suficientes para que Paquita, su última propietaria, se asomara a través de ellas, entre macetas, en una imagen entrañable y familiar. La casa tenía la portalada con el dintel característico. Estaba revocada con cal, cuya blancura resplandecía, a pesar de los desconchones, bajo el intenso sol del verano. Esa blancura aumentaba cuando tendían ropa blanca. La casa estaba dotada de un largo banqué en el que Paquita colocaba sus macetas a base de pozales de cinc y grandes latas, como era habitual en aquellos tiempos. </p><p>Ángel Orensanz, en una visita que hizo al pueblo, recreó la casa en un cuadro, en base a los recuerdos que en aquel momento le vinieron a la mente.</p><p>No fue el único que se interesó por la estética de esta casa. Ángel Mesado también le hizo fotografías, pues le llamaba la atención su arquitectura, tan típica.</p><p>La casa comenzó a curvar su fachada de forma peligrosa, y fue necesario demolerla.</p>",
+		"images": [
+			"Tejedor.JPG",
+			"Tejedor2.JPG"
+		]
 	},
 	"Piquero": {
 		"id": 117,
