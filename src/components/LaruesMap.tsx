@@ -16,12 +16,12 @@ const viewboxH = 199.23126;
 export function LaruesMap({ createHouseList, openModal }) {
 
     const getHousesData= async () => {
-        const housesData = await fetch('data/houses.json', fetchOptions)
+        const housesData = await fetch('data/houses.json?version=1', fetchOptions)
         return housesData.json();
     }
 
     const getConfigData= async () => {
-        const configData = await fetch('data/config.json', fetchOptions);
+        const configData = await fetch('data/config.json?version=1', fetchOptions);
         return configData.json();
     }
 
@@ -63,7 +63,7 @@ export function LaruesMap({ createHouseList, openModal }) {
 
     return (
         <Fragment>
-            <object ref={mapRef} data={process.env.PUBLIC_URL + '/images/casas.svg'} onLoad={onSvgLoaded}
+            <object ref={mapRef} data={process.env.PUBLIC_URL + '/images/casas.svg?version=1'} onLoad={onSvgLoaded}
                     width="100%" height="100%" data-iframe-height>Mapa de casas</object>
         </Fragment >
     );

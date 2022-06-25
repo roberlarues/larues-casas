@@ -7,14 +7,14 @@ export function Help() {
         <p className='only-pc'>Mueve el cursor sobre las casas y zonas para ver su nombre. Haz click para ver imágenes e información adicional</p>
         <p className='only-mobile'>Toca las casas y zonas para ver el nombre, imágenes e información adicional.</p>
 
+        <h4>Zoom</h4>
+        <p className='only-pc'>Puedes girar la ruleta del ratón para agrandar el mapa. Pulsa la misma ruleta para desplazarte sobre el mapa.</p>
+        <p className='only-mobile'>Puedes realizar el gesto de ampliar con 2 dedos para agrandar el mapa. Puedes moverte por el mapa desplazando 2 dedos sobre él.</p>
+
         <div className="help-side-menu">
             <h4>Menú lateral</h4>
             <p>Toca el botón <i className="fas fa-bars"/> para abrir el botón lateral. Toca el botón <i className="fas fa-times"/> para cerrarlo.</p>
         </div>
-
-        <h4>Zoom</h4>
-        <p className='only-pc'>Puedes girar la ruleta del ratón para agrandar el mapa. Pulsa la misma ruleta para desplazarte sobre el mapa.</p>
-        <p className='only-mobile'>Puedes realizar el gesto de ampliar con 2 dedos para agrandar el mapa. Puedes moverte por el mapa desplazando 2 dedos sobre él.</p>
 
         <h4>Leyenda</h4>
         <p>Puedes activar o desactivar los elementos del mapa desde la leyenda del menú lateral.</p>

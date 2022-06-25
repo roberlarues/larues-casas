@@ -23,7 +23,7 @@ export function HouseList({ houseList, openModal }) {
             <h4>Lista de casas</h4>
             <input type="text" placeholder="Buscar..." onInput={handleOnInput}/>
             {filteredList.length > 0 ?
-                <ul>
+                <ul className="house-list">
                     {filteredList.map((house: House) => <HouseListItem house={house} key={house.id} openModal={openModal}/>)}
                 </ul>
                 : <span className="no-result">No hay resultados</span>
