@@ -4,37 +4,43 @@
       "label": "Casas particulares",
       "color": "orange",
       "lightcolor": "#ffa50073",
-      "enabled": true
+      "enabled": true,
+      "clickable": true
     },
     "particular-desaparecida": {
       "label": "Casas desaparecidas",
       "color": "orangered",
       "lightcolor": "#ff45006e",
-      "enabled": true
+      "enabled": true,
+      "clickable": true
     },
     "public": {
       "label": "Edificios públicos",
       "color": "red",
       "lightcolor": "#ff000063",
-      "enabled": true
+      "enabled": true,
+      "clickable": true
     },
     "zone": {
       "label": "Zonas de uso público",
       "color": "seagreen",
       "lightcolor": "#2e8b5791",
-      "enabled": true
+      "enabled": true,
+      "clickable": true
     },
     "street": {
       "label": "Calles",
       "color": "purple",
       "lightcolor": "#db64ed61",
-      "enabled": false
+      "enabled": false,
+      "clickable": false
     },
     "parking": {
       "label": "Aparcamientos",
       "color": "cornflowerblue",
       "lightcolor": "#6495ed61",
-      "enabled": false
+      "enabled": false,
+      "clickable": false
     }
   },
   "default-image": "no_image.svg",

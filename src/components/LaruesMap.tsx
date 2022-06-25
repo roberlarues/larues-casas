@@ -77,6 +77,7 @@ function configureHouse(house: House, configData: any, openModal: (house: House)
 
     house.highlightOff();
     house.setEnabled(configData['house-type'][house.type].enabled);
+    house.clickable = configData['house-type'][house.type].clickable;
 
     if (house.mapElement) {
         house.mapElement.setAttribute('title', house.name);
@@ -113,14 +114,17 @@ function configureHouse(house: House, configData: any, openModal: (house: House)
                 house.highlightOff()
             }
         });
-        house.mapElement.addEventListener('click', () => {
-            if (house.enabled) {
-                if (document.body.contains(house.tooltip)) {
-                    document.body.removeChild(house.tooltip);
+
+        if (house.clickable) {
+            house.mapElement.addEventListener('click', () => {
+                if (house.enabled) {
+                    if (document.body.contains(house.tooltip)) {
+                        document.body.removeChild(house.tooltip);
+                    }
+                    openModal(house)
                 }
-                openModal(house)
-            }
-        });
+            });
+        }
     }
 }
 

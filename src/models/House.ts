@@ -7,6 +7,7 @@ export class House extends HouseData {
     listElement: HTMLElement;
     tooltip: HTMLSpanElement;
     enabled = true;
+    clickable = true;
 
     constructor(key: string, mapElement: SVGPathElement, houseData: HouseData) {
         super();
@@ -18,11 +19,14 @@ export class House extends HouseData {
     highlightOn(): void {
         if (this.mapElement) {
             this.mapElement.style.fillOpacity = '0.5';
-            this.mapElement.style.cursor = 'pointer'
+
+            if (this.clickable) {
+                this.mapElement.style.cursor = 'pointer'
+            }
         }
 
         if (this.listElement) {
-            this.listElement.className = 'highlight';
+            this.listElement.className = this.clickable ? 'highlight' : 'highlight-no-clickable';
         } else {
             console.log('no element ;(')
         }

@@ -11,8 +11,13 @@
     width: fit-content;
 }
 
+.highlight-no-clickable {
+    font-weight: bold;
+    cursor: default;
+    width: fit-content;
+}
+
 .no-highlight {
-    cursor: pointer;
     width: fit-content;
 }
 

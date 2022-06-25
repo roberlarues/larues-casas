@@ -38,7 +38,9 @@ function HouseListItem({ house, openModal }) {
     useEffect( () => house.listElement = listItemRef.current, [house]);
 
     const onHouseClick = () => {
-        openModal(house);
+        if (house.clickable) {
+            openModal(house);
+        }
     }
 
     return (
