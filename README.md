@@ -1,5 +1,5 @@
 # Mapa de casas de Larués
-Mapa interactivo con las casas del pueblo de Larués para el sitio [pueblodelarues.es](https://pueblodelarues.es).
+Mapa interactivo con las casas del pueblo de Larués para el sitio [pueblodelarues.es](https://pueblodelarues.es/index.php/conoce-larues/casco-urbano/casas/).
 
 ## Capturas
 ![Alt text](https://pueblodelarues.es/screenshots/visor-casas.png)
