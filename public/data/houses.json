@@ -585,7 +585,7 @@
 		"id": 70,
 		"type": "particular-desaparecida",
 		"name": "Casa Ferrantón",
-		"description": "<p>Esta casa estaba ubicada en la zona más estrecha de la Calle Mayor. Disponía de la habitual chimenea troncocónica. A sus espaldas tenía un huerto. Una mujer de esta casa,  Adela, ayudaba a otras mujeres a traer los niños al mundo. Sus habitantes emigraron a Barcelona. Ante el estado ruinoso de la misma, fue demolida. Su solar ha sido ocupado por un huerto, continuación del que ya disponía la casa.</p>",
+		"description": "<p>Esta casa estaba ubicada en la zona más estrecha de la Calle Mayor. Disponía de la habitual chimenea troncocónica. A sus espaldas tenía un huerto. Una mujer de esta casa,  Vicenta, ayudaba a otras mujeres a traer los niños al mundo. Sus habitantes emigraron a Barcelona. Ante el estado ruinoso de la misma, fue demolida. Su solar ha sido ocupado por un huerto, continuación del que ya disponía la casa.</p>",
 		"images": [
 			"Ferranton.JPG",
 			"Ferranton2.JPG"
@@ -893,7 +893,7 @@
 		"id": 111,
 		"type": "particular",
 		"name": "Casa Fernando de Miguelanaya",
-		"description": "<p>Esta casa es moderna, y se levantó en lo que antes era un corral de Miguel Anaya que, muchos años antes, había pertenecido a Casa de Indalecio.  El aspecto de su fachada es funcional, presentando dos  balcones-ventana en el primer piso para permitir la entrada de la luz, ya que está orientado al mediodía. Dispone también de puerta de acceso al garaje. Una chimenea corona la silueta del tejado, rompiendo así la sobriedad de la construcción. En el revoque asoman algunas piedras decorativas.</p>",
+		"description": "<p>Esta casa es moderna, y se levantó en lo que antes era un corral de Miguel Anaya. Este corral fue adquirido en 1910 por Francisco Giménez Bailo de casa de Miguelanaya a Lorenzo Solana Iñiguez de casa de Bernardo, quien a su vez lo había comprado en 1906 a Francisco Ara de casa de Indalecio. El aspecto de su fachada es funcional, presentando dos  balcones-ventana en el primer piso para permitir la entrada de la luz, ya que está orientado al mediodía. Dispone también de puerta de acceso al garaje. Una chimenea corona la silueta del tejado, rompiendo así la sobriedad de la construcción. En el revoque asoman algunas piedras decorativas.</p>",
 		"images": [
 			"FdoMiguelanaya.JPG"
 		]
@@ -961,5 +961,11 @@
 		"type": "parking",
 		"name": "Aparcamiento",
 		"description": ""
+	},
+	"Nepal": {
+		"id": 121,
+		"type": "particular",
+		"name": "Casa Nepal",
+		"description": "<p>Casa Nepal, conocida por algunos como \"El Chaflán\" por su forma, es una de las viviendas más recientemente construidas.</p>"
 	}
 }
