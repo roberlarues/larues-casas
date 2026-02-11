@@ -53,6 +53,15 @@ jobs:
           node-version: "20"
           cache: ${{ steps.detect-package-manager.outputs.manager }}
           cache-dependency-path: ${{ env.BUILD_PATH }}/${{ steps.detect-package-manager.outputs.lockfile }}
+      - name: Debug - List files
+        run: |
+          echo "Current directory:"
+          pwd
+          echo "Listing files:"
+          ls -la
+          echo "Checking if public directory exists:"
+          ls -la public/ || echo "public directory not found"
+        working-directory: ${{ env.BUILD_PATH }}
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
         working-directory: ${{ env.BUILD_PATH }}
@@ -63,7 +72,7 @@ jobs:
         run: |
           echo "${{ secrets.SSH_KEY }}" > sshkey
           chmod 600 sshkey
-          scp -P 2255 -i sshkey -o StrictHostKeyChecking=no -r dist deploy@pueblodelarues.es:/home/deploy/larues-casas
+          scp -P 2255 -i sshkey -o StrictHostKeyChecking=no -r build deploy@pueblodelarues.es:/home/deploy/larues-casas
         working-directory: ${{ env.BUILD_PATH }}
       - name: Deploy
         uses: appleboy/ssh-action@master
